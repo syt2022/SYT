@@ -1,0 +1,4218 @@
+[
+  {
+    "en": "Marine Squad",
+    "cn": "陆战队员"
+  },
+  {
+    "en": "Reaper Gang",
+    "cn": "收鸽者"
+  },
+  {
+    "en": "Marauder Squad",
+    "cn": "劫掠者小队"
+  },
+  {
+    "en": "Thor",
+    "cn": "雷神（分裂弹头）"
+  },
+  {
+    "en": "Cyclone Detachment",
+    "cn": "飓风小队"
+  },
+  {
+    "en": "Viking Fighters",
+    "cn": "维京封锁"
+  },
+  {
+    "en": "Strike Team",
+    "cn": "突击队"
+  },
+  {
+    "en": "Hellion Outriders",
+    "cn": "恶火小队"
+  },
+  {
+    "en": "Marine Blitz",
+    "cn": "马润闪击"
+  },
+  {
+    "en": "Banshee Skywatch",
+    "cn": "女妖守望者"
+  },
+  {
+    "en": "Bunker",
+    "cn": "地堡"
+  },
+  {
+    "en": "Twin Turrets",
+    "cn": "双生防空塔"
+  },
+  {
+    "en": "Barracks",
+    "cn": "兵营"
+  },
+  {
+    "en": "Factory",
+    "cn": "重工厂"
+  },
+  {
+    "en": "Engineering Bay",
+    "cn": "工程站"
+  },
+  {
+    "en": "Supply Drop",
+    "cn": "奥术愚蠢"
+  },
+  {
+    "en": "Yamato Cannon",
+    "cn": "大河炮"
+  },
+  {
+    "en": "Scanner Sweep",
+    "cn": "太阳拳"
+  },
+  {
+    "en": "Seeker Missiles",
+    "cn": "猎杀飞弹"
+  },
+  {
+    "en": "Stimpack",
+    "cn": "兴奋剂"
+  },
+  {
+    "en": "Siege Tanks",
+    "cn": "攻城坦克"
+  },
+  {
+    "en": "Ghost Operatives",
+    "cn": "幽灵特别行动队"
+  },
+  {
+    "en": "Widow Mines",
+    "cn": "寡妇雷"
+  },
+  {
+    "en": "Operation Clearsky",
+    "cn": "净空计划"
+  },
+  {
+    "en": "Reaper Ambush",
+    "cn": "收鸽者伏击"
+  },
+  {
+    "en": "Repair Crew",
+    "cn": "修理队"
+  },
+  {
+    "en": "Medivac Runners",
+    "cn": "医疗救援队"
+  },
+  {
+    "en": "Raven Support",
+    "cn": "铁鸦速援"
+  },
+  {
+    "en": "Supply Depot",
+    "cn": "补给站"
+  },
+  {
+    "en": "Sensor Tower",
+    "cn": "感应塔"
+  },
+  {
+    "en": "Refinery",
+    "cn": "气矿"
+  },
+  {
+    "en": "Starport",
+    "cn": "星港"
+  },
+  {
+    "en": "MULE",
+    "cn": "矿螺"
+  },
+  {
+    "en": "Strike Cannons",
+    "cn": "突击炮火"
+  },
+  {
+    "en": "Reactor",
+    "cn": "反应堆挂件"
+  },
+  {
+    "en": "Steady Targeting",
+    "cn": "精准狙杀"
+  },
+  {
+    "en": "Battlecruiser",
+    "cn": "泰伦快乐船"
+  },
+  {
+    "en": "Liberation Zone",
+    "cn": "诛仙剑阵"
+  },
+  {
+    "en": "Doom Drop",
+    "cn": "地狱空投"
+  },
+  {
+    "en": "Perched Artillery",
+    "cn": "高地火炮"
+  },
+  {
+    "en": "Entrench",
+    "cn": "城市化"
+  },
+  {
+    "en": "Fusion Core",
+    "cn": "聚变核心"
+  },
+  {
+    "en": "Armory",
+    "cn": "军械库"
+  },
+  {
+    "en": "Reconstruction",
+    "cn": "重建"
+  },
+  {
+    "en": "Tactical Nuke",
+    "cn": "战术核弹"
+  },
+  {
+    "en": "Tech Lab",
+    "cn": "科技挂件"
+  },
+  {
+    "en": "Hyperion",
+    "cn": "休伯利安"
+  },
+  {
+    "en": "Odin",
+    "cn": "奥丁"
+  },
+  {
+    "en": "Jim Raynor",
+    "cn": "吉姆雷诺"
+  },
+  {
+    "en": "Nova",
+    "cn": "诺娃"
+  },
+  {
+    "en": "Zergling Pack",
+    "cn": "跳虫"
+  },
+  {
+    "en": "Baneling Pack",
+    "cn": "毒爆虫"
+  },
+  {
+    "en": "Roach Cluster",
+    "cn": "蟑螂"
+  },
+  {
+    "en": "Hydralisk Cluster",
+    "cn": "刺蛇"
+  },
+  {
+    "en": "Mutalisk Flock",
+    "cn": "飞龙"
+  },
+  {
+    "en": "Savage Ultralisks",
+    "cn": "雷兽"
+  },
+  {
+    "en": "Overseer",
+    "cn": "眼虫"
+  },
+  {
+    "en": "Zergling Swarm",
+    "cn": "跳虫群"
+  },
+  {
+    "en": "Burrowed Ambush",
+    "cn": "埋地伏击"
+  },
+  {
+    "en": "Invading Host",
+    "cn": "大举入侵"
+  },
+  {
+    "en": "Rolling Banelings",
+    "cn": "滚滚红尘"
+  },
+  {
+    "en": "Infested Marines",
+    "cn": "被感染的雷神"
+  },
+  {
+    "en": "Spawning Pool",
+    "cn": "血池"
+  },
+  {
+    "en": "Roach Warren",
+    "cn": "蟑螂巢"
+  },
+  {
+    "en": "Hydralisk Den",
+    "cn": "刺蛇巢"
+  },
+  {
+    "en": "Spine Crawlers",
+    "cn": "脊针爬虫"
+  },
+  {
+    "en": "Spore Crawlers",
+    "cn": "孢子爬虫"
+  },
+  {
+    "en": "Metabolic Boost",
+    "cn": "代谢加速"
+  },
+  {
+    "en": "Grooved Spines",
+    "cn": "增生刺槽"
+  },
+  {
+    "en": "Binding Creep",
+    "cn": "凝血菌滩"
+  },
+  {
+    "en": "Unstable Broodlings",
+    "cn": "不稳定的巢虫"
+  },
+  {
+    "en": "Brood Lords",
+    "cn": "巢虫领主"
+  },
+  {
+    "en": "Caustic Corruptors",
+    "cn": "虫群腐化"
+  },
+  {
+    "en": "Swarm Hosts",
+    "cn": "宿主"
+  },
+  {
+    "en": "Sieging Ravagers",
+    "cn": "火蟑螂"
+  },
+  {
+    "en": "Frenzied Zerglings",
+    "cn": "提速狗"
+  },
+  {
+    "en": "Overlord",
+    "cn": "王虫"
+  },
+  {
+    "en": "Larval Queens",
+    "cn": "注卵虫后"
+  },
+  {
+    "en": "Infestors",
+    "cn": "感染者"
+  },
+  {
+    "en": "Changeling",
+    "cn": "内鬼"
+  },
+  {
+    "en": "Excreting Overseer",
+    "cn": "喷吐型眼虫"
+  },
+  {
+    "en": "Baneling Nest",
+    "cn": "爆虫巢穴"
+  },
+  {
+    "en": "Spire",
+    "cn": "尖塔"
+  },
+  {
+    "en": "Extractor",
+    "cn": "气矿"
+  },
+  {
+    "en": "Evolution Chamber",
+    "cn": "进化腔"
+  },
+  {
+    "en": "Inject Larva",
+    "cn": "力量结合"
+  },
+  {
+    "en": "Creeping Queens",
+    "cn": "菌滩虫后"
+  },
+  {
+    "en": "Burrowing Lurkers",
+    "cn": "地刺"
+  },
+  {
+    "en": "Tunneling Roaches",
+    "cn": "蟑螂突袭"
+  },
+  {
+    "en": "Parasitic Vipers",
+    "cn": "飞蛇"
+  },
+  {
+    "en": "Baneling Bombs",
+    "cn": "基洛夫空艇"
+  },
+  {
+    "en": "Ultralisk Cavern",
+    "cn": "大牛塔"
+  },
+  {
+    "en": "Nydus Network",
+    "cn": "坑道网络"
+  },
+  {
+    "en": "Greater Spire",
+    "cn": "大龙塔"
+  },
+  {
+    "en": "Mass Mutation",
+    "cn": "大型突变"
+  },
+  {
+    "en": "Neural Parasite",
+    "cn": "神经寄生"
+  },
+  {
+    "en": "Leviathan",
+    "cn": "利维坦"
+  },
+  {
+    "en": "Kilysa",
+    "cn": "克莉莎"
+  },
+  {
+    "en": "Kerrigan",
+    "cn": "凯丽甘"
+  },
+  {
+    "en": "Dehaka",
+    "cn": "德哈卡"
+  },
+  {
+    "en": "Ardent Zealots",
+    "cn": "狂热者"
+  },
+  {
+    "en": "Blinking Stalkers",
+    "cn": "闪现鸡猎"
+  },
+  {
+    "en": "Shifting Adepts",
+    "cn": "使徒"
+  },
+  {
+    "en": "Phoenix Formation",
+    "cn": "凤凰方阵"
+  },
+  {
+    "en": "Void Rays",
+    "cn": "虚空舰"
+  },
+  {
+    "en": "Immortal Phalanx",
+    "cn": "不朽者"
+  },
+  {
+    "en": "Towering Colossi",
+    "cn": "参天巨像"
+  },
+  {
+    "en": "Observer",
+    "cn": "瞧尔萨斯"
+  },
+  {
+    "en": "Warp Prism",
+    "cn": "折跃棱镜"
+  },
+  {
+    "en": "Devoted Defenders",
+    "cn": "忠诚的捍卫者"
+  },
+  {
+    "en": "Gateway",
+    "cn": "折越门"
+  },
+  {
+    "en": "Photon Cannons",
+    "cn": "光子炮台"
+  },
+  {
+    "en": "Shield Batteries",
+    "cn": "护盾电池"
+  },
+  {
+    "en": "Pylon",
+    "cn": "水晶塔"
+  },
+  {
+    "en": "Psionic Storm",
+    "cn": "闪电风暴"
+  },
+  {
+    "en": "Graviton Beam",
+    "cn": "举高高"
+  },
+  {
+    "en": "Chrono Boost",
+    "cn": "时空加速"
+  },
+  {
+    "en": "Stasis Wards",
+    "cn": "静滞陷阱"
+  },
+  {
+    "en": "Delusive Sentries",
+    "cn": "幻象哨兵"
+  },
+  {
+    "en": "Warp Probe",
+    "cn": "折跃信标"
+  },
+  {
+    "en": "Carrier",
+    "cn": "航母"
+  },
+  {
+    "en": "Shielding Sentries",
+    "cn": "护盾烧饼"
+  },
+  {
+    "en": "Impending Tempests",
+    "cn": "迫近的风暴"
+  },
+  {
+    "en": "Dark Templar",
+    "cn": "黑暗圣堂武士"
+  },
+  {
+    "en": "High Templar",
+    "cn": "高阶圣堂武士"
+  },
+  {
+    "en": "Discerning Oracles",
+    "cn": "感知神谕"
+  },
+  {
+    "en": "Infiltrating Adepts",
+    "cn": "移形换影的使徒"
+  },
+  {
+    "en": "Nerazim Assassins",
+    "cn": "奈拉齐姆暗杀者"
+  },
+  {
+    "en": "Stargate",
+    "cn": "星门"
+  },
+  {
+    "en": "Forge",
+    "cn": "锻炉"
+  },
+  {
+    "en": "Cybernetics Core",
+    "cn": "控制芯核"
+  },
+  {
+    "en": "Assimilator",
+    "cn": "气矿"
+  },
+  {
+    "en": "Twilight Council",
+    "cn": "光影议会"
+  },
+  {
+    "en": "Feedback",
+    "cn": "反馈"
+  },
+  {
+    "en": "Photon Overcharge",
+    "cn": "光子过载"
+  },
+  {
+    "en": "Warp Gate",
+    "cn": "折跃"
+  },
+  {
+    "en": "Golden Armada",
+    "cn": "黄金舰队"
+  },
+  {
+    "en": "Merging Archons",
+    "cn": "赛亚人合体"
+  },
+  {
+    "en": "Warp Offensive",
+    "cn": "折跃攻势"
+  },
+  {
+    "en": "Barraging Disruptors",
+    "cn": "NOOB炸屎球"
+  },
+  {
+    "en": "Robotics Facility",
+    "cn": "机械台"
+  },
+  {
+    "en": "Fleet Beacon",
+    "cn": "舰队航标"
+  },
+  {
+    "en": "Templar Archives",
+    "cn": "色图馆"
+  },
+  {
+    "en": "Dark Shrine",
+    "cn": "黑暗圣坛"
+  },
+  {
+    "en": "Vortex",
+    "cn": "黑洞"
+  },
+  {
+    "en": "Replicate",
+    "cn": "复制"
+  },
+  {
+    "en": "Phase-Smith Karax",
+    "cn": "相位笨比凯拉克斯"
+  },
+  {
+    "en": "Zeratul",
+    "cn": "泽拉图"
+  },
+  {
+    "en": "Artanis",
+    "cn": "集结者阿塔尼斯"
+  },
+  {
+    "en": "Mothership Core",
+    "cn": "萝莉船"
+  },
+  {
+    "en": "Transformed Thor",
+    "cn": "雷神（冲鸡弹头）"
+  },
+  {
+    "en": "Viking Pillagers",
+    "cn": "维京掠夺者"
+  },
+  {
+    "en": "Hellbat Assault",
+    "cn": "火爹侠突击"
+  },
+  {
+    "en": "Mobile Tanks",
+    "cn": "机动坦克"
+  },
+  {
+    "en": "Liberator Fleet",
+    "cn": "解放者舰队"
+  },
+  {
+    "en": "Canister Shot",
+    "cn": "霰弹枪"
+  },
+  {
+    "en": "Hellfire Assault",
+    "cn": "地狱火攻击"
+  },
+  {
+    "en": "Stealth Mission",
+    "cn": "潜行战服"
+  },
+  {
+    "en": "System Hack",
+    "cn": "系统黑客"
+  },
+  {
+    "en": "Reconnaissance",
+    "cn": "侦查"
+  },
+  {
+    "en": "Vanish",
+    "cn": "卡其脱离太"
+  },
+  {
+    "en": "Zergling Spawn",
+    "cn": "跳虫卵"
+  },
+  {
+    "en": "Baneling Spawn",
+    "cn": "爆虫卵"
+  },
+  {
+    "en": "Roach Spawn",
+    "cn": "蟑螂卵"
+  },
+  {
+    "en": "Hydralisk Spawn",
+    "cn": "刺蛇卵"
+  },
+  {
+    "en": "Mutalisk Spawn",
+    "cn": "飞龙卵"
+  },
+  {
+    "en": "Corruptor Spawn",
+    "cn": "腐化卵"
+  },
+  {
+    "en": "Ultralisk Spawn",
+    "cn": "雷兽卵"
+  },
+  {
+    "en": "Brood Lord Spawn",
+    "cn": "巢群领主卵"
+  },
+  {
+    "en": "Larval Spawn",
+    "cn": "幼虫卵"
+  },
+  {
+    "en": "Kilysa's Spawn",
+    "cn": "克莉莎的卵"
+  },
+  {
+    "en": "Swarm Them",
+    "cn": "淹没他们"
+  },
+  {
+    "en": "Defend the Hive",
+    "cn": "保卫虫巢"
+  },
+  {
+    "en": "Set an Ambush",
+    "cn": "埋地伏击"
+  },
+  {
+    "en": "Warp In",
+    "cn": "折跃援军"
+  },
+  {
+    "en": "Mothership",
+    "cn": "妈妈船"
+  },
+  {
+    "en": "Spectre Cell",
+    "cn": "幽魂小组"
+  },
+  {
+    "en": "Reaping Bombers",
+    "cn": "收鸽拆迁队"
+  },
+  {
+    "en": "War Pigs",
+    "cn": "战地豪猪"
+  },
+  {
+    "en": "Orbital Command",
+    "cn": "轨道指挥中心"
+  },
+  {
+    "en": "Desperate Offensive",
+    "cn": "九死一生"
+  },
+  {
+    "en": "Infested Horde",
+    "cn": "感染人群"
+  },
+  {
+    "en": "Brutalisk",
+    "cn": "莽受"
+  },
+  {
+    "en": "Leaping Raptors",
+    "cn": "腾跃虫"
+  },
+  {
+    "en": "Infestation Pit",
+    "cn": "感染深渊"
+  },
+  {
+    "en": "Vile Roaches",
+    "cn": "卑鄙的蟑螂"
+  },
+  {
+    "en": "Zealot Veterans",
+    "cn": "狂热者老兵"
+  },
+  {
+    "en": "Sieging Tempests",
+    "cn": "攻城风暴"
+  },
+  {
+    "en": "Chrono Probe",
+    "cn": "时空探姬"
+  },
+  {
+    "en": "Photon Array",
+    "cn": "光子阵列"
+  },
+  {
+    "en": "Undying Stalker",
+    "cn": "不死鸡猎"
+  },
+  {
+    "en": "Firebat Squad",
+    "cn": "火蝠小队"
+  },
+  {
+    "en": "Goliath Company",
+    "cn": "歌利亚团"
+  },
+  {
+    "en": "Wraith Fleet",
+    "cn": "怨灵舰队"
+  },
+  {
+    "en": "Conscripted Marines",
+    "cn": "强征兵"
+  },
+  {
+    "en": "Recon Squad",
+    "cn": "侦察小队"
+  },
+  {
+    "en": "Tarsonis Turrets",
+    "cn": "塔桑尼斯防空阵"
+  },
+  {
+    "en": "Badlands Garage",
+    "cn": "荒原车库"
+  },
+  {
+    "en": "Spider Minefield",
+    "cn": "蜘蛛雷区"
+  },
+  {
+    "en": "Irradiate",
+    "cn": "辐照"
+  },
+  {
+    "en": "Tax the Colonies",
+    "cn": "殖民地征税"
+  },
+  {
+    "en": "Ghost Trainees",
+    "cn": "幽灵新兵"
+  },
+  {
+    "en": "Vulture Clan",
+    "cn": "秃鹫小队"
+  },
+  {
+    "en": "Science Vessels",
+    "cn": "科学船"
+  },
+  {
+    "en": "Tarsonis Battalion",
+    "cn": "塔桑尼斯营"
+  },
+  {
+    "en": "Tarsonis Commander",
+    "cn": "塔桑尼斯指挥官"
+  },
+  {
+    "en": "Research Facility",
+    "cn": "异虫研究所"
+  },
+  {
+    "en": "Council Corruption",
+    "cn": "贿赂议会"
+  },
+  {
+    "en": "Machine Shop",
+    "cn": "歌莉娅科技挂件"
+  },
+  {
+    "en": "22nd Division",
+    "cn": "22师"
+  },
+  {
+    "en": "Alpha Fleet",
+    "cn": "阿尔法舰队"
+  },
+  {
+    "en": "Ghost Academy",
+    "cn": "幽灵学院"
+  },
+  {
+    "en": "Backwater Station",
+    "cn": "死水基地"
+  },
+  {
+    "en": "Korhal's Destruction",
+    "cn": "克哈毁灭"
+  },
+  {
+    "en": "Resocialization",
+    "cn": "再社会化"
+  },
+  {
+    "en": "Norad II",
+    "cn": "诺拉德二号"
+  },
+  {
+    "en": "Kerrigan, Assassin",
+    "cn": "暗杀者凯瑞甘"
+  },
+  {
+    "en": "Raynor, Rebel",
+    "cn": "起义军雷诺"
+  },
+  {
+    "en": "Scourge Cloud",
+    "cn": "爆蚊军团"
+  },
+  {
+    "en": "Hive Guardians",
+    "cn": "母巢卫士"
+  },
+  {
+    "en": "Endless Swarm",
+    "cn": "无尽虫群"
+  },
+  {
+    "en": "Stray Mutalisks",
+    "cn": "迷途的飞龙"
+  },
+  {
+    "en": "Volatile Infested",
+    "cn": "易爆的被感染者"
+  },
+  {
+    "en": "Mobile Pack",
+    "cn": "机动小队"
+  },
+  {
+    "en": "Sunken Colony",
+    "cn": "潜隐菌落"
+  },
+  {
+    "en": "Flyer Carapace",
+    "cn": "飞行甲壳"
+  },
+  {
+    "en": "Chitinous Plating",
+    "cn": "外挂式甲壳"
+  },
+  {
+    "en": "Dune Runner DNA",
+    "cn": "小狗 DNA"
+  },
+  {
+    "en": "Hunter Killers",
+    "cn": "屠猎者"
+  },
+  {
+    "en": "Brood Queens",
+    "cn": "母巢之战虫后"
+  },
+  {
+    "en": "Eyes of the Overmind",
+    "cn": "主宰之眼"
+  },
+  {
+    "en": "Aerial Invasion",
+    "cn": "空中入侵"
+  },
+  {
+    "en": "Acidic Spire",
+    "cn": "酸性尖塔"
+  },
+  {
+    "en": "Escaped Experiments",
+    "cn": "收容失效"
+  },
+  {
+    "en": "Metasynaptic Node",
+    "cn": "后突触节点"
+  },
+  {
+    "en": "Slothien DNA",
+    "cn": "刺蛇 DNA"
+  },
+  {
+    "en": "Blacken the Sky",
+    "cn": "遮天蔽日"
+  },
+  {
+    "en": "Foul Defilers",
+    "cn": "蝎子"
+  },
+  {
+    "en": "Creep Colony",
+    "cn": "菌滩菌落"
+  },
+  {
+    "en": "Brontolith DNA",
+    "cn": "大牛 DNA"
+  },
+  {
+    "en": "Deep Infestation",
+    "cn": "偷鸡摸狗"
+  },
+  {
+    "en": "Psionic Attraction",
+    "cn": "灵能引诱"
+  },
+  {
+    "en": "Overmind",
+    "cn": "主宰"
+  },
+  {
+    "en": "Torrasque",
+    "cn": "托雷斯克"
+  },
+  {
+    "en": "Kerrigan's Chrysalis",
+    "cn": "凯瑞甘的茧"
+  },
+  {
+    "en": "Dragoon Force",
+    "cn": "龙骑兵军团"
+  },
+  {
+    "en": "Scout Formation",
+    "cn": "侦察编队"
+  },
+  {
+    "en": "Gathering Warriors",
+    "cn": "聚集勇士"
+  },
+  {
+    "en": "Expedition Scouts",
+    "cn": "探险侦察队"
+  },
+  {
+    "en": "Wardens of Aiur",
+    "cn": "艾尔守望者"
+  },
+  {
+    "en": "Psi Matrix",
+    "cn": "灵能矩阵"
+  },
+  {
+    "en": "Aiur Gateway",
+    "cn": "艾尔传送门"
+  },
+  {
+    "en": "Cloaking Field",
+    "cn": "隐形立场"
+  },
+  {
+    "en": "Charging Zealots",
+    "cn": "冲锋狂热者"
+  },
+  {
+    "en": "Stasis Field",
+    "cn": "静滞场"
+  },
+  {
+    "en": "Reaver Advance",
+    "cn": "金甲虫先遣队"
+  },
+  {
+    "en": "Gathering Fleet",
+    "cn": "聚集舰队"
+  },
+  {
+    "en": "Planetary Surveyor",
+    "cn": "行星测量者"
+  },
+  {
+    "en": "War Robotics",
+    "cn": "战争机械"
+  },
+  {
+    "en": "Shield Matrix",
+    "cn": "护盾矩阵"
+  },
+  {
+    "en": "Mass Recall",
+    "cn": "全体召回"
+  },
+  {
+    "en": "Structural Stasis",
+    "cn": "建筑静滞"
+  },
+  {
+    "en": "Recall Suits",
+    "cn": "复活装置"
+  },
+  {
+    "en": "Dual Arbiters",
+    "cn": "双仲裁者"
+  },
+  {
+    "en": "Gathering Storm",
+    "cn": "聚集雷鸣"
+  },
+  {
+    "en": "Exiled Ones",
+    "cn": "流放者"
+  },
+  {
+    "en": "Robotics Bay",
+    "cn": "机械湾"
+  },
+  {
+    "en": "Planet Cracker",
+    "cn": "碎星炮"
+  },
+  {
+    "en": "Conclave Directive",
+    "cn": "最高议会的秘密指令"
+  },
+  {
+    "en": "Praetor Fenix",
+    "cn": "执政官菲尼克斯"
+  },
+  {
+    "en": "Gantrithor",
+    "cn": "甘翠索"
+  },
+  {
+    "en": "Tassadar",
+    "cn": "塔萨达"
+  },
+  {
+    "en": "Riot",
+    "cn": "叛乱"
+  },
+  {
+    "en": "22nd Reinforcements",
+    "cn": "22师增援部队"
+  },
+  {
+    "en": "Spider Mines",
+    "cn": "蜘蛛雷"
+  },
+  {
+    "en": "Tarsonis Security",
+    "cn": "塔桑尼斯安保"
+  },
+  {
+    "en": "Drone Research",
+    "cn": "工蜂研究"
+  },
+  {
+    "en": "Zergling Research",
+    "cn": "跳虫研究"
+  },
+  {
+    "en": "Hydralisk Research",
+    "cn": "刺蛇研究"
+  },
+  {
+    "en": "Overlord Research",
+    "cn": "王虫研究"
+  },
+  {
+    "en": "Defiler Research",
+    "cn": "污染者研究"
+  },
+  {
+    "en": "Scourge Spawn",
+    "cn": "爆蚊虫卵"
+  },
+  {
+    "en": "Torrasque Revival",
+    "cn": "托雷斯克的复生"
+  },
+  {
+    "en": "Infestation",
+    "cn": "敌对的渗透者"
+  },
+  {
+    "en": "Fenix Reborn",
+    "cn": "菲尼克斯回归"
+  },
+  {
+    "en": "Scout",
+    "cn": "侦察机"
+  },
+  {
+    "en": "Physics Lab",
+    "cn": "物理实验室"
+  },
+  {
+    "en": "Explosive Mutagen",
+    "cn": "爆炸突变体"
+  },
+  {
+    "en": "Viridescent Archons",
+    "cn": "绿色执政官"
+  },
+  {
+    "en": "Amon",
+    "cn": "艾蒙化身"
+  },
+  {
+    "en": "Moebius Scientists",
+    "cn": "莫比斯科学家"
+  },
+  {
+    "en": "Terrazine Canister",
+    "cn": "地嗪罐"
+  },
+  {
+    "en": "Loaded Valkyrie",
+    "cn": "载人瓦格雷"
+  },
+  {
+    "en": "Moebius Enforcers",
+    "cn": "莫比斯执法队"
+  },
+  {
+    "en": "Protoss Relic",
+    "cn": "星灵遗物"
+  },
+  {
+    "en": "Moebius Search Crew",
+    "cn": "莫比斯搜索队"
+  },
+  {
+    "en": "Dig For Artifacts",
+    "cn": "挖掘古代遗物"
+  },
+  {
+    "en": "Psi Disruptor",
+    "cn": "灵能干扰器"
+  },
+  {
+    "en": "Defensive Matrix",
+    "cn": "防御矩阵"
+  },
+  {
+    "en": "Underground Base",
+    "cn": "地下基地"
+  },
+  {
+    "en": "Narud's Creations",
+    "cn": "纳鲁德的造物"
+  },
+  {
+    "en": "Deserted Diamondbacks",
+    "cn": "废弃的响尾蛇"
+  },
+  {
+    "en": "Interference Matrix",
+    "cn": "干扰矩阵"
+  },
+  {
+    "en": "Egon Stetmann",
+    "cn": "一个路过的科学家"
+  },
+  {
+    "en": "Moebius Hybrid",
+    "cn": "莫比斯混合体"
+  },
+  {
+    "en": "Behemoth-I Cannons",
+    "cn": "贝希摩斯1型火炮"
+  },
+  {
+    "en": "Laboratory Supplies",
+    "cn": "实验室补给"
+  },
+  {
+    "en": "Cloaked Airstrike",
+    "cn": "隐形突袭"
+  },
+  {
+    "en": "Bloated Devourer",
+    "cn": "庞然吞噬者"
+  },
+  {
+    "en": "Swelling Eggs",
+    "cn": "鼓动的卵"
+  },
+  {
+    "en": "Ominous Egg",
+    "cn": "凶兆巨卵"
+  },
+  {
+    "en": "Mysterious Egg",
+    "cn": "神秘的卵"
+  },
+  {
+    "en": "Hybrid Reaver",
+    "cn": "混合体掠夺者"
+  },
+  {
+    "en": "Hybrid Behemoth",
+    "cn": "混合体巨兽"
+  },
+  {
+    "en": "Aberration",
+    "cn": "畸变体"
+  },
+  {
+    "en": "Abathur's Evolution",
+    "cn": "阿巴瑟式进化"
+  },
+  {
+    "en": "Unstable Locusts",
+    "cn": "不稳定的蝗虫"
+  },
+  {
+    "en": "Swarmlings",
+    "cn": "虫海"
+  },
+  {
+    "en": "Broodling Gestation",
+    "cn": "孕育巢虫"
+  },
+  {
+    "en": "Mutable Roaches",
+    "cn": "易变的蟑螂"
+  },
+  {
+    "en": "Mutable Mutalisks",
+    "cn": "易变的飞龙"
+  },
+  {
+    "en": "Mutable Overlord",
+    "cn": "易变的王虫"
+  },
+  {
+    "en": "Rolling Hunters",
+    "cn": "建筑猎手"
+  },
+  {
+    "en": "Mutation Chamber",
+    "cn": "变异腔"
+  },
+  {
+    "en": "Hybrid Nemesis",
+    "cn": "混合体天罚者"
+  },
+  {
+    "en": "Flawless Specimens",
+    "cn": "完美样本"
+  },
+  {
+    "en": "Void Rift",
+    "cn": "虚空裂隙"
+  },
+  {
+    "en": "Viridescent Stalkers",
+    "cn": "地勤守卫者"
+  },
+  {
+    "en": "Piloted Corsair",
+    "cn": "载人海盗船"
+  },
+  {
+    "en": "Void Shades",
+    "cn": "虚空幽影"
+  },
+  {
+    "en": "Hybrid Destroyers",
+    "cn": "混合体毁灭者"
+  },
+  {
+    "en": "Enduring Stasis",
+    "cn": "永续禁锢"
+  },
+  {
+    "en": "Amon's Chosen",
+    "cn": "艾蒙神选者"
+  },
+  {
+    "en": "Karax's Invention",
+    "cn": "凯拉克斯的发明"
+  },
+  {
+    "en": "Tal'darim Supplicants",
+    "cn": "塔达林死徒"
+  },
+  {
+    "en": "Murderous Ascendance",
+    "cn": "晋升仪式"
+  },
+  {
+    "en": "Hybrid Dominator",
+    "cn": "混合体支配者"
+  },
+  {
+    "en": "Ma'lash",
+    "cn": "马拉松"
+  },
+  {
+    "en": "Psionic Orb",
+    "cn": "灵能球"
+  },
+  {
+    "en": "Warp Stargate",
+    "cn": "折跃星门"
+  },
+  {
+    "en": "Void Gate",
+    "cn": "虚空星门"
+  },
+  {
+    "en": "Argus Crystal",
+    "cn": "阿古斯水晶"
+  },
+  {
+    "en": "Energy Crystal",
+    "cn": "能量水晶"
+  },
+  {
+    "en": "Tal'darim Vanguard",
+    "cn": "她达令先锋"
+  },
+  {
+    "en": "Void Army",
+    "cn": "虚空大军"
+  },
+  {
+    "en": "Stetmann, Addict",
+    "cn": "疯狂斯台特曼"
+  },
+  {
+    "en": "Star Warp",
+    "cn": "星际折跃"
+  },
+  {
+    "en": "Behemoth-II Cannons",
+    "cn": "贝希摩斯2型火炮"
+  },
+  {
+    "en": "Secret Hangar",
+    "cn": "秘密机库"
+  },
+  {
+    "en": "The Iron Fist",
+    "cn": "铁拳"
+  },
+  {
+    "en": "Carapace Contagion",
+    "cn": "甲壳增生"
+  },
+  {
+    "en": "A New Homeworld",
+    "cn": "新家园"
+  },
+  {
+    "en": "Handler Squad",
+    "cn": "处理者小队"
+  },
+  {
+    "en": "Bladed Hunters",
+    "cn": "刀锋猎手"
+  },
+  {
+    "en": "Aiur Survivors",
+    "cn": "艾尔弱鸡者"
+  },
+  {
+    "en": "Dominant Psychics",
+    "cn": "灵能溢满"
+  },
+  {
+    "en": "From the Shadows",
+    "cn": "从阴影中现身"
+  },
+  {
+    "en": "Wary Veterans",
+    "cn": "机警老兵"
+  },
+  {
+    "en": "Hive Experts",
+    "cn": "母巢专家"
+  },
+  {
+    "en": "Deadly Saboteurs",
+    "cn": "致命破坏者"
+  },
+  {
+    "en": "Brothers in Arms",
+    "cn": "战火兄弟"
+  },
+  {
+    "en": "Fearless Raiders",
+    "cn": "无畏先锋"
+  },
+  {
+    "en": "Queen and Pawn",
+    "cn": "女王和囚卒"
+  },
+  {
+    "en": "Samir Duran",
+    "cn": "萨米尔杜兰"
+  },
+  {
+    "en": "Project Black Flag",
+    "cn": "黑旗计划"
+  },
+  {
+    "en": "Psionic Blackout",
+    "cn": "灵能屏蔽"
+  },
+  {
+    "en": "Korhal Garrison",
+    "cn": "克哈堡垒"
+  },
+  {
+    "en": "Air Support",
+    "cn": "空中支援"
+  },
+  {
+    "en": "Psi Emitter",
+    "cn": "幽能压制器"
+  },
+  {
+    "en": "Valkyrie Fleet",
+    "cn": "瓦格里舰队"
+  },
+  {
+    "en": "Medic Support",
+    "cn": "医疗支援"
+  },
+  {
+    "en": "Raider's Cache",
+    "cn": "游骑兵工程站"
+  },
+  {
+    "en": "Orbital Supply Drop",
+    "cn": "轨道空投"
+  },
+  {
+    "en": "Atlas Wing",
+    "cn": "阿特拉斯之翼"
+  },
+  {
+    "en": "Cronus Wing",
+    "cn": "克努诺斯之翅"
+  },
+  {
+    "en": "Confederate Loyalists",
+    "cn": "联邦忠诚者"
+  },
+  {
+    "en": "Fuel Raid",
+    "cn": "燃料突袭"
+  },
+  {
+    "en": "Commandeer",
+    "cn": "舰队强征"
+  },
+  {
+    "en": "Aleksander",
+    "cn": "亚历山大号"
+  },
+  {
+    "en": "Smith Squad",
+    "cn": "史密斯小队"
+  },
+  {
+    "en": "Neurostim Drugs",
+    "cn": "神经药物"
+  },
+  {
+    "en": "Burning Outpost",
+    "cn": "燃烧的前哨站"
+  },
+  {
+    "en": "Combat Drugs",
+    "cn": "战斗药剂"
+  },
+  {
+    "en": "Scrappy Raiders",
+    "cn": "英勇游骑兵"
+  },
+  {
+    "en": "Ace Pilots",
+    "cn": "王牌飞行员"
+  },
+  {
+    "en": "Lt. Morales",
+    "cn": "莫拉莱斯中尉"
+  },
+  {
+    "en": "EMP",
+    "cn": "EMP"
+  },
+  {
+    "en": "Regroup",
+    "cn": "重整旗鼓"
+  },
+  {
+    "en": "Corrosive Devourers",
+    "cn": "腐化吞噬者"
+  },
+  {
+    "en": "Savage Contagion",
+    "cn": "凶猛狂暴"
+  },
+  {
+    "en": "Feral Zerglings",
+    "cn": "离群跳虫"
+  },
+  {
+    "en": "Ensnaring Queen",
+    "cn": "诱捕女王"
+  },
+  {
+    "en": "Murderous Claws",
+    "cn": "凶残利爪"
+  },
+  {
+    "en": "Feral Ultralisk",
+    "cn": "离群雷兽"
+  },
+  {
+    "en": "Patient Killers",
+    "cn": "耐心的猎手"
+  },
+  {
+    "en": "True Colors",
+    "cn": "真实面目"
+  },
+  {
+    "en": "Burrowed Swarm",
+    "cn": "埋地虫群"
+  },
+  {
+    "en": "Kukulza Flock",
+    "cn": "超级飞龙骑脸"
+  },
+  {
+    "en": "Merciless Finishers",
+    "cn": "无情终结者"
+  },
+  {
+    "en": "Lurker Advance",
+    "cn": "潜伏者突袭"
+  },
+  {
+    "en": "Overseer Network",
+    "cn": "眼虫网络"
+  },
+  {
+    "en": "Devouring One",
+    "cn": "凶饿猛兽"
+  },
+  {
+    "en": "Sudden Betrayal",
+    "cn": "突然背叛"
+  },
+  {
+    "en": "Plaguebringer",
+    "cn": "瘟疫使者"
+  },
+  {
+    "en": "Consume",
+    "cn": "消耗"
+  },
+  {
+    "en": "Scourge Burst",
+    "cn": "爆蚊爆发"
+  },
+  {
+    "en": "Spawn Broodlings",
+    "cn": "孵化巢虫"
+  },
+  {
+    "en": "Lurker Den",
+    "cn": "潜伏者巢穴"
+  },
+  {
+    "en": "Darting Corsairs",
+    "cn": "穿梭海盗船"
+  },
+  {
+    "en": "Chrono Wave",
+    "cn": "时空过载"
+  },
+  {
+    "en": "Talematros Grid",
+    "cn": "奈拉齐姆网络"
+  },
+  {
+    "en": "Daelaam Architects",
+    "cn": "达拉姆建筑"
+  },
+  {
+    "en": "Loyal Legion",
+    "cn": "忠诚的军团"
+  },
+  {
+    "en": "Perimeter Scouts",
+    "cn": "边缘侦察队"
+  },
+  {
+    "en": "Dragoon Shrine",
+    "cn": "龙骑神殿"
+  },
+  {
+    "en": "Nerazim Warband",
+    "cn": "奈拉齐姆战争小队"
+  },
+  {
+    "en": "Artanis, Founder",
+    "cn": "创建者阿塔尼斯"
+  },
+  {
+    "en": "Disruption Web",
+    "cn": "干扰网"
+  },
+  {
+    "en": "Maelstrom",
+    "cn": "心灵旋涡"
+  },
+  {
+    "en": "Mind Control",
+    "cn": "心灵控制"
+  },
+  {
+    "en": "Dark Archon",
+    "cn": "黑暗执政官"
+  },
+  {
+    "en": "Augmentation Recall",
+    "cn": "扩大召回"
+  },
+  {
+    "en": "Tassadar's Disciples",
+    "cn": "塔萨达的门徒"
+  },
+  {
+    "en": "Powered Gates",
+    "cn": "充能的传送门"
+  },
+  {
+    "en": "Honor Guard",
+    "cn": "荣耀卫队"
+  },
+  {
+    "en": "Shadow Walk",
+    "cn": "暗影步"
+  },
+  {
+    "en": "Archon of Justice",
+    "cn": "审判执政官"
+  },
+  {
+    "en": "Aldaris, Insurgent",
+    "cn": "起义军阿尔达瑞斯"
+  },
+  {
+    "en": "Shakuras Patrol",
+    "cn": "沙库拉斯巡逻队"
+  },
+  {
+    "en": "Repair Station",
+    "cn": "维修站"
+  },
+  {
+    "en": "Hero Warp",
+    "cn": "英雄折跃"
+  },
+  {
+    "en": "Vespene Barrel",
+    "cn": "瓦斯桶"
+  },
+  {
+    "en": "Augmented Warriors",
+    "cn": "超级战士"
+  },
+  {
+    "en": "Slave Broods",
+    "cn": "奴隶巢群"
+  },
+  {
+    "en": "Bitter Avengers",
+    "cn": "苦涩复仇者"
+  },
+  {
+    "en": "Lurker Spawn",
+    "cn": "潜伏者虫卵"
+  },
+  {
+    "en": "Purification Carrier",
+    "cn": "净化者航母"
+  },
+  {
+    "en": "Expedition Escorts",
+    "cn": "考察队护卫"
+  },
+  {
+    "en": "Judicator Syndrea",
+    "cn": "审判官辛德瑞"
+  },
+  {
+    "en": "Zagara's Handmaid",
+    "cn": "扎加拉的小女仆"
+  },
+  {
+    "en": "Zagara's Eggs",
+    "cn": "扎加拉的蛋"
+  },
+  {
+    "en": "Swarmling Pool",
+    "cn": "裂变孵化池"
+  },
+  {
+    "en": "Suppression Team",
+    "cn": "压制小队"
+  },
+  {
+    "en": "Drop Pod Blitz",
+    "cn": "空投闪击"
+  },
+  {
+    "en": "Arclite Support",
+    "cn": "弧光支援组"
+  },
+  {
+    "en": "Tarsonis High Command",
+    "cn": "塔桑尼斯高等指挥部"
+  },
+  {
+    "en": "Viridescent Catalysts",
+    "cn": "瓦斯压缩机"
+  },
+  {
+    "en": "Corrupted Ultralisks",
+    "cn": "腐化的雷兽"
+  },
+  {
+    "en": "Heavy Lab Security",
+    "cn": "实验室重型安保队"
+  },
+  {
+    "en": "Void Crystal",
+    "cn": "虚空水晶"
+  },
+  {
+    "en": "Gravitic Thrusters",
+    "cn": "重力推进器"
+  },
+  {
+    "en": "Rokarr",
+    "cn": "洛卡尔"
+  },
+  {
+    "en": "Supplicant Gateway",
+    "cn": "死徒传送门"
+  },
+  {
+    "en": "Slayer Ambush",
+    "cn": "杀戮者伏击"
+  },
+  {
+    "en": "Escorted Wrathwalker",
+    "cn": "鹤立鸡群"
+  },
+  {
+    "en": "Pierce the Veil",
+    "cn": "揭开未来的面纱"
+  },
+  {
+    "en": "Ascending Votaries",
+    "cn": "升格使徒"
+  },
+  {
+    "en": "Plundered Tech",
+    "cn": "思维窃取"
+  },
+  {
+    "en": "Chain of Ascension",
+    "cn": "升格之链"
+  },
+  {
+    "en": "Mind Blast",
+    "cn": "心灵震爆"
+  },
+  {
+    "en": "Highlord Alarak",
+    "cn": "高坚果领主阿拉纳克"
+  },
+  {
+    "en": "Death Fleet",
+    "cn": "死亡舰队"
+  },
+  {
+    "en": "Ravenous Zerglings",
+    "cn": "贪婪的跳虫"
+  },
+  {
+    "en": "Longblade Alpha",
+    "cn": "尖刀首领"
+  },
+  {
+    "en": "Raw Essence",
+    "cn": "原始精华"
+  },
+  {
+    "en": "Ravenous Guardians",
+    "cn": "贪婪的螃蟹"
+  },
+  {
+    "en": "Shifting Mutalisks",
+    "cn": "变幻的飞龙"
+  },
+  {
+    "en": "Ravenous Ambushers",
+    "cn": "贪婪的伏击者"
+  },
+  {
+    "en": "Primal Wurms",
+    "cn": "原始蠕虫"
+  },
+  {
+    "en": "Intimidating Roaches",
+    "cn": "恐怖的蟑螂"
+  },
+  {
+    "en": "Summon Pack Leader",
+    "cn": "召唤族群首领"
+  },
+  {
+    "en": "Eternal Hunter Dehaka",
+    "cn": "永恒猎手德哈卡"
+  },
+  {
+    "en": "Colonial Conscripts",
+    "cn": "殖民地征兵"
+  },
+  {
+    "en": "Atlas Scout",
+    "cn": "亚特拉斯斥候"
+  },
+  {
+    "en": "Cronus Scout",
+    "cn": "克洛诺斯斥候"
+  },
+  {
+    "en": "Blockade Enforcer",
+    "cn": "封锁执行者"
+  },
+  {
+    "en": "Psionic Injection",
+    "cn": "灵能针"
+  },
+  {
+    "en": "Genetics Trainee",
+    "cn": "基因新兵"
+  },
+  {
+    "en": "Terrestrial Dominance",
+    "cn": "地面霸权"
+  },
+  {
+    "en": "Yamato Cataclysm",
+    "cn": "天灾级大和炮"
+  },
+  {
+    "en": "Armored Corps",
+    "cn": "装甲兵团"
+  },
+  {
+    "en": "Alexei Stukov",
+    "cn": "斯图科夫"
+  },
+  {
+    "en": "Primal Hunters",
+    "cn": "原始猎手"
+  },
+  {
+    "en": "Sudden Swarm",
+    "cn": "突袭虫群"
+  },
+  {
+    "en": "Infested Platoon",
+    "cn": "感染加强排"
+  },
+  {
+    "en": "Nerazim Raiders",
+    "cn": "奈拉齐姆突袭者"
+  },
+  {
+    "en": "Blades of Aiur",
+    "cn": "艾尔之刃"
+  },
+  {
+    "en": "Blades of Shakuras",
+    "cn": "沙库拉斯之刃"
+  },
+  {
+    "en": "Siege Walkers",
+    "cn": "攻城机甲"
+  },
+  {
+    "en": "Devil Dogs",
+    "cn": "地狱汪"
+  },
+  {
+    "en": "Mech Support Crew",
+    "cn": "机械支援组"
+  },
+  {
+    "en": "Aegis Guard",
+    "cn": "堡垒卫士"
+  },
+  {
+    "en": "Shock Division",
+    "cn": "震慑部队"
+  },
+  {
+    "en": "Armament Bay",
+    "cn": "军备湾"
+  },
+  {
+    "en": "Dominion Troopers",
+    "cn": "地方军"
+  },
+  {
+    "en": "Irradiation Scheme",
+    "cn": "辐照方案"
+  },
+  {
+    "en": "Status: Black Site",
+    "cn": "隐秘地带"
+  },
+  {
+    "en": "Assassination Scheme",
+    "cn": "暗杀计划"
+  },
+  {
+    "en": "Plan A",
+    "cn": "计划A"
+  },
+  {
+    "en": "Imperial Witness",
+    "cn": "帝国见证者"
+  },
+  {
+    "en": "Blackhammer",
+    "cn": "黑色战锤"
+  },
+  {
+    "en": "Obedient Fodder",
+    "cn": "顺从者"
+  },
+  {
+    "en": "Mineral Scavengers",
+    "cn": "矿物拾荒者"
+  },
+  {
+    "en": "Alysaar Archivist",
+    "cn": "奥丽莎的保管者"
+  },
+  {
+    "en": "Insidious Spy",
+    "cn": "暗中的密探"
+  },
+  {
+    "en": "Swift Vengeance",
+    "cn": "敏捷的复仇"
+  },
+  {
+    "en": "Archon of Tyranny",
+    "cn": "暴虐的执政官"
+  },
+  {
+    "en": "Warped Khaydarin",
+    "cn": "反常的凯达林"
+  },
+  {
+    "en": "Ulrezaj",
+    "cn": "黑暗执政官"
+  },
+  {
+    "en": "Scavenger Fleet",
+    "cn": "拾荒者舰队"
+  },
+  {
+    "en": "Forbidden Knowledge",
+    "cn": "禁忌知识"
+  },
+  {
+    "en": "Overmind's Drone",
+    "cn": "主宰的工蜂"
+  },
+  {
+    "en": "Brood Hydralisks",
+    "cn": "孵化刺蛇"
+  },
+  {
+    "en": "Assault Brood",
+    "cn": "孵化突袭"
+  },
+  {
+    "en": "Infestation Spreaders",
+    "cn": "疾疫携带者"
+  },
+  {
+    "en": "Infested Foundations",
+    "cn": "疾疫爆发"
+  },
+  {
+    "en": "Potent Infestation",
+    "cn": "疾疫传播"
+  },
+  {
+    "en": "Dark Swarm",
+    "cn": "黑暗蜂群"
+  },
+  {
+    "en": "Vespene Siphon",
+    "cn": "瓦斯抽取"
+  },
+  {
+    "en": "Daggoth",
+    "cn": "脑虫达苟斯"
+  },
+  {
+    "en": "Reincarnation",
+    "cn": "死者苏生"
+  },
+  {
+    "en": "Vespene Cube",
+    "cn": "瓦斯立方体"
+  },
+  {
+    "en": "Swarmling Spawn",
+    "cn": "裂变虫群卵"
+  },
+  {
+    "en": "Clifftop Drop Pods",
+    "cn": "高地空降兵"
+  },
+  {
+    "en": "Unbreakable Essence",
+    "cn": "坚不可摧的精华"
+  },
+  {
+    "en": "Unsparing Essence",
+    "cn": "无情的精华"
+  },
+  {
+    "en": "Unstable Essence",
+    "cn": "不稳定的精华"
+  },
+  {
+    "en": "Aerial Dominance",
+    "cn": "空中优势"
+  },
+  {
+    "en": "Bio Support Crew",
+    "cn": "生化支援组"
+  },
+  {
+    "en": "Arclite Division",
+    "cn": "弧光坦克师"
+  },
+  {
+    "en": "Summon Dakrun",
+    "cn": "召唤达克伦"
+  },
+  {
+    "en": "Summon Glevig",
+    "cn": "召唤格里维格"
+  },
+  {
+    "en": "Summon Murvar",
+    "cn": "召唤穆尔瓦"
+  },
+  {
+    "en": "Blockade",
+    "cn": "封锁"
+  },
+  {
+    "en": "Genetics Expert",
+    "cn": "基因专家"
+  },
+  {
+    "en": "Assault Troopers",
+    "cn": "突击队"
+  },
+  {
+    "en": "Interference Scheme",
+    "cn": "干扰方案"
+  },
+  {
+    "en": "Demolition Scheme",
+    "cn": "毁灭方案"
+  },
+  {
+    "en": "Plan B",
+    "cn": "计划B"
+  },
+  {
+    "en": "Mineral Chunk",
+    "cn": "小块晶体矿"
+  },
+  {
+    "en": "Vespene Scavengers",
+    "cn": "气体拾荒者"
+  },
+  {
+    "en": "Compelled Forces",
+    "cn": "二五仔军团"
+  },
+  {
+    "en": "Uncontrollable Power",
+    "cn": "失控在即"
+  },
+  {
+    "en": "Vespene Sac",
+    "cn": "瓦斯气囊"
+  },
+  {
+    "en": "Overmind's Covenant",
+    "cn": "主宰的契约"
+  },
+  {
+    "en": "Zagara",
+    "cn": "扎加拉"
+  },
+  {
+    "en": "Duke, Defender",
+    "cn": "防守的杜克将军"
+  },
+  {
+    "en": "Executor Andraxxus",
+    "cn": "执行官安德纳克苏斯"
+  },
+  {
+    "en": "Warp Facility",
+    "cn": "折跃台"
+  },
+  {
+    "en": "Neosteel Armory",
+    "cn": "精钢军械库"
+  },
+  {
+    "en": "Forward Prism",
+    "cn": "高地棱镜"
+  },
+  {
+    "en": "Acidic Brood",
+    "cn": "酸性孵化"
+  },
+  {
+    "en": "Coordinated Coup",
+    "cn": "协同政变"
+  },
+  {
+    "en": "Steadfast Daelaam",
+    "cn": "坚定的达拉姆"
+  },
+  {
+    "en": "Demolition Blitz",
+    "cn": "烧杀抢军团"
+  },
+  {
+    "en": "Enraged Queens",
+    "cn": "愤怒的虫后"
+  },
+  {
+    "en": "Cybros Facility",
+    "cn": "干扰者机械台"
+  },
+  {
+    "en": "Recycled Biomass",
+    "cn": "回收生物质"
+  },
+  {
+    "en": "Stasis Crystal",
+    "cn": "静滞水晶"
+  },
+  {
+    "en": "Nuclear Bombardment",
+    "cn": "原爆点"
+  },
+  {
+    "en": "Infested Compound",
+    "cn": "被感染的营地"
+  },
+  {
+    "en": "Dormant Titan",
+    "cn": "净化者巨像"
+  },
+  {
+    "en": "Goliath Instructor",
+    "cn": "歌莉娅教练"
+  },
+  {
+    "en": "Revelation",
+    "cn": "天启"
+  },
+  {
+    "en": "Flight Instructor",
+    "cn": "战机教练"
+  },
+  {
+    "en": "Rampant Tunnelers",
+    "cn": "猖獗的潜地者"
+  },
+  {
+    "en": "Support Bots",
+    "cn": "支援机械"
+  },
+  {
+    "en": "Army Breakers",
+    "cn": "破阵军势"
+  },
+  {
+    "en": "Scourge Storm",
+    "cn": "爆蚊风暴"
+  },
+  {
+    "en": "Barracks Security",
+    "cn": "兵营安防"
+  },
+  {
+    "en": "Frenzied Hydralisks",
+    "cn": "疯狂的刺蛇"
+  },
+  {
+    "en": "Special Ops Team",
+    "cn": "特别行动队"
+  },
+  {
+    "en": "Patient Khalai",
+    "cn": "耐心的战士"
+  },
+  {
+    "en": "Mobile Machines",
+    "cn": "泰伦快乐车"
+  },
+  {
+    "en": "Vicious Mutalisks",
+    "cn": "恶毒的飞龙"
+  },
+  {
+    "en": "Pressurized Ejections",
+    "cn": "腺体加压"
+  },
+  {
+    "en": "Chrono Sentries",
+    "cn": "时空烧饼"
+  },
+  {
+    "en": "Cerberus Squad",
+    "cn": "战术小队"
+  },
+  {
+    "en": "Void Fleet",
+    "cn": "虚空舰队"
+  },
+  {
+    "en": "Infested Bunkers",
+    "cn": "被感染的地堡"
+  },
+  {
+    "en": "Dormant Sentinels",
+    "cn": "净化者战士"
+  },
+  {
+    "en": "Ballistics Bay",
+    "cn": "弹道学实验室"
+  },
+  {
+    "en": "Linked Tempests",
+    "cn": "联结风暴"
+  },
+  {
+    "en": "Cryogenic Hibernation",
+    "cn": "冷藏翻新"
+  },
+  {
+    "en": "Deep Warren",
+    "cn": "蟑螂窝"
+  },
+  {
+    "en": "Activation Bay",
+    "cn": ""
+  },
+  {
+    "en": "Warp Pad",
+    "cn": "折跃集结"
+  },
+  {
+    "en": "Mass Suppression",
+    "cn": "大规模镇压"
+  },
+  {
+    "en": "Robotics Warp",
+    "cn": "机械折跃"
+  },
+  {
+    "en": "Combat Activation",
+    "cn": "作战激活"
+  },
+  {
+    "en": "Duke, Tactician",
+    "cn": "进击的杜克将军"
+  },
+  {
+    "en": "Swann's Armory",
+    "cn": ""
+  },
+  {
+    "en": "Radioactive Wasteland",
+    "cn": "核后废土"
+  },
+  {
+    "en": "Send the Boys",
+    "cn": "电！光！毒！龙！钻！"
+  },
+  {
+    "en": "This mode's air attack is best against groups of Light air units.",
+    "cn": "该模式下的雷神更擅长对付成群的轻甲空中单位"
+  },
+  {
+    "en": "Build a Bunker with 4 Marines inside.",
+    "cn": "建造一个内有4好兄弟的地堡"
+  },
+  {
+    "en": "Build 2 Missile Turrets.",
+    "cn": "建造两座导弹塔"
+  },
+  {
+    "en": "Build a Barracks. Each turn it sends 2 Marines.",
+    "cn": "建造一个兵营，每回合该兵营都会生产两名机枪"
+  },
+  {
+    "en": "Build a Factory. Each turn it sends 1 Hellbat.",
+    "cn": "建造一个重工，每回合该重工都会生产一个火车侠"
+  },
+  {
+    "en": "Build an Engineering Bay. Until destroyed, it gives your biological units +15% damage and +1 armor.",
+    "cn": "建造一个工程站。直至被毁，它能为您所有生物单位提供+15%的攻击以及+1护甲"
+  },
+  {
+    "en": "Draw 2 cards.",
+    "cn": "抽两张牌"
+  },
+  {
+    "en": "Deal 1500 damage to the toughest enemy unit.",
+    "cn": "选择敌对最肉的单位并对其造成1500点伤害"
+  },
+  {
+    "en": "Reveal all enemy cloaked units during the next battle phase. Draw a card.",
+    "cn": "下次战斗阶段中揭示所有隐身的敌人。抽一张牌"
+  },
+  {
+    "en": "Launch 6 Seeker Missiles at clusters of enemy units.",
+    "cn": "选择6个敌对单位并对各个被选单位发射猎杀飞弹"
+  },
+  {
+    "en": "Your biological units lose 10% of their life, gain Rush, and get +50% attack and movement speed for 2 turns (doesn't stack).",
+    "cn": "你所有生物单位立刻冲锋且失去10%的生命，并获得持续两回合的+50%攻速，移速buff（不叠加）"
+  },
+  {
+    "en": "They enter siege mode upon sighting an enemy.",
+    "cn": "接敌后变成攻城模式"
+  },
+  {
+    "en": "They burrow in your defensive area.",
+    "cn": "在你的防守区埋地"
+  },
+  {
+    "en": "They attack from the cliff.",
+    "cn": "从高地进攻"
+  },
+  {
+    "en": "They prioritize repairing injured mechanical units and structures.",
+    "cn": "它们能修理受损的机械单位及建筑"
+  },
+  {
+    "en": "They unload 8 defensive Marines each, then help evacuate retreating tactical units.",
+    "cn": "每个运输机各在自己防守区投下8个机枪后协助战术单位后撤"
+  },
+  {
+    "en": "Build a Supply Depot. When it is destroyed, discard a random card from your hand. Launch: Draw 2 cards.",
+    "cn": "建造一个补给站。亡语：随机丢弃一张手牌。战吼：抽两张牌"
+  },
+  {
+    "en": "Build a Sensor Tower, which is a long-ranged detector.",
+    "cn": "建造一个感应塔，该塔具有长距反隐能力。"
+  },
+  {
+    "en": "Build a Refinery. Until destroyed, it increases your gas limit by 1. Launch: Add 2 Vespene Barrels to your hand.",
+    "cn": "建造一个气矿，直至被毁，它能增加1点瓦斯产能上限。战吼：在你手中生成两张瓦斯罐牌。"
+  },
+  {
+    "en": "Build a Starport. Each turn it sends 1 Viking (Fighter Mode).",
+    "cn": "建造一个星港。"
+  },
+  {
+    "en": "When selected, gain 2 minerals.",
+    "cn": "被选中时，临时获得2水晶"
+  },
+  {
+    "en": "Deal 1500 damage to the most expensive enemy structure.",
+    "cn": "选择最贵的敌对建筑，并对其造成1500点伤害"
+  },
+  {
+    "en": "Double the production of your two most expensive Barracks, Factories, or Starports. (Only one attachment can be added to each structure).",
+    "cn": "从你无挂件的兵营，重工，机场中选择两个最贵的为其配备挂件并翻倍其产能（每个建筑只能配备一个挂件）"
+  },
+  {
+    "en": "Deal 800 damage to the toughest two biological enemy units.",
+    "cn": "选择两个最肉的敌对生物单位并对其各自造成800点伤害"
+  },
+  {
+    "en": "They target the center of the map with their anti-ground mode.",
+    "cn": "这些解放将会对着地图中间使用架设模式"
+  },
+  {
+    "en": "They each unload 4 Marines and 2 Marauders near the enemy defensive area.",
+    "cn": "各自在敌对防守区附近投下4机枪和2光头哥"
+  },
+  {
+    "en": "They each unload 1 Siege Tank on the cliff, which enter Siege Mode.",
+    "cn": "各自在高地投下一个自动架设的坦克"
+  },
+  {
+    "en": "Build a Missile Turret and a Bunker with 4 Marines inside. The Siege Tank enters Siege Mode in your defensive area.",
+    "cn": "建造一个导弹塔以及一个附带4机枪的地堡。同时坦克将会在防守区架设。"
+  },
+  {
+    "en": "Build a Fusion Core. Until destroyed, it increases the energy regeneration rate of your units and halves their ability cooldowns.",
+    "cn": "建造一个聚变核心。直至被毁，它能增加你单位的回蓝效率并减半技能冷却"
+  },
+  {
+    "en": "Build an Armory. Until destroyed, it gives your mechanical units +15% damage and +1 armor.",
+    "cn": "建造一个军械库，直至被毁，使你的机械单位+15%伤害+1护甲"
+  },
+  {
+    "en": "Return 2 structure cards from your discard pile to your hand.",
+    "cn": "从墓地中返回两张建筑牌到你手中"
+  },
+  {
+    "en": "Launch a Nuke at the enemy defensive area. It lands after a delay of 1 battle phase.",
+    "cn": "朝敌对防守区发射一枚核弹，该核弹在下回合着陆"
+  },
+  {
+    "en": "Make your two least expensive Barracks, Factories, or Starports produce Marauders, Siege Tanks, or Banshees. (Only one attachment can be added to each structure).",
+    "cn": "从你无挂件的兵营，重工，机场中选择两个最廉价的为其配备挂件并对应更改产品为光头哥，坦克或女妖（每个建筑只能配备一个挂件）"
+  },
+  {
+    "en": "Launch: It deals 1500 damage to the toughest enemy unit.",
+    "cn": "战吼：选择最肉的敌对单位并对其造成1500点伤害"
+  },
+  {
+    "en": "When killed, add 2 Thor cards to your hand.",
+    "cn": "亡语：在你手中生成两张雷神牌"
+  },
+  {
+    "en": "Each turn the Commander makes the mineral cost of a random unit card in your hand 0.",
+    "cn": "每回合该指挥官会随机选择你手中一张单位牌并将其矿物费用将为0"
+  },
+  {
+    "en": "Launch: Add 2 Nova Ops cards to your hand.",
+    "cn": "战吼：在你手中随机生成两张诺娃装备牌"
+  },
+  {
+    "en": "They use burrow to retreat.",
+    "cn": "后撤时会埋地移动"
+  },
+  {
+    "en": "Until killed, it increases your hand size by 1 (max 12). Launch: Draw a card.",
+    "cn": "直至阵亡，该单位能增加你的手牌上限1（最多12）。战吼：抽一张牌"
+  },
+  {
+    "en": "They spawn burrowed in your defensive area, and immediately unburrow.",
+    "cn": "这些单位在你的防守区以埋地形态生成，并立刻出地"
+  },
+  {
+    "en": "They have upgraded speed.",
+    "cn": "这些单位有速度升级"
+  },
+  {
+    "en": "Build a Spawning Pool. Each turn it adds a Zergling Spawn card to your hand.",
+    "cn": "建造一个血池。每回合在你手中生成一个跳虫卵牌"
+  },
+  {
+    "en": "Build a Roach Warren. Each turn it adds a Roach Spawn card to your hand.",
+    "cn": "建造一个蟑螂巢。每回合在你手中生成一个蟑螂卵牌"
+  },
+  {
+    "en": "Build a Hydralisk Den. Each turn it adds a Hydralisk Spawn card to your hand.",
+    "cn": "建造一个刺蛇巢。每回合在你手中生成一个刺蛇卵牌"
+  },
+  {
+    "en": "Build 2 Spine Crawlers.",
+    "cn": "建造两个脊针爬虫"
+  },
+  {
+    "en": "Build 2 Spore Crawlers.",
+    "cn": "建造两个孢子爬虫"
+  },
+  {
+    "en": "Give your biological ground units +40% attack speed and +60% movement speed (doesn't stack).",
+    "cn": "让你场上所有生物地面单位获得+40%攻速和+60移速的buff（不叠加）"
+  },
+  {
+    "en": "Give your ranged ground units +6 damage and +3 range (doesn't stack).",
+    "cn": "让你场上所有地面单位获得+6伤害以及+3射程的buff（不叠加）"
+  },
+  {
+    "en": "Your biological structures fully heal and gain the ability to spread creep.",
+    "cn": "你所有生物建筑立刻恢复所有生命值，并使其获得扩散菌滩的能力"
+  },
+  {
+    "en": "They die after 2 battle phases.",
+    "cn": "这些单位只能活两回合"
+  },
+  {
+    "en": "Launch: Reduce your gas income by 1.",
+    "cn": "战吼：减少你的瓦斯产能1点"
+  },
+  {
+    "en": "They burrow in your defensive area, then every other turn they send 2 Locusts each.",
+    "cn": "在防守区埋地，并在之后的每个回合中各自生产两个蝗虫"
+  },
+  {
+    "en": "Each turn they use Corrosive Bile on the nearest enemy structure (at any range).",
+    "cn": "各自每回合无视距离限制对最近的敌对建筑使用太阳轰炸"
+  },
+  {
+    "en": "They have upgraded speed. Launch: Draw a card.",
+    "cn": "这些单位拥有移速升级。战吼：抽一张牌"
+  },
+  {
+    "en": "Until killed, it spreads creep and increases your hand size by 1 (max 12). Launch: Draw a card.",
+    "cn": "直至阵亡，该单位会扩散菌滩并提升手牌上限1（最多12）。战吼：抽一张牌"
+  },
+  {
+    "en": "Launch: Combine all of the free Spawn cards in your hand into one Spawn card, then double the unit count on the combined card.",
+    "cn": "战吼：把你手中所有免费的虫卵牌结合为一张并将其中的单位翻倍。"
+  },
+  {
+    "en": "They burrow when retreating, and only unburrow once they move out again.",
+    "cn": "后撤时埋地移动，当它们再次出击时才会出地"
+  },
+  {
+    "en": "It has detection and follows cloaked units. Enemy units won't attack it without detection. Launch: Draw a card.",
+    "cn": "该单位会变形并跟随敌对隐身单位。除非被侦查，该单位不会被敌军主动攻击。战吼：抽一张牌"
+  },
+  {
+    "en": "Until killed, it increases your hand size by 1 (max 12). Launch: It uses Contaminate on the 3 most expensive enemy structures, disabling them for 2 turns.",
+    "cn": "直至阵亡，该单位增加你手牌上限1点（最多12）。战吼：选择3个最贵的敌方建筑并对其使用污染使其失效两回合"
+  },
+  {
+    "en": "Build a Baneling Nest. Each turn it adds a Baneling Spawn card to your hand.",
+    "cn": "建造一个爆虫巢穴，每回合在你手中生成一张爆虫卵牌"
+  },
+  {
+    "en": "Build a Spire. Each turn it adds a Mutalisk Spawn or Corruptor Spawn card (chosen randomly) to your hand.",
+    "cn": "建造一个飞龙塔。每回合在你手中随机生成一张飞龙卵牌或腐化卵牌"
+  },
+  {
+    "en": "Build an Extractor. Until destroyed, it increases your gas limit by 1. Launch: Draw a card.",
+    "cn": "建造一个气矿。直至被毁，它能增加你瓦斯上限1点。战吼：抽一张牌"
+  },
+  {
+    "en": "Build an Evolution Chamber. Until destroyed, whenever you play an Evolution Card give all of your units +10 life and draw a card.",
+    "cn": "建造一个进化腔。直至被毁，每当你打出一张进化卡抽一张卡并让你所有单位+10生命"
+  },
+  {
+    "en": "Combine all of the free Spawn cards in your hand into one Spawn card, then triple the unit count on the combined card.",
+    "cn": "把你手中所有免费虫卵牌结合为一张，并使其单位翻三倍"
+  },
+  {
+    "en": "Each turn they each create a Creep Tumor.",
+    "cn": "每回合这些虫后各自产下一个菌滩肿瘤"
+  },
+  {
+    "en": "They burrow upon sighting an enemy, and attack while burrowed.",
+    "cn": "接敌后埋地，并只能在埋地状态下攻击"
+  },
+  {
+    "en": "They spawn burrowed in the enemy defensive area, and immediately unburrow and attack.",
+    "cn": "这些单位以埋地状态在敌对防守区生成，并立刻出地攻击"
+  },
+  {
+    "en": "Launch: They each use Parasitic Bomb on clusters of enemy air units.",
+    "cn": "战吼：各自选择敌对空中单位集群并对其使用寄生飞弹"
+  },
+  {
+    "en": "They each drop 4 Banelings on the enemy defensive area.",
+    "cn": "他们各自在敌对防守区空投4毒爆"
+  },
+  {
+    "en": "Build an Ultralisk Cavern. Each turn it adds an Ultralisk Spawn card to your hand.",
+    "cn": "建造一个牛塔。每回合在你手中生成一个牛卵牌"
+  },
+  {
+    "en": "Build a Nydus Network. Until destroyed, your ground units have rush and emerge from it when played.",
+    "cn": "建造一个坑道虫。直至被毁，你所有打出的地面单位都获得冲锋并从坑道虫出击"
+  },
+  {
+    "en": "Mutate one of your Spires into a Greater Spire. Each turn it adds a Brood Lord Spawn card to your hand.",
+    "cn": "让你的一个龙塔变异为大龙塔。每回合在你手中生成一张大龙卵牌"
+  },
+  {
+    "en": "Morph 24 Zerglings, 12 Roaches, 6 Corruptors, and 3 Hydralisks into Banelings, Ravagers, Brood Lords, and Lurkers.",
+    "cn": "变异你的24跳虫，12蟑螂，6腐化，3刺蛇为爆虫，火蟑螂，大龙，以及地刺"
+  },
+  {
+    "en": "Take control of the toughest enemy unit for 1 turn. Other enemy units don't attack back.",
+    "cn": "选择敌对最肉单位并获得其控制权一回合。期间敌人不会反击该单位"
+  },
+  {
+    "en": "Launch: Combine all of the free Spawn cards in your hand into one Spawn card, then make the combined card heroic.",
+    "cn": "战吼：你手中所有免费虫卵牌结合为一张，并使该牌英雄化"
+  },
+  {
+    "en": "Each turn she adds a different Hive Mind card to your hand (if possible).",
+    "cn": "如果可能的话每回合在你手中生成一张不同名字的筑巢心智牌"
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, draw a card.",
+    "cn": "战吼：如果这是你本回合唯一打出的牌，抽一张牌"
+  },
+  {
+    "en": "They use Blink when retreating.",
+    "cn": "后撤时会闪现"
+  },
+  {
+    "en": "They use Psionic Transfer when retreating.",
+    "cn": "后撤时使用灵能传送"
+  },
+  {
+    "en": "Launch: Draw a card.",
+    "cn": "战吼：抽一张牌"
+  },
+  {
+    "en": "Launch: Add 2 Warp In cards to your hand.",
+    "cn": "战吼：在你手中生成两张折跃牌"
+  },
+  {
+    "en": "Build a Gateway. Each turn it sends 1 Zealot.",
+    "cn": "建造一个传送门。每回合生成一个狂热者"
+  },
+  {
+    "en": "Build 2 Photon Cannons.",
+    "cn": "建造两个光炮"
+  },
+  {
+    "en": "Build 2 Shield Batteries.",
+    "cn": "建造两个护盾电池"
+  },
+  {
+    "en": "Build a Pylon. Launch: Draw a card, then add a Warp In card to your hand.",
+    "cn": "建造一个水晶塔。战吼：抽一张牌，然后在你手中生成一张折跃牌"
+  },
+  {
+    "en": "Damage clusters of enemy units with 9 Psionic Storms.",
+    "cn": "选择9个敌对单位集群并对其使用灵能风暴"
+  },
+  {
+    "en": "Send Phoenixes to lift 12 enemy units with Graviton Beam. The Phoenixes leave if their target is destroyed.",
+    "cn": "召唤12个凤凰各自选择敌对地面单位并对其使用举高高。当目标被摧毁时凤凰离开战场"
+  },
+  {
+    "en": "Increase your mineral income by 1.",
+    "cn": "增加你的矿物产能1点"
+  },
+  {
+    "en": "Send Oracles to create 10 Stasis Wards in your defensive area (the Oracles leave afterwards).",
+    "cn": "召唤先知在你的防守区建造10个静滞陷阱，并在陷阱完成后离开"
+  },
+  {
+    "en": "Launch: They each use Hallucination.",
+    "cn": "战吼：各自使用幻象技能"
+  },
+  {
+    "en": "Fetch a structure card. If you have none, draw a card instead.",
+    "cn": "检索一张建筑牌。如果没有，则抽一张牌"
+  },
+  {
+    "en": "Fetch a structure card.",
+    "cn": "检索一张建筑牌"
+  },
+  {
+    "en": "Until killed, it costs 1 mineral per turn.",
+    "cn": "该牌各单位维护费：1矿物"
+  },
+  {
+    "en": "Launch: Make all of your units on the battlefield defensive.",
+    "cn": "战吼：让你场上所有单位变成防御单位"
+  },
+  {
+    "en": "Launch: Reveal all enemy cloaked units and structures for 2 turns.",
+    "cn": "战吼：对场上所有隐身敌对单位和建筑使用预兆，使其隐身被揭露持续两回合"
+  },
+  {
+    "en": "They use Psionic Transfer to teleport across the center of the battlefield.",
+    "cn": "他们各自使用灵能传送直接传送至战场中央"
+  },
+  {
+    "en": "They each leave after killing 1 unit or structure.",
+    "cn": "他们各自在获得一杀后离开战场"
+  },
+  {
+    "en": "Build a Stargate. Each turn it sends 1 Phoenix.",
+    "cn": "建造一个星门。每回合生产一个凤凰"
+  },
+  {
+    "en": "Build a Forge. Whenever you play a structure card, it sends a Probe to build a Photon Cannon.",
+    "cn": "建造一个段炉。每当你打出一个建筑牌，该段炉会派遣一个探姬并建造一个光炮"
+  },
+  {
+    "en": "Build a Cybernetics Core. Whenever one of your biological Protoss units dies, it grants a 50% chance to revive it as an aggressive Stalker.",
+    "cn": "建造一个控制芯核。每当你的神族地面单位死亡，该建筑都有50%的概率将其复活为一个进攻的追猎者"
+  },
+  {
+    "en": "Build an Assimilator. Until destroyed, it increases your gas limit by 1. Launch: Increase your gas income by 1.",
+    "cn": "建造一个气矿，直至被毁，增加你瓦斯上限1点。战吼：增加你瓦斯产能1点"
+  },
+  {
+    "en": "Build a Twilight Council. Each turn it shuffles the most expensive card that you can't afford from your hand back into your deck. Whenever it does, draw a card.",
+    "cn": "建造一个光影议会。每回合该建筑会将你手里最贵的且支付不起的牌洗回卡组，如果成功则抽一张牌"
+  },
+  {
+    "en": "Drain all energy from enemy units that have energy, then deal 200 damage to them.",
+    "cn": "清空所有敌对能量单位的能量，并对其各自造成两百点伤害"
+  },
+  {
+    "en": "Your team's Xel'naga Keystone gains an attack for the rest of the game. If it already has one, give it +15 damage and +15 range for 1 turn instead.",
+    "cn": "你队伍的钥石获得buff，使其在本局剩余时间内获得攻击能力。如果钥石已经有该buff，则使其在一回合内额外获得+15伤害+15射程。"
+  },
+  {
+    "en": "Upgrade your 2 cheapest Gateways to Warp Gates, which add Warp In cards to your hand each turn. If you have no Gateways, add 2 Warp In cards to your hand instead.",
+    "cn": "升级你的两个最便宜的传送门为折跃门，该折跃门每回合在你手中生成一张折跃牌。如果没有传送门则生成两张折跃牌到你手中"
+  },
+  {
+    "en": "Upgrade your Gateways to Warp Gates, which add Warp In cards to your hand each turn. If you have no Gateways, add 2 Warp In cards to your hand instead.",
+    "cn": "升级你的两个传送门为折跃门，该折跃门每回合在你手中生成一张折跃牌。如果没有传送门则生成两张折跃牌到你手中"
+  },
+  {
+    "en": "Until killed, the Carrier costs 1 mineral per turn.",
+    "cn": "该牌各单位维护费：1矿物"
+  },
+  {
+    "en": "Launch: All of your High Templar and Dark Templar merge into Archons with Rush.",
+    "cn": "战吼：使你所有受控的隐刀或电兵冲锋并合体变为白球"
+  },
+  {
+    "en": "They each unload 2 Zealots, 1 Adept, and 1 Stalker near the enemy defensive area. Launch: Add 2 Warp In cards to your hand.",
+    "cn": "各自在敌对防守区附近投下2叉1使徒1追猎。战吼：在手牌中生成两张折跃牌"
+  },
+  {
+    "en": "They use Purification Nova on the enemy defensive area from your defensive area.",
+    "cn": "这些炸屎球会从你的防守区往敌对防守区丢雷"
+  },
+  {
+    "en": "Build a Robotics Facility. Each turn it sends 1 Immortal. Until destroyed, it costs 1 mineral per turn.",
+    "cn": "建造一个机械台，每回合生产一个不朽者。直至被毁，该建筑维护费：1矿物"
+  },
+  {
+    "en": "Build a Fleet Beacon. Each turn it fetches a card that sends a Carrier or Tempest. If the fetch succeeds skip your next draw step.",
+    "cn": "建造一个舰队航标。每回合检索一张航母或者风暴牌，如果检索成功则跳过你的下个抽牌阶段"
+  },
+  {
+    "en": "Build a Templar Archives. Whenever you play an action card that costs 8 or less, it shuffles that card back into your deck instead of discarding it.",
+    "cn": "建造一个文献馆。每当你打出一个少于或等于8费的动作牌，该建筑会使那些动作牌不会被丢弃而是返回卡组"
+  },
+  {
+    "en": "Build a Dark Shrine. Each turn it converts a biological Protoss unit from a card in your hand into a Dark Templar.",
+    "cn": "建造一个隐刀塔。每回合该建筑会选择你手牌中的一个神族生物单位，并使其转化为隐刀"
+  },
+  {
+    "en": "Create a Vortex at the center of the battlefield that lasts for 10 seconds. Units that enter it are destroyed.",
+    "cn": "在地图中心释放一个持续10秒的黑洞，黑洞会吞噬所有进入它的单位（包括友军）"
+  },
+  {
+    "en": "Copy the lowest cost unit card in your hand.",
+    "cn": "复制你手牌中最低费用的单位卡"
+  },
+  {
+    "en": "Each turn he chooses a mechanical unit and adds a copy of the card that created it to your hand. Whenever this succeeds, skip your next draw step.",
+    "cn": "直至死亡，每回合他随机选择场上的机械单位并在你的手上添加一张创建它的卡的复制。若复制成功，则跳过你的抽牌阶段。"
+  },
+  {
+    "en": "Launch: Reveal the most expensive card in each of your opponents' decks.",
+    "cn": "战吼：揭示敌方队伍卡组最高费卡"
+  },
+  {
+    "en": "Each turn he fetches a heroic unit card from your deck. If the fetch succeeds skip your next draw step.",
+    "cn": "每回合从你的卡组检索一张英雄单位牌，如果检索成功，跳过你的下一个抽牌阶段"
+  },
+  {
+    "en": "Launch: Add a Mothership card to your hand, unless you already have one there.",
+    "cn": "战吼：除非你手上已有变形妈妈船动作卡，向你的手牌中添加变形妈妈船"
+  },
+  {
+    "en": "This mode's air attack is best against Massive air units.",
+    "cn": "这个模式的雷神适合对付重甲空军"
+  },
+  {
+    "en": "Deal 1000 damage to the toughest biological enemy unit. If alive, Nova equips her Canister Rifle and does the same.",
+    "cn": "对最肉的敌方生物单位造成1000伤害。如果诺娃还存活，诺娃将装备她的筒式步枪并释放一次伤害为1000的狙击"
+  },
+  {
+    "en": "Launch: If alive, Nova equips her Hellfire Shotgun (does splash damage but only targets ground).",
+    "cn": "如果诺娃存活，诺娃装备她的地狱火枪（有溅射伤害，但只对地）"
+  },
+  {
+    "en": "Permanently cloak the units that you send this turn. If alive, Nova permanently cloaks too.",
+    "cn": "永久隐形这回合你召唤的单位，如果诺娃存活，诺娃也永久隐形"
+  },
+  {
+    "en": "Disable all enemy structures that cost 2 or less for 2 turns. If alive, Nova disables the most expensive enemy structure too.",
+    "cn": "禁用所有2费及以下的敌方建筑两回合。如果诺娃存活，诺娃禁用敌方最高费的敌方建筑两回合"
+  },
+  {
+    "en": "If alive, Nova permanently gains detection.",
+    "cn": "如果诺娃存活，诺娃永久获得侦测能力"
+  },
+  {
+    "en": "If alive, return Nova to your hand. Otherwise, shuffle a copy of Nova from your discard pile into your deck.",
+    "cn": "如果诺娃存活，将诺娃返回到你的手牌，否则，将一张诺娃的复制牌塞入你的卡组"
+  },
+  {
+    "en": "All of your units except Kerrigan and Overlords become aggressive.",
+    "cn": "你的所有单位变成进攻单位（除了凯瑞甘和王虫）"
+  },
+  {
+    "en": "All of your units except Overlords become defensive.",
+    "cn": "你的所有单位变成防守单位（除了凯瑞甘和王虫）"
+  },
+  {
+    "en": "All of the Zerglings, Banelings, Roaches, Hydralisks, and Ultralisks you send this turn unburrow at the center of the map.",
+    "cn": "你本回合召唤的所有狗毒爆蟑螂刺蛇牛在地图中央出地"
+  },
+  {
+    "en": "Upgrade your Mothership Cores into tactical Motherships. Each turn reduce this card's cost by 1 mineral. If your last Mothership Core dies, discard this card.",
+    "cn": "将你的萝莉船变形为妈妈船，每回合这张牌的晶矿费用减1，如果你的最后一个萝莉船死亡，丢弃该牌"
+  },
+  {
+    "en": "They only attack non-Keystone structures with a special grenade attack.",
+    "cn": "他们只会用特制炸弹攻击非钥石建筑"
+  },
+  {
+    "en": "Add Scanner Sweep, MULE, and Supply Drop to your hand.",
+    "cn": "在你的手牌中生成太阳拳，矿骡和奥术愚蠢"
+  },
+  {
+    "en": "It unloads 20 Marines in the enemy patrol area. If your deck is empty, upgrade this card to send 3 Hercules Dropships.",
+    "cn": "用载有20个机枪的大力神向敌方防守区空投机枪，如果你的卡组空了，升级这张卡改为召唤三个大力神"
+  },
+  {
+    "en": "Launch: It deals 1500 damage to the toughest enemy air unit.",
+    "cn": "战吼：对敌方最肉空中单位造成1500伤害"
+  },
+  {
+    "en": "They attack from the cliff, and have upgraded speed and cliff-jumping.",
+    "cn": "他们从高地上进攻，升级了移速和跳跃悬崖的能力"
+  },
+  {
+    "en": "Build an Infestation Pit. Until destroyed, it revives your Infested units as Infested Civilians.",
+    "cn": "建造一个感染深渊，直至被摧毁，将你所有死亡的感染单位复活为感染人"
+  },
+  {
+    "en": "They use burrow to retreat. Launch: Reduce your gas income by 1.",
+    "cn": "埋地后撤。战吼：减少你的一点瓦斯产能"
+  },
+  {
+    "en": "They have 50% life and no shields.",
+    "cn": "他们只有50%生命且没有护盾"
+  },
+  {
+    "en": "They have +12 range, but can only attack non-Keystone structures.",
+    "cn": "它们拥有+12射程和对建筑伤害科技，但只能攻击除钥石之外的建筑"
+  },
+  {
+    "en": "Fetch a card with \\\"Chrono\\\" in the name (other than Chrono Probe). If you have none, draw a card instead.",
+    "cn": "检索一张名字中含有“时空”的卡，如果没有，则抽一张牌"
+  },
+  {
+    "en": "Fetch a Chrono Boost or Assimilator card.",
+    "cn": "检索一张时空加速或气矿"
+  },
+  {
+    "en": "Build 1 Photon Cannon for each structure you control.",
+    "cn": "你每控制一个建筑，建造一个光子炮台"
+  },
+  {
+    "en": "When killed, return it to your hand.",
+    "cn": "亡语：生成一张不死鸡猎到你的手牌"
+  },
+  {
+    "en": "Shuffle 1 Riot card into your deck.",
+    "cn": "向你的卡组中加入一张叛乱卡"
+  },
+  {
+    "en": "Launch: Add a Xenomorph Research card to your hand.",
+    "cn": "战吼：向你的手牌添加一张异形研究卡"
+  },
+  {
+    "en": "Build 4 Missile Turrets.",
+    "cn": "建造四个导弹塔"
+  },
+  {
+    "en": "Build a Factory. Each turn it sends 1 Vulture.",
+    "cn": "建造一个重工，每回合生产一秃鹫"
+  },
+  {
+    "en": "Send 6 Vultures to place 3 Spider Mines each near the center of the battlefield.",
+    "cn": "召唤6个秃鹫，每个秃鹫会在战场中心埋3个蜘蛛雷，秃鹫埋雷后离开"
+  },
+  {
+    "en": "Use Irradiate on 3 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": "对三个敌方单位使用辐照，会对他们和附近的敌人生物单位造成伤害"
+  },
+  {
+    "en": "Draw 3 cards. Then shuffle 3 Riot cards into your deck.",
+    "cn": "抽三张牌，向你的卡组中塞入三张叛乱牌"
+  },
+  {
+    "en": "They start with 0 energy.",
+    "cn": "他们出生时没有能量"
+  },
+  {
+    "en": "Launch: Add 2 Xenomorph Research cards to your hand.",
+    "cn": "战吼：向你的手牌中添加两张异形研究牌"
+  },
+  {
+    "en": "Launch: Give all of your non-Commander units Rush.",
+    "cn": "战吼：让你所有非指挥官单位rush"
+  },
+  {
+    "en": "Build a Research Facility. Each turn it adds a Xenomorph Research card to your hand.",
+    "cn": "建造一个异形研究所，每回合向你的手牌中添加一张异形研究卡"
+  },
+  {
+    "en": "Reduce the cost of all Confederate cards in your hand by 2 minerals and 2 gas. Shuffle 2 Riot cards into your deck.",
+    "cn": "缩减你手牌中的所有联邦牌的晶体和瓦斯费用2点，向你卡组中塞入两张叛乱牌"
+  },
+  {
+    "en": "Make your two cheapest Factories produce Goliaths. (Only one attachment can be added to each structure).",
+    "cn": "从你无挂件的重工中选择两个最便宜的为其配备挂件并使其生产歌莉娅（每个建筑只能配备一个挂件）"
+  },
+  {
+    "en": "Launch: Add a 22nd Reinforcements card to your hand.",
+    "cn": "战吼：向你手牌中添加一张22师增援部队"
+  },
+  {
+    "en": "Build a Ghost Academy. It gives your Ghosts and Spectres +3 range and prevents enemy card effects from choosing them as targets.",
+    "cn": "建造一个幽灵军校，使你的幽灵和幽魂射程加3并防止其成为敌对卡牌的目标"
+  },
+  {
+    "en": "Build a Barracks, Bunker, and Missile Turret. Launch: Destroy all of your other structures and discard all structure cards from your hand and deck.",
+    "cn": "建造一兵营一地堡一导弹塔。战吼：摧毁你卡组，场上，手牌中的所有建筑。"
+  },
+  {
+    "en": "Launch 1 Nuke at the enemy defensive area and 1 at the battlefield center (they land after 1 battle phase). Shuffle 4 Riot cards into your deck.",
+    "cn": "在敌对防守区和地图中间各自发射一枚在下回合引爆的核弹，向你的卡组中塞入四张叛乱牌"
+  },
+  {
+    "en": "Discard up to 3 Riot cards from your deck. For each card discarded send 6 aggressive Marines with rush.",
+    "cn": "从卡组中丢弃3张叛乱牌，每丢弃一张召唤6个带有突袭的机枪"
+  },
+  {
+    "en": "When killed it drops 4 Marines, 1 Goliath, and 1 heroic Siege Tank.",
+    "cn": "亡语：掉落4机枪，1歌莉娅，1英雄坦克"
+  },
+  {
+    "en": "Launch: Discard a random heroic card from one of your opponents' decks.",
+    "cn": "战吼：随机丢弃某个对手的一张英雄单位牌"
+  },
+  {
+    "en": "Launch: Discard all Confederate and Riot cards from your hand. Send 20 Marines for each card discarded.",
+    "cn": "战吼：丢弃你手牌中的所有联邦牌和叛乱牌，每丢弃一张召唤20机枪"
+  },
+  {
+    "en": "Build a Sunken Colony. Launch: If you have no Sunken Colonies on the battlefield, add a copy of Sunken Colony to your hand.",
+    "cn": "建造一个潜隐菌落。战吼：如果你场上没有潜隐菌落，在你的手牌中生成一张潜隐菌落"
+  },
+  {
+    "en": "Give your biological air units +100 life (doesn't stack).",
+    "cn": "使你的生物空中单位+100生命（不叠加）"
+  },
+  {
+    "en": "Give your biological ground units +3 armor (doesn't stack).",
+    "cn": "使你的生物地面单位+3护甲（不叠加）"
+  },
+  {
+    "en": "At the start of the next Play Phase, add 6 Zerglings to each Spawn card in your hand.",
+    "cn": "在下一个出牌阶段开始时，向你手牌中的每个卵牌加6狗"
+  },
+  {
+    "en": "Add 8 Zerglings and 1 mineral cost to each Spawn card in your hand.",
+    "cn": "你手中的所有卵牌增加8小狗以及一点水晶费用"
+  },
+  {
+    "en": "They each increase your hand size by 1.",
+    "cn": "各自增加一点手牌上限"
+  },
+  {
+    "en": "They each unload 2 Hydralisks and 4 Zerglings near the enemy defensive area.",
+    "cn": "各自在敌方防守区空投2刺蛇4小狗"
+  },
+  {
+    "en": "Build a Spire. Each turn it adds a Mutalisk Spawn or Scourge Spawn card (chosen randomly) to your hand. Launch: Reduce your gas income by 1.",
+    "cn": "建造一个龙塔，每回合向你的手牌添加一张飞龙卵牌或爆蚊卵牌。战吼：缩减一点瓦斯产能"
+  },
+  {
+    "en": "Destroy a random enemy structure, then 8 Zerglings and 2 Hydralisks unburrow from underneath it.",
+    "cn": "随机摧毁一个敌方建筑并召唤8狗2刺蛇出地攻击"
+  },
+  {
+    "en": "Set the energy (current and maximum) of your biological energy units to 400.",
+    "cn": "将你的生物能量单位的能量及上限变为400"
+  },
+  {
+    "en": "At the start of the next Play Phase, add 2 Hydralisks and 1 mineral cost to each Spawn card in your hand.",
+    "cn": "在下一个出牌阶段开始时，向你手牌中的每个卵牌加2刺蛇和一点晶矿消耗"
+  },
+  {
+    "en": "Add 2 Hydralisks and 1 mineral cost to each Spawn card in your hand.",
+    "cn": "你手中的所有卵牌增加2刺蛇以及一点水晶费用"
+  },
+  {
+    "en": "Launch: Play all cards from your hand that send only air units, and discard the rest.",
+    "cn": "战吼：打出你手牌中所有仅召唤空中单位的牌，摧毁剩余的"
+  },
+  {
+    "en": "Build a Creep Colony. Launch: Draw a card. If you have no Creep Colonies on the battlefield, add a Creep Colony to your hand.",
+    "cn": "建造一个菌毯菌落。战吼：抽一张牌，如果你场上没有菌毯菌落，向你的手牌添加一张菌毯菌落"
+  },
+  {
+    "en": "At the start of the next Play Phase, add 1 Ultralisk, 1 mineral cost, and 1 gas cost to each Spawn card in your hand.",
+    "cn": "在下一个出牌阶段开始时，向你手牌中的每个卵牌加1牛和一点晶矿瓦斯费用"
+  },
+  {
+    "en": "Add 1 Ultralisk, 1 mineral cost, and 1 gas cost to each Spawn card in your hand.",
+    "cn": "你手中的所有卵牌增加1大牛以及一点水晶及瓦斯费用"
+  },
+  {
+    "en": "Shuffle an Infestation card into each of your opponent's decks.",
+    "cn": "向你每个对手的卡组中塞入一张“敌对的渗透者”牌"
+  },
+  {
+    "en": "Each turn this card updates to have 6 Zerglings, 2 Mutalisks, or 1 Hydralisk per enemy unit with energy.",
+    "cn": "每回合刷新召唤物，敌人每有一个能量单位随机从6狗2飞龙1刺蛇中选择一项召唤"
+  },
+  {
+    "en": "Replace your team's KeyStone with the Overmind. Each turn it adds a random Spawn card to your hand, then doubles that card's unit count.",
+    "cn": "用主宰替代你队伍的钥石，每回合随机产生一张虫卵牌并翻倍其召唤物"
+  },
+  {
+    "en": "When killed, shuffle a Torrasque Revival card into your deck.",
+    "cn": "亡语：向你的卡组中塞入一张托雷斯克复活牌"
+  },
+  {
+    "en": "Launch: Reduce your mineral and gas income by 1 each.",
+    "cn": "战吼：缩减你的1点瓦斯和水晶产能"
+  },
+  {
+    "en": "Each turn that you play no cards, add 2 Zealots to this card.",
+    "cn": "每空过一回合，向这张牌中添加两个狂热者"
+  },
+  {
+    "en": "They try to leave the battlefield when they retreat, and return to your hand if successful.",
+    "cn": "在后撤时离开战场， 每成功撤退一个棍子在你的手牌中生成一张1/0棍机卡。"
+  },
+  {
+    "en": "Build 2 Pylons. Launch: Fully restore the shields and energy of all of your structures.",
+    "cn": "建造两个水晶塔. 战吼：变更你建筑当前的护盾及能量为该建筑的上限"
+  },
+  {
+    "en": "Build a Gateway. Launch: Fetch your least expensive unit card. If the fetch succeeds, skip your next draw step.",
+    "cn": "建造一个传送门. 战吼：检索一张你牌库里最便宜的单位牌，如果成功则跳过下个抽牌阶段"
+  },
+  {
+    "en": "Cloak all of your ground units for 1 battle phase.",
+    "cn": "你的地面单位全部隐身一回合。"
+  },
+  {
+    "en": "Launch: All of your units on the battlefield become aggressive and gain rush.",
+    "cn": "战吼：你的单位全部获得突袭并变成进攻单位。"
+  },
+  {
+    "en": "Stun 2 clusters of enemy units with Stasis Field for 2 turns. Affected units are invulnerable while stunned.",
+    "cn": "冻结两个敌对单位集群.冻结期间单位无敌."
+  },
+  {
+    "en": "Until destroyed, they each cost 1 mineral per turn.",
+    "cn": "维护：1水晶"
+  },
+  {
+    "en": "Until killed, the Carrier costs 1 mineral per turn. Each turn that you play no cards, add 1 Scout to this card.",
+    "cn": "维护：1水晶。每空过一回合添加一个侦查机到该牌中"
+  },
+  {
+    "en": "Launch: Fetch the most expensive action card from your deck.",
+    "cn": "战吼：检索你牌库中最贵的动作牌"
+  },
+  {
+    "en": "Until destroyed, the Reaver costs 1 mineral per turn.",
+    "cn": "维护：1水晶"
+  },
+  {
+    "en": "Build 2 Shield Batteries. Launch: Fully restore the shields on all of your units.",
+    "cn": "建造两个护盾电池，战吼：完全恢复所有你的单位的护盾值。"
+  },
+  {
+    "en": "Teleport all of your units to your team's spawn area and fully recover their shields. Then make all of your units on the battlefield defensive.",
+    "cn": "传送你的全部单位到队伍出生点，并完全恢复其护盾，并使其变成防御单位"
+  },
+  {
+    "en": "Disable all enemy structures for 1 turn. They are invulnerable while disabled.",
+    "cn": "冻结所有敌方建筑一回合，使其失效，冻结期间建筑无敌。"
+  },
+  {
+    "en": "Give up to 24 of your biological Protoss units Recall Suits, which revives them as Dragoons when they die (overrides the Cybernetics Core revival effect).",
+    "cn": "使你至多24个神族生物单位获得亡语：复活成为龙骑士。（不叠加并且优先级大于控制核心）"
+  },
+  {
+    "en": "Each turn that you play no cards, add 1 High Templar to this card. Launch: They use Psionic Storm on clusters of enemy units.",
+    "cn": "你每空过一回合，向这张卡中添加一个高阶圣堂武士。战吼：他们对敌方单位使用灵能风暴。"
+  },
+  {
+    "en": "You can only play this card if every unit you control is cloaked.",
+    "cn": "只有你控制的每个单位都是隐形单位时你才能打出这张卡。"
+  },
+  {
+    "en": "Build a Robotics Bay. Until destroyed, ignore 2 mineral and 2 gas upkeep (resource costs that you pay every turn).",
+    "cn": "建造一个机械湾，直至被摧毁，减少2点瓦斯以及水晶维护费"
+  },
+  {
+    "en": "Send an invulnerable Mothership to use Planet Cracker, dealing massive damage to ground units and moderate damage to structures.",
+    "cn": "派出一个无敌的妈妈船使用行星碎裂炮横穿整个战场，对所有地面单位照成巨大伤害。（包括己方）"
+  },
+  {
+    "en": "Discard 5 unit cards that send ground units from your deck. Increase your mineral income by 1.",
+    "cn": "从你的牌库中丢弃5张召唤地面单位的牌，随后增加你1点晶体矿产能。"
+  },
+  {
+    "en": "When killed, add Fenix Reborn and 2 Warp Ins to your hand.",
+    "cn": "当该单位死亡时，将菲尼克斯重生和2张折跃援军加入你的手牌中。"
+  },
+  {
+    "en": "Until destroyed, it costs 1 mineral per turn. Each turn that you play no cards, reduce the cost of this card by 1 random resource.",
+    "cn": "维护：1水晶。每空过一回合，该牌随机减少1点资源费用。"
+  },
+  {
+    "en": "Launch: Play a random action card from your hand. If you do, draw a card.",
+    "cn": "战吼：随机打出你的手牌中的动作牌，如果成功打出则抽一张牌"
+  },
+  {
+    "en": "Each turn this is in your hand, a random opponent sends 2 Marines. Play this card to quell the riot and draw a card.",
+    "cn": "打出这张牌时抽一张牌，只要这牌在你的手牌中，每回合你的一个随机敌人将额外召唤两个机枪兵"
+  },
+  {
+    "en": "Calldown Marines until you have 10 per Commander you control. Discard this card if your last Commander dies.",
+    "cn": "空投机枪直至你的每个指挥官带领10个机枪，如果你场上最后一个指挥官死亡则丢弃该牌"
+  },
+  {
+    "en": "Send 4 Vultures to place 3 Spider Mines each in your defensive area. They leave the battlefield afterwards.",
+    "cn": "召唤4个秃鹫，他们会分别将3枚蜘蛛雷埋入你的防御区内，然后离开战场。"
+  },
+  {
+    "en": "Launch: Discard all Riot cards from your hand, then draw a card for each one discarded.",
+    "cn": "战吼：丢弃当前手牌中全部的叛乱牌，每成功丢弃一张叛乱牌，则中抽一张牌。"
+  },
+  {
+    "en": "When selected, gain 1 mineral.",
+    "cn": "当选中时，获得一点晶体矿"
+  },
+  {
+    "en": "Give the units you play this turn Rush.",
+    "cn": "让你的单位获得突袭"
+  },
+  {
+    "en": "Deal 500 damage to the toughest enemy unit.",
+    "cn": "对最肉的敌方单位造成500伤害"
+  },
+  {
+    "en": "Draw a card.",
+    "cn": "抽一张卡"
+  },
+  {
+    "en": "Use Irradiate on 2 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": "对两个敌对随机生物单位使用辐照，期间会对附近敌对生物单位持续造成伤害（没有友伤）"
+  },
+  {
+    "en": "Each turn this is in your hand, an opponent sends 4 Zerglings and 1 Hydralisk. Play this card to clear the infestation and draw a card.",
+    "cn": "每当它出现在你的手牌中的时候会给随机一名对面4张跳虫和1只刺蛇，打出这张牌可以解决渗透并且抽一张牌"
+  },
+  {
+    "en": "Make your most expensive Factory or Starport produce Thors or Battlecruisers. Discard 2 random cards for each produced, or destroy Physics Lab if you can't.",
+    "cn": "从你无挂件的重工，机场中选择两个最贵的为其配备挂件并使其生产雷神或大和（每个建筑只能配备一个挂件）每生产出一个单位就随机丢弃你的2张手牌，如果手牌不足2张则在生产单位完成后摧毁该物理实验室。"
+  },
+  {
+    "en": "Replace all cards in your deck that send only Zerglings with random cards that send only Banelings.",
+    "cn": "把你卡组中只召唤狗的牌替换为只召唤毒爆的牌"
+  },
+  {
+    "en": "The number of Archons on this card is equal to your unspent gas (minimum of 1).",
+    "cn": "这张卡的召唤数量等于本回合中没有使用的剩余瓦斯数量。（最少召唤1个）"
+  },
+  {
+    "en": "Launch: Discard your hand. Channel 10: Add 6 Void Army cards to your hand.",
+    "cn": "战吼：丢弃你的所有手牌 钥石幽能 10：向你的手牌中添加6张虚空大军的阴影卡"
+  },
+  {
+    "en": "Launch: Reduce the cost of all Hybrid and Void cards in your deck and hand by 1 gas.",
+    "cn": "战吼：减少你手牌和牌库中所有混合体和虚空牌的一点瓦斯消耗。"
+  },
+  {
+    "en": "When selected, gain 1 gas. When played, add Spectre Cell to your hand.",
+    "cn": "选中时，获得1点瓦斯，同时再添加一张幽魂小队到你的手牌中。"
+  },
+  {
+    "en": "When killed it drops 8 Marines.",
+    "cn": "亡语：召唤8个机枪"
+  },
+  {
+    "en": "Add Defensive Matrix to your hand. Then reduce the cost of all cards in your hand by 1 mineral.",
+    "cn": "在你的手牌中生成一张防御矩阵，然后减少你手牌中所有卡牌的一点矿物消耗。"
+  },
+  {
+    "en": "Launch: Return 1 card with the \\\"buried\\\" keyword from your discard pile to your hand.",
+    "cn": "将一张具有“埋葬”属性的卡从你的弃牌区加入到你的手牌"
+  },
+  {
+    "en": "Return 3 cards with the \\\"buried\\\" keyword from your discard pile to your hand.",
+    "cn": "将三张具有“埋葬”属性的卡从你的弃牌区加入到你的手牌"
+  },
+  {
+    "en": "Build a Psi Disruptor. Until destroyed, it prevents each enemy player from spending 1 of his or her minerals.",
+    "cn": "建造一个灵能干扰器，直至被摧毁，每回合都将消耗所有对手的一点晶体矿"
+  },
+  {
+    "en": "Use Defensive Matrix on your toughest 6 units. Defensive matrix expires after preventing 200 damage or after 2 battle phases.",
+    "cn": "对你最肉的6个单位使用能量护盾，护盾持续2回合可以抵消200伤害。"
+  },
+  {
+    "en": "Build a Bunker. Then shuffle a Secret Hangar into your deck.",
+    "cn": "建造一个地堡，然后向你的卡组内洗入一张秘密机库牌。"
+  },
+  {
+    "en": "Add random Hybrid cards to your hand until you have 7 cards.",
+    "cn": "向你的手牌内添加混合体牌，直到你具有7张手牌为止。"
+  },
+  {
+    "en": "Disable the weapons and abilities of the 3 toughest enemy units for 1 turn. Targets mechanical and psionic units only.",
+    "cn": "对3个最肉敌对机械单位使用干扰矩阵，禁用敌方武器和技能一个回合。"
+  },
+  {
+    "en": "Until killed, draw an extra card each play phase.",
+    "cn": "该单位存活时，每回合你可以额外抽取一张牌。"
+  },
+  {
+    "en": "Channel 5: It sends 5 Seeker Missiles at clusters of enemy units.",
+    "cn": "钥石幽能 5：该单位以敌对单位群为目标发射5枚猎杀飞弹"
+  },
+  {
+    "en": "Deal 1500 damage to the toughest two enemy units.",
+    "cn": "对敌方最肉的两个单位各造成1500伤害"
+  },
+  {
+    "en": "Build a Supply Depot. When a Supply Depot is destroyed, discard a random card from your hand. Launch: Add Interference Matrix and Irradiate to your hand.",
+    "cn": "建造一个补给站，战吼：添加一张辐照/干扰计划到你手牌中，亡语：随机丢弃你的一张手牌。"
+  },
+  {
+    "en": "They cloak when they move out.",
+    "cn": "他们会在出场时使用隐身技能。"
+  },
+  {
+    "en": "When killed it drops 8 Banelings.",
+    "cn": "亡语：召唤8个毒爆"
+  },
+  {
+    "en": "Play two random unit cards that cost 4 or less resources from your hand.",
+    "cn": "随机打出手牌中2张4费及以下的单位牌。"
+  },
+  {
+    "en": "Play the most expensive unit card from your hand.",
+    "cn": "打出手牌中费用最高的单位卡，如果费用一样，则会随机选择。"
+  },
+  {
+    "en": "Play the least expensive unit card from your hand.",
+    "cn": "打出手牌中费用最低的单位卡，如果费用一样，则会随机选择。"
+  },
+  {
+    "en": "Channel 4: It immediately spawns inside and destroys a random enemy structure.",
+    "cn": "钥石幽能 4：立即出现在一个随机敌方建筑中并摧毁它。"
+  },
+  {
+    "en": "Channel 5: It gets +15 armor.",
+    "cn": "钥石幽能 5：获得15点护甲。"
+  },
+  {
+    "en": "Launch: It gains +10 life for each of your infested units that died this game.",
+    "cn": "战吼：你在这局对局中，每死亡一个异化作战体（被感染的生物单位），就将提升10点生命及上限。"
+  },
+  {
+    "en": "Replay one of each Evolution from your discard pile.",
+    "cn": "使用你的弃牌堆中的每一个不重复的进化卡。"
+  },
+  {
+    "en": "The number of Zerglings on this card is equal to the number of units you control.",
+    "cn": "这张牌的跳虫数量等同于你当前控制单位的数量（每回合刷新，且宠物不算）"
+  },
+  {
+    "en": "Implant 2 Broodlings into each of your units, which are released upon death (doesn't stack).",
+    "cn": "为你的所有生物单位添加一个亡语：每当自己死去后，将会生成2只巢虫。（不叠加）"
+  },
+  {
+    "en": "If you play an Evolution card they morph into Ravagers.",
+    "cn": "如果你打出一张进化卡它们进化为破坏者"
+  },
+  {
+    "en": "If you play an Evolution card they morph into Guardians or Devourers (each chooses randomly).",
+    "cn": "如果你打出一张进化卡它们随机进化为守护者或吞噬者"
+  },
+  {
+    "en": "It increases your hand size by 1. If you play an Evolution card it morphs into an Overseer that uses Contaminate on the 3 most expensive enemy structures.",
+    "cn": "增加你的一点手牌上限，如果你打出一张进化卡他将变形为眼虫并对三个敌对最高费建筑使用污染"
+  },
+  {
+    "en": "They have upgraded speed and focus their attack on structures.",
+    "cn": "它们已经升级了移速而且强制攻击建筑"
+  },
+  {
+    "en": "Build a Mutation Chamber. Each turn it morphs one of your Roaches, Hydralisks, Mutalisks, or Corruptors into the upgraded form.",
+    "cn": "建造一个进化腔，在每个回合开始时，随机选择一只蟑螂刺蛇飞龙腐化进行进化."
+  },
+  {
+    "en": "Channel 3: It gains +6 range.",
+    "cn": "钥石幽能 3：获得+6射程"
+  },
+  {
+    "en": "Set your income limit to 6 for both minerals and gas. Channel 1: Increase your gas income by 1.",
+    "cn": "将你的晶体矿和瓦斯产能上限都变成6.  钥石幽能 1：增加一点瓦斯产能"
+  },
+  {
+    "en": "The number of Stalkers on this card is equal to your unspent gas (minimum of 1).",
+    "cn": "此卡上的追猎者数量等于本回合未使用的气体（最少1个）。"
+  },
+  {
+    "en": "When killed it drops 2 Dark Templar.",
+    "cn": "当被消灭时掉落两个隐刀"
+  },
+  {
+    "en": "Copy 1 random unit card from an opponent's deck. Channel 2: Copy 2 instead. The copied cards have no race.",
+    "cn": "随机选择敌对卡组中的一张牌，将其复制并生成到你手中， 钥石幽能  2 ：更改为两张。复制的牌属于虚空牌"
+  },
+  {
+    "en": "Channel 4: They each destroy a random enemy structure that costs 4 or less.",
+    "cn": "钥石幽能 4：各自随机选择一个4费或以下的敌对建筑并摧毁目标建筑"
+  },
+  {
+    "en": "Disable the most expensive enemy structure for 1 turn. It is invulnerable while disabled. Add a copy of Enduring Stasis to your hand.",
+    "cn": "禁用最贵的敌方建筑一回合，禁锢期间该建筑无敌，同时生成一张永续禁锢到你的手牌"
+  },
+  {
+    "en": "Shuffle all unit cards that send mechanical units from your discard pile back into your deck. Add 1 to the unit count of all mechanical units on those cards.",
+    "cn": "将所有召唤机械单位的单位卡从弃牌堆送回牌组，并使召唤的机械单位加1。"
+  },
+  {
+    "en": "Supplicants count as your weakest units even if other units you control have less life and shields.",
+    "cn": "死徒永远被视为你最弱的单位，即使你控制的其他单位的血盾和更少"
+  },
+  {
+    "en": "Sacrifice your weakest 4 units. Then give your toughest ground unit +1200 shields and +12 damage.",
+    "cn": "牺牲最弱的四个单位，给予你最肉的地面单位1200盾12攻击"
+  },
+  {
+    "en": "Channel 5: Steal the weakest enemy unit and recall it to your spawn area. Repeat until 750 life/shields have been stolen.",
+    "cn": "钥石幽能 5：选择并控制敌对最弱单位直到被控制单位的生命/护盾值总计达到或超出750"
+  },
+  {
+    "en": "Each turn he sacrifices your weakest unit, fully restoring his energy and granting him +300 shields and +3 damage.",
+    "cn": "每回合他牺牲你最弱的单位，回满能量并加300盾3攻击"
+  },
+  {
+    "en": "Cast 2 Psionic Orbs. They move across the entire battlefield doing moderate damage to nearby enemy units.",
+    "cn": "施放2个灵能球，穿过战场并对附近的敌军单位造成伤害。"
+  },
+  {
+    "en": "Upgrade your cheapest Stargate into a Warp Stargate, which adds Star Warp cards to your hand each turn. If you have no Stargates, add 2 Star Warp cards to your hand instead.",
+    "cn": "把你最低费用的一个星门升级为折跃星门，每回合给你一张星际折跃卡。如果你没有星门，给你两张星际折跃卡"
+  },
+  {
+    "en": "Build a Stargate. It costs 1 gas per turn. Each turn it sends 1 Void Ray.",
+    "cn": "建造一个星门，每回合生产一虚空。维护：1瓦斯"
+  },
+  {
+    "en": "Build an Argus Crystal. Launch: Lock the most expensive unit card in an opponent's hand. It can't be played until your last Argus Crystal is destroyed.",
+    "cn": "建造一个阿古斯水晶，战吼：直至被摧毁，锁定一个对手手牌中的最高费单位牌，使其不能被打出"
+  },
+  {
+    "en": "Build a Pylon. Launch: Draw a card, then increase your Keystone's energy by 3.",
+    "cn": "建造一个水晶塔。战吼：抽一张牌，然后增加你的钥石三点能量"
+  },
+  {
+    "en": "Until killed, add a Terrazine Canister to your hand each play phase.",
+    "cn": "直至死亡，每回合向你的手牌中生成一个地嗪罐"
+  },
+  {
+    "en": "Deal 1500 damage to the two most expensive enemy structures.",
+    "cn": "对费用最高的两个敌方建筑各造成1500点伤害"
+  },
+  {
+    "en": "Build a Starport. Each turn it sends 1 Wraith.",
+    "cn": "建造一个机场，每回合生产一怨灵"
+  },
+  {
+    "en": "They use Tactical Jump to warp to the enemy defensive area.",
+    "cn": "他们出场时使用战术折跃来跳到敌人的防御区。"
+  },
+  {
+    "en": "Give your team's biological units +50% life (doesn't stack).",
+    "cn": "使你队伍的生物单位+50%生命（不叠加）"
+  },
+  {
+    "en": "Add a Shakuras Patrol to your hand. For each powered structure you control (including Pylons), it sends 1 Dragoon, Dark Templar, or Scout (chosen randomly).",
+    "cn": "向你的手牌中添加一张萨古拉斯巡逻队，你每有一个充能的建筑或水晶塔，从一龙骑，一隐刀，一棍机中随机获得"
+  },
+  {
+    "en": "They have 50% life and no shields. This card has heroic as long as you control 10 or fewer units.",
+    "cn": "他们只有50%生命而且没有护盾。如果你控制的单位不超过10，这张卡获得英雄词条。"
+  },
+  {
+    "en": "If you control at least 4 energy units at the start of the play phase, upgrade this card.",
+    "cn": "如果你至少控制4个能量单位，升级这张卡"
+  },
+  {
+    "en": "They attack from the cliff. The Hydralisks spawn burrowed and wait 1 turn before unburrowing.",
+    "cn": "从高地上进攻，刺蛇会以埋地状态出生并在一回合后出地"
+  },
+  {
+    "en": "Each turn add 1 Zergling to this card for each energy unit you control.",
+    "cn": "每回合你每控制一个能量单位就向这张牌中添加一个跳虫"
+  },
+  {
+    "en": "They spawn inside the most expensive enemy structure, destroying it.",
+    "cn": "它们从敌方费用最高的建筑中出生并摧毁它"
+  },
+  {
+    "en": "The Dragoon adds a Hero Warp card to your hand each turn. The Commander gives your team's heroic units +15% damage and +1 armor.",
+    "cn": "菲尼克斯每回合给你一张英雄折跃牌，雷诺使你队伍的所有英雄单位增加15%伤害1护甲"
+  },
+  {
+    "en": "Launch: Add a Repair Station card to your hand.",
+    "cn": "战吼：向你的手牌中添加一张修理站"
+  },
+  {
+    "en": "Launch: Remove detection from all enemy units and structures (even if they're not visible to you).",
+    "cn": "战吼：移除所有敌方单位和建筑的侦测能力（即使它对你不可见）"
+  },
+  {
+    "en": "Launch: If you have a Terran unit, give Duran +40 damage. If you have Zerg, give him rapid life regeneration. If you have Protoss, give him permanent cloaking.",
+    "cn": "战吼：如果你控制了人族单位，加40攻击，如果你控制了虫族单位，获得快速回血的能力，如果你控制了神族单位，杜兰永久隐形"
+  },
+  {
+    "en": "For each energy unit you control, shuffle a Slave Broods card into your deck.",
+    "cn": "你每控制一个能量单位，向你的卡组中塞入一张奴隶巢群"
+  },
+  {
+    "en": "Remove detection from 3 random enemy detectors (even if they're not visible to you).",
+    "cn": "移除随机三个敌方侦测单位的侦测能力（即使它对你不可见）"
+  },
+  {
+    "en": "Build a Bunker, a Missile Turret, and 2 Sunken Colonies. Each turn, reduce the cost of this card by 1 mineral if you control an energy unit.",
+    "cn": "建造一个地堡，一个导弹塔，两个潜隐菌落。如果你每回合控制一个能量单位，则减少一点矿物"
+  },
+  {
+    "en": "The Battlecruiser moves across the battlefield while firing and leaves upon reaching the enemy Keystone.",
+    "cn": "战列巡洋舰会从钥石出发到移动攻击另外一边的钥石后进行折跃离开"
+  },
+  {
+    "en": "Until destroyed, it gives all players +1 mineral income. When this card is selected, gain 3 minerals.",
+    "cn": "在被摧毁之前，它给予所有玩家1点矿物收入（包括对手）。当这张卡被选中时，获得三点矿物"
+  },
+  {
+    "en": "Build a Raider's Cache. Until destroyed, it gives your team's heroic units +15% damage and +1 armor.",
+    "cn": "建造一个突击队工程·站，直至被摧毁，使你队伍的英雄单位增加15%伤害和1护甲"
+  },
+  {
+    "en": "Each player on your team draws a card. Until the end of this battle phase, prevent players on your team from discarding due to drawing past their hand limit.",
+    "cn": "让你队伍的所有玩家抽一张牌"
+  },
+  {
+    "en": "Launch: Add 1 Goliath to every UED unit card in your hand.",
+    "cn": "战吼：向你手牌中的所有UED单位卡添加一个歌莉娅"
+  },
+  {
+    "en": "Launch: Add 1 Wraith to every UED unit card in your hand.",
+    "cn": "战吼：向你手牌中的所有UED单位卡添加一个怨灵战机"
+  },
+  {
+    "en": "Launch: Discard 2 random non-Confederate cards. Then draw a card for each one discarded.",
+    "cn": "战吼：随机丢弃两张非联邦牌，每丢弃一张抽一张牌"
+  },
+  {
+    "en": "Deal 1500 damage to 4 random enemy structures that cost 2 or less. Add a Vespene Barrel to your hand.",
+    "cn": "对四个费用不高于2的敌方建筑造成1500点伤害，并向你的手牌中添加一个瓦斯罐"
+  },
+  {
+    "en": "Deal 1500 damage to a random enemy structure that costs between 4 and 6. Then shuffle two Battlecruisers into your deck.",
+    "cn": "摧毁一个费用介于4到6的随机敌方建筑，然后向你的卡组中塞入两张大和。"
+  },
+  {
+    "en": "Whenever you play a UED card, add 2 Marines to this card.",
+    "cn": "当你打出一张UED卡时，向这张牌中添加两个好兄弟"
+  },
+  {
+    "en": "Add two Slave Broods cards to your hand.",
+    "cn": "向你的手牌中添加两个奴隶巢群"
+  },
+  {
+    "en": "Build a Barracks and a Bunker. They have 30% life.",
+    "cn": "建造一个兵营和一个地堡，它们只有30%的生命而且很燃"
+  },
+  {
+    "en": "Your biological units recover 10 life per second for 2 turns (doesn't stack).",
+    "cn": "你的生物单位每秒恢复10生命两回合（不能叠加）"
+  },
+  {
+    "en": "This card has heroic as long as you control 10 or fewer units.",
+    "cn": "这张卡获得英雄词条当你控制的单位数量不超过10"
+  },
+  {
+    "en": "This card has heroic and rush as long as you control 10 or fewer units.",
+    "cn": "这张卡获得英雄和突袭词条当你控制的单位数量不超过10"
+  },
+  {
+    "en": "Launch: Add Stimpack, Combat Drugs, and Neurostim Drugs to your hand.",
+    "cn": "战吼：向你的手牌中添加神经药物，兴奋剂，战斗药剂"
+  },
+  {
+    "en": "Target all enemy cloaked, burrowed, and energy units with an EMP blast, which permanently suppresses cloaking and permanently removes all energy.",
+    "cn": "用EMP攻击所有敌人的隐形、埋地和能量单位，这些单位会永久失去暴露并失去蓝条"
+  },
+  {
+    "en": "Draw 2 cards. Then order your 6 weakest units to leave the battlefield (only targets units that are not already leaving).",
+    "cn": "命令你最弱的6个单位离开战场（只针对尚未离开的单位）。你每命令三个单位就抽一张牌。"
+  },
+  {
+    "en": "Give your team's biological units +3 damage (doesn't stack).",
+    "cn": "你队伍中的所有生物单位加3攻击（不叠加）"
+  },
+  {
+    "en": "You can only play this card if you control a unit with energy.",
+    "cn": "你只有在控制能量单位时才能打出该牌"
+  },
+  {
+    "en": "Launch: Ensnare all enemy cloaked and burrowed units for 1 turn, revealing them and reducing their movement speed.",
+    "cn": "战吼：对所有敌人的隐形单位和埋地单位释放诱捕，暴露它们并降低它们的移动速度一回合。"
+  },
+  {
+    "en": "Give your burrowed and cloaked units double damage (doesn't stack). They keep the bonus even if they unburrow or lose cloaking.",
+    "cn": "使你的埋地和隐身单位伤害翻倍（不叠加），即使它们不再处于隐形或埋地状态也不会失去该buff"
+  },
+  {
+    "en": "They spawn burrowed in your defensive area and wait 1 turn before unburrowing.",
+    "cn": "它们在你的防守区以埋地状态出生，并在一回合后出地"
+  },
+  {
+    "en": "Kill all of your non-Zerg units. For each unit killed, send 1 Ultralisk, 1 Guardian, 3 Hydralisks, 5 Mutalisks, or 15 Zerglings (chosen randomly).",
+    "cn": "杀死你的所有非z单位，每杀死一个单位，从1牛，1守护者，3刺蛇，5飞龙，15狗中随机选择一项召唤"
+  },
+  {
+    "en": "They spawn burrowed near the center of the battlefield and wait 1 turn before unburrowing.",
+    "cn": "它们在战场中央以埋地状态出生，并在一回合后出地"
+  },
+  {
+    "en": "Each turn set the units on this card to match the burrowed units you control.",
+    "cn": "每回合将这张牌上的单位重置为你控制的所有埋地单位"
+  },
+  {
+    "en": "Launch: All of your Lurkers unburrow and move forward (they reburrow again once in sight of a target).",
+    "cn": "战吼：命令你的所有潜伏者出地并前进，接敌时埋地"
+  },
+  {
+    "en": "Launch: Discard the 5 cheapest unit cards from your hand. Give the Zergling +300 life, +1 armor, and +10 damage per card discarded.",
+    "cn": "战吼：丢弃你手牌中的最便宜的五张单位牌，每丢弃一张给狗王加300生命1护甲10攻击"
+  },
+  {
+    "en": "Steal a heroic card from an opponent's deck (chosen randomly) and add it to your hand.",
+    "cn": "从你的对手的卡组中随机偷窃一张英雄牌加入到你的手牌中"
+  },
+  {
+    "en": "Launch: Infect the most expensive enemy structure with a plague that deals 1500 damage over 2 turns. Reduce your gas income by 1.",
+    "cn": "战吼：用瘟疫感染最昂贵的敌人建筑，在2回合内造成1500点伤害，减少你的瓦斯收入1。"
+  },
+  {
+    "en": "Discard the cheapest unit card from your hand. Your biological energy units recover 50 energy per second for 1 turn (doesn't stack).",
+    "cn": "弃你手牌中的最便宜的单位牌，你的生物能量单位本回合每秒回复50能量（无法叠加）"
+  },
+  {
+    "en": "Destroy a random enemy air unit with detection. Then 15 Scourge burst out of that dying unit.",
+    "cn": "摧毁一个随机敌方空中反隐单位，并从中孵化15个爆蚊"
+  },
+  {
+    "en": "Kill the toughest enemy ground unit that has 1000 or less current life and shields. Spawn 18 Broodlings at the dying unit. The Broodlings die after 2 turns.",
+    "cn": "击杀最肉的现有血盾之和不超过1000的敌方单位，并从中孵化18只有两回合现时生命的巢虫"
+  },
+  {
+    "en": "Build a Lurker Den. Each turn it adds a Lurker Spawn to your hand if you control no Lurkers, and each turn it orders one of your Lurkers with no targets in range to unburrow and advance.",
+    "cn": "建造一个潜伏者巢，如果你场上没有潜伏者则每回合给你一张潜伏者卵牌，并命令你的一个没有攻击目标单位的潜伏者出地并前进"
+  },
+  {
+    "en": "Increase your mineral income by 1. Then do the same for the player on your team with the lowest mineral income.",
+    "cn": "增加你的1点晶矿产能，然后为你队伍中晶矿产能最低的玩家增加1点晶矿产能"
+  },
+  {
+    "en": "Build 2 Pylons. Fetch a card that sends Dark Templar.",
+    "cn": "建造两个水晶塔，检索一张含有黑暗圣堂武士的卡"
+  },
+  {
+    "en": "Fetch your cheapest structure card. If the fetch succeeds, skip your next draw step.",
+    "cn": "检索你最便宜的建筑牌，如果成功则跳过你的下一个抽牌阶段"
+  },
+  {
+    "en": "Each turn set the number of Zealots on this card equal to twice the number of heroic units you control (minimum 1).",
+    "cn": "每回合将这张卡召唤的狂热者数量重置为你控制的英雄单位的2倍（最少为1个）"
+  },
+  {
+    "en": "Build a Dragoon Shrine. Each turn it sends 1 Dragoon. Until destroyed, it costs 1 mineral per turn.",
+    "cn": "建造一个龙骑神殿，直至被摧毁，每回合生产1龙骑。维护：1水晶"
+  },
+  {
+    "en": "Each turn he fetches your cheapest structure card. If the fetch succeeds skip your next draw step.",
+    "cn": "每回合检索你最便宜的一张建筑牌，如果成功则跳过你的下一个抽牌阶段"
+  },
+  {
+    "en": "Use Disruption Web on all enemy defense structures, burrowed Lurkers, and sieged Siege Tanks. Each Web disables the weapons of enemy ground units in an area for 2 turns.",
+    "cn": "在所有敌人防御建筑、埋地潜伏者和攻城坦克上使用干扰网。每个干扰网在一个区域内禁用敌人地面单位的武器2回合。"
+  },
+  {
+    "en": "Cast Maelstrom on 3 clusters of enemy biological units, stunning them for 1 turn.",
+    "cn": "对3个敌方生物单位群施放心灵漩涡，使其晕眩1回合"
+  },
+  {
+    "en": "Permanently take control of the toughest enemy unit. Only targets units with current life and shields of 600 or less.",
+    "cn": "永久控制一个现有护盾和血量之和不超过600的最肉敌方单位"
+  },
+  {
+    "en": "Each turn this card's launch ability changes. Launch: Add a Maelstrom card to your hand. ",
+    "cn": "每回合这张牌的战吼能力都会发生变化。目前 战吼：添加一张心灵漩涡到你手中"
+  },
+  {
+    "en": "Remove your weakest 2 Immortals, 2 Dragoons, and 2 Stalkers from the battlefield, then immediately resend them as heroic tactical units. Only targets non-heroic units.",
+    "cn": "召回至多2不朽，2龙骑，2追猎，并立即将他们作为英雄战术单位重回战场。（不召回英雄单位）"
+  },
+  {
+    "en": "Launch: Play a random action card from your hand that costs 4 or less. If you do, draw a card.",
+    "cn": "战吼：随机打出你手牌中的一张费用不超过4的动作牌，如果打出则抽一张牌"
+  },
+  {
+    "en": "Build 2 Pylons. If you control a powered Gateway (or Warp Gate), build a Gateway. If you control a powered Stargate (or Warp Stargate), build a Stargate.",
+    "cn": "建造两个水晶塔，如果你场上有一个充能的传送门（星门）或者是折跃门（折跃星门），将额外建造一个传送门（星门）"
+  },
+  {
+    "en": "Upgrade this card into Bitter Avengers once you've lost at least 8 heroic units.",
+    "cn": "如果本局对战中你失去了至少8个英雄单位，将这张卡升级为“苦涩复仇者”"
+  },
+  {
+    "en": "Fetch a card that sends Zealots. Then change all of the Zealots on that card into Dark Templar.",
+    "cn": "检索一张含有狂热者的卡，并将该卡内的所有狂热者全部转化成黑暗圣堂武士"
+  },
+  {
+    "en": "When killed, cast 1 Psionic Storm per heroic unit you've lost this game.",
+    "cn": "亡语：它将释放等同于你本局对战内死亡的英雄单位数量的灵能风暴"
+  },
+  {
+    "en": "They start in the enemy spawn area.",
+    "cn": "它们在敌方准备区出生"
+  },
+  {
+    "en": "Build a Shield Battery.",
+    "cn": "建造一个护盾电池"
+  },
+  {
+    "en": "When selected, gain 1 gas.",
+    "cn": "当被选中时，增加一点瓦斯"
+  },
+  {
+    "en": "It uses Purification Beam once per turn to destroy the closest enemy structure (except the KeyStone). Until killed, it costs 2 minerals per turn.",
+    "cn": "直至被消灭，每回合使用净化光束摧毁最近的敌方建筑（不包括钥石）。维护：2点水晶"
+  },
+  {
+    "en": "You may only select this card if you've already selected a different unit card that sends air units.",
+    "cn": "当你已经选择另外一张不同名的召唤空中单位的牌时，你才可以选中该牌"
+  },
+  {
+    "en": "Launch: Discard a random defensive Protoss unit card from your deck. Send all of the units from that card as aggressive units with rush.",
+    "cn": "从你的牌库中随机丢弃一张神族防御单位卡，把卡上的所有单位作为进攻单位召唤并突袭"
+  },
+  {
+    "en": "Launch: Add 2 random spawn cards to your hand and set their cost to 0.",
+    "cn": "添加两张随机虫卵牌到你手中并使其费用变0"
+  },
+  {
+    "en": "Play all unit cards that cost 4 or less resources from your hand.",
+    "cn": "打出你手牌中所有4费及以下的单位牌"
+  },
+  {
+    "en": "Build a Swarmling Pool. Each turn it adds a Swarmling Spawn card to your hand. If all of your deck's unit cards cost 4 or less at game start, set this card's cost to 2 minerals.",
+    "cn": "建造一个血池，每回合把一张虫群卵牌加入到你的手牌中，若游戏开始时卡组内单位牌的费用都不超过4，则该牌费用变为2费"
+  },
+  {
+    "en": "Each turn set the number of Goliaths on this card equal to the number of cards among opponents' hands that cost 8 or more (minimum 1 Goliath).",
+    "cn": "每回合刷新召唤歌莉娅的数量为对手手牌中8费及以上的牌的数量（最少一个）"
+  },
+  {
+    "en": "Drop 24 aggressive Marines on the enemy's side of the battlefield.",
+    "cn": "在敌对战场空投24个进攻机枪"
+  },
+  {
+    "en": "Build 2 Barracks, 1 Engineering Bay, 1 Bunker, and 2 Missile Turrets.",
+    "cn": "建造2兵营，1工程站，1地堡，2导弹塔"
+  },
+  {
+    "en": "The number of Sentries on this card is equal to your unspent gas (minimum of 1). When selected, gain 1 gas.",
+    "cn": "这张卡上的哨兵数量等于你本回合未使用的瓦斯（最少1个）。选择后，获得1瓦斯。"
+  },
+  {
+    "en": "You can only select this card if your gas income is at least 4.",
+    "cn": "当你的瓦斯收入至少为4时，你才可以选中该牌"
+  },
+  {
+    "en": "Add 3 Void Army cards to your hand. Channel 3: Shuffle a Void Crystal into your deck.",
+    "cn": "钥石幽能 3：在你手牌中生成3张虚空大军卡。"
+  },
+  {
+    "en": "Fetch 2 cards that send Scouts. If both fetches succeed skip your next draw step.",
+    "cn": "检索2张召唤棍机的卡。如果成功检索到两张，则跳过下一个抽牌阶段。"
+  },
+  {
+    "en": "Launch: Add Mutalisk Spawn cards to your hand until you have 1 less than your maximum hand size.",
+    "cn": "战吼：添加飞龙卵牌到你的手牌中直到你的手牌数量等于你的手牌上限-1"
+  },
+  {
+    "en": "Build a Gateway. Each turn it sends 1 Supplicant. Supplicants count as your weakest units even if other units you control have less life and shields.",
+    "cn": "建造一个传送门，每回合生产一死徒。死徒永远被视为你最弱的单位。"
+  },
+  {
+    "en": "They attack from the cliff, and Blink towards the enemy base.",
+    "cn": "鸡猎从高地进攻，向敌方基地闪现，试图证明自己"
+  },
+  {
+    "en": "Fetch the most expensive unit card from your deck. Increase your gas income limit by 1.",
+    "cn": "检索你卡组中最高费用的单位牌，并增加一点瓦斯收入上限"
+  },
+  {
+    "en": "Launch: Sacrifice your weakest 2 units. Then give all units sent by this card +300 shields and +3 damage.",
+    "cn": "战吼：牺牲你最弱的两个单位，随后该牌所有单位+300护盾+3攻击"
+  },
+  {
+    "en": "Copy 2 random action cards from your opponents' decks.",
+    "cn": "在你手牌中随机从你对手卡组中复制并生成两张动作牌"
+  },
+  {
+    "en": "Sacrifice your weakest unit, then give your toughest ground unit +300 shields and +3 damage. Add a copy of Chain of Ascension to your hand.",
+    "cn": "牺牲你最弱的单位，随后你最肉的地面单位+300护盾及+3攻击。在你的手中复制并生成一张升格之链"
+  },
+  {
+    "en": "Deal 1500 damage to the toughest enemy unit. If that kills it, remove all copies of the card that summoned it from its owner's hand, deck, and discard pile.",
+    "cn": "选择最肉的敌对单位并对其造成1500单伤害。如果该效果击杀了该单位，则从单位所有者的牌库，手牌，墓地中移除全部同名牌"
+  },
+  {
+    "en": "Launch: For each unit you've sacrificed this game, Alarak gets +30 shields and +3 damage.",
+    "cn": "战吼：本局游戏内，你每牺牲一个单位，高坚果获得+30护盾+3伤害"
+  },
+  {
+    "en": "Launch: Sacrifice all other non-ground units you control.",
+    "cn": "战吼：牺牲其他非地面单位"
+  },
+  {
+    "en": "Launch: They immediately unburrow near the toughest enemy ground unit and attack it.",
+    "cn": "战吼：这些单位立刻在最肉敌对地面单位附近出生并钻出地面攻击该敌对单位"
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, it attacks from the cliff with rush.",
+    "cn": "战吼：如果本回合你只打出这张牌，这牌会从高地攻击并冲锋"
+  },
+  {
+    "en": "Draw a card. If your Primal units or structures kill a unit, upgrade this card.",
+    "cn": "抽一张牌。如果你的原始单位或建筑击杀一个敌人，则升级这张牌"
+  },
+  {
+    "en": "Launch: They attack the toughest enemy ground unit with unlimited range, then move to your defensive area.",
+    "cn": "战吼：该牌的单位会选择场上最肉的敌方地面单位并以无限射程攻击它，击杀后移动这些单位到你的防守区"
+  },
+  {
+    "en": "Launch: Add a Raw Essence to your hand.",
+    "cn": "战吼：在你手中生成一张原始精华"
+  },
+  {
+    "en": "Launch: They immediately unburrow near the toughest enemy unit and attack it.",
+    "cn": "战吼：这些单位以埋地状态出生在敌对最肉单位附近，并立刻钻出地面且优先攻击目标敌对单位"
+  },
+  {
+    "en": "Summon 2 Primal Wurms near the front line. Each turn they reposition to the front line if there are no nearby units.",
+    "cn": "在前线特殊召唤两条原始蠕虫。如果该建筑附近没有敌人则挖掘地道并重新移动到前线"
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, remove the heroic buff from the toughest enemy heroic unit.",
+    "cn": "战吼：如果本回合你只打出这张牌，那么移除敌对最肉英雄单位的英雄buff"
+  },
+  {
+    "en": "Add a random Pack Leader card to your hand. Whenever one of your Primal units or structures die, reduce the cost of this card by 1 random resource.",
+    "cn": "在你手中随机生成一张原始领袖牌。每当你的原始单位或建筑阵亡，减少该牌的一点随机费用"
+  },
+  {
+    "en": "Return this card from your discard pile to your hand if your Primal units or structures kill a unit and you don't control a Primal King.",
+    "cn": "当你的原始单位或建筑摧毁一个敌人且你场上没有永恒猎手德哈卡时，这张牌从墓地返回到你手牌"
+  },
+  {
+    "en": "Each turn discard the cheapest non-UED unit card that sends Marines from your hand. Move the Marines from that card to this card.",
+    "cn": "每回合丢弃一张最便宜且召唤机枪的非ued单位牌，并将里面的机枪转移到这张牌里"
+  },
+  {
+    "en": "Launch: Add 2 Goliaths to a random UED unit card in your hand.",
+    "cn": "战吼：把两个歌莉娅随机添加到你手中的一张ued单位牌中"
+  },
+  {
+    "en": "Launch: Add 2 Wraiths to a random UED unit card in your hand.",
+    "cn": "战吼：把两个怨灵战机随机添加到你手中的一张ued单位牌中"
+  },
+  {
+    "en": "Launch: For each Battlecruiser you control, add 2 Blockades (useless action cards that cost 1 mineral) to an opponent's hand.",
+    "cn": "战吼：随机选择一个对手并在其手中生成你场上大和舰数量X2的封锁（封锁是一张1费没有任何效果的动作牌）"
+  },
+  {
+    "en": "Your biological units block 75% of all spell damage for 2 turns (doesn't stack).",
+    "cn": "你场上的生物单位获得持续两回合的buff，使其减免75%的法术伤害（不叠加）"
+  },
+  {
+    "en": "Each turn add 1 Hydralisk to this if you control an energy unit.",
+    "cn": ""
+  },
+  {
+    "en": "Order each of your Battlecruisers to deal 1500 damage to the closest enemy structure.",
+    "cn": "命令你全部泰伦快乐船各自朝最近的敌对建筑发射1500点伤害的大和炮"
+  },
+  {
+    "en": "Whenever you play a card that sends energy units, he adds a random Terran action card with no subtype that costs 2 or less to your hand.",
+    "cn": "每当你打出一张含有能量单位的牌，该单位在你手中随机生成一张2费或以下的随机泰伦动作牌"
+  },
+  {
+    "en": "The Roaches burrow when retreating.",
+    "cn": "后撤时埋地移动"
+  },
+  {
+    "en": "Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": "振奋补员：该牌的单位每击杀一个敌人召唤一个好兄弟"
+  },
+  {
+    "en": "It enters siege mode upon sighting an enemy. Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": "接敌架设，振奋补员：该牌的单位每击杀一个敌人召唤一个好兄弟"
+  },
+  {
+    "en": "Build an Armament Bay. Each turn it orders 3 of your non-heroic Marines to leave the battlefield. Whenever your Marines leave the battlefield, Armament Bay resends them as heroic units.",
+    "cn": "建造一个军备湾。每回合该建筑都会命令3个你的非英雄机枪撤离战场，每成功撤离一个该建筑会将其作为英雄机枪重新召唤"
+  },
+  {
+    "en": "Use Irradiate on 6 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": "选择并辐照6个敌对生物单位。对被辐照的单位以及附近所有敌对生物单位造成持续性伤害"
+  },
+  {
+    "en": "Permanently cloak your most expensive structure, and prevent enemy card effects from choosing it as a target.",
+    "cn": "使你最贵的建筑隐身，并使该建筑不会成为敌对效果选择对象"
+  },
+  {
+    "en": "Deal 800 damage to the toughest enemy heroic unit.",
+    "cn": "选择敌对最肉的英雄单位并对其造成800点伤害"
+  },
+  {
+    "en": "Add Assassination/Demolition Scheme to your hand.",
+    "cn": "在你手中生成一张暗杀计划或毁灭方案"
+  },
+  {
+    "en": "Launch: Give all of the units you send this turn Indoctrination (whenever they kill a unit, send 1 Marine).",
+    "cn": "战吼：本回合你打出的所有单位获得buff：振奋补员（该牌的单位每击杀一个敌人召唤一个好兄弟）"
+  },
+  {
+    "en": "Until killed, it grants your ground units +1 armor. Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": "直至阵亡，该单位赋予你所有地面单位+1护甲。振奋补员：该牌的单位每击杀一个敌人召唤一个好兄弟"
+  },
+  {
+    "en": "Launch: Add a Mineral Chunk to your hand.",
+    "cn": "战吼：在你手中生成小块晶体矿牌"
+  },
+  {
+    "en": "Shuffle a copy of each action card you play this turn into your deck.",
+    "cn": "复制你本回合打出的所有动作卡并将其洗入卡组"
+  },
+  {
+    "en": "Launch: Remove detection from 1 random enemy detector (even if it's not visible to you).",
+    "cn": "战吼：随机选择一个敌对侦测单位并移除其侦测能力（可选择未被侦测的单位作为目标）"
+  },
+  {
+    "en": "They warp to the position of the toughest enemy ground unit and attack it. When done, they leave the battlefield.",
+    "cn": "这些单位折跃到敌对最肉单位附近并攻击这个敌人。当该敌对单位阵亡，该牌召唤的单位离开战场"
+  },
+  {
+    "en": "Launch: Steal 75% (rounded down) of the units from the card in your opponents' hands with the most units. Add them to your hand as a Compelled Forces card.",
+    "cn": "选择你对手手牌中单位数量最多的手牌，并从中窃取75%的单位（向下取整）。以窃取的单位为基础在你手中生成1张二五仔军团牌"
+  },
+  {
+    "en": "Steal 75% (rounded down) of the units from the 2 cards in your opponents' hands with the most units. Add them to your hand as 2 Compelled Forces cards.",
+    "cn": "选择你对手手牌中单位数量最多的两张手牌，并从中窃取75%的单位（向下取整）。以窃取的单位为基础在你手中生成两张二五仔军团牌"
+  },
+  {
+    "en": "Each turn he removes one of your Dark Templar from the battlefield. If he does, he gets +175 shields and adds a Forbidden Knowledge to your hand.",
+    "cn": "每回合该单位都会从战场上移除一个你的隐刀，每当移除成功，该单位获得175的护盾同时在你手牌中生成一张禁忌知识"
+  },
+  {
+    "en": "Launch: Return a card that sends mechanical ground units from your discard pile to your hand.",
+    "cn": "战吼：从墓地返回一张召唤机械地面单位的牌到你手中"
+  },
+  {
+    "en": "Add an Uncontrollable Power card to your hand.",
+    "cn": "在你手中生成一张失控在即牌"
+  },
+  {
+    "en": "If you have a Spawning Pool on the battlefield, add a Hydralisk Den to your hand and set its cost to 0. Otherwise add a Spawning Pool to your hand and set its cost to 0.",
+    "cn": "如果你场上有血池，则在你手中生成一张免费的刺蛇巢牌，否则生成一张免费的血池。"
+  },
+  {
+    "en": "Launch: Infest a random card in an opponent's hand.",
+    "cn": "战吼：随机选择对手一张手牌，并让其染上疾疫"
+  },
+  {
+    "en": "Infest a random structure card in an opponent's hand. Then 10 Volatile Infested emerge from a random enemy structure, destroying it.",
+    "cn": "随机选择对手手牌中的一个建筑牌并让其染上疾疫，随后随机摧毁一个敌对建筑并在该位置生成10个被感染的白给人"
+  },
+  {
+    "en": "Infest 4 random cards in your opponents' hands. Only targets cards that cost 9 or more total resources.",
+    "cn": "随机选择4张9费或以上的对手的手牌并让其染上疾疫。"
+  },
+  {
+    "en": "Create Dark Swarms down the center corridor of the battlefield. They protect your team's units from ranged damage and last 1 turn (doesn't affect melee, splash, or spells).",
+    "cn": "创造数个持续一回合的迷雾覆盖战场，迷雾内的友方单位不会受到远程伤害。（不会减免近战法术以及溅射）"
+  },
+  {
+    "en": "Reduce the gas income to 2 for your opponent with the highest. For each gas income they lose, destroy their cheapest structure and add a Vespene Sac to your hand.",
+    "cn": "选择瓦斯产能最高的对手，并将其瓦斯产能减少至2.每减少一点瓦斯摧毁一个最便宜的敌对建筑，并在你的手中生成一个瓦斯囊"
+  },
+  {
+    "en": "Build a Cerebrate. Whenever you add a free Spawn card to your hand, it sends copies of the units on that card.",
+    "cn": "建造一个脑虫，每当你手中生成了一张免费的卵牌该建筑会复制并召唤其中的单位。"
+  },
+  {
+    "en": "Give your most expensive structure the ability to return to your hand when destroyed. If it's a Cerebrate, also add Overmind's Covenant to your hand (when destroyed).",
+    "cn": "让你最贵的建造获得亡语效果：返回该建筑到你的手中，如果该建筑是脑虫，则额外获得亡语效果：在你手中生成一张主宰契约。"
+  },
+  {
+    "en": "Drop 24 aggressive Marines on the cliff.",
+    "cn": "空投24个进攻性机枪到高地"
+  },
+  {
+    "en": "Give Unbreakable Essence to your toughest unit that doesn't already have it. Grants +3 armor and the ability to respond to every attack with a 20 damage spine.",
+    "cn": "选择你最肉的且尚未获得坚不可摧精华的单位使其获得该buff，使其获得+3护甲且每次受到攻击都会对攻击者造成20点反击伤害"
+  },
+  {
+    "en": "Give Unsparing Essence to your toughest unit that does not already have it. Grants +200% damage and a fire aura that deals 20 damage per second to nearby enemy units and structures.",
+    "cn": "选择你最肉的且尚未获得无情精华的单位使其获得该buff，使其获得+200%伤害并且每秒对周围的敌人造成20点伤害"
+  },
+  {
+    "en": "Give Unstable Essence to your toughest unit that does not already have it. Grants +50% movement speed and 16 Creepers emerge upon death.",
+    "cn": "选择你最肉的且尚未获得不稳定精华的单位使其获得该buff，使其+50%移速，且获得亡语：召唤16个蝗虫。"
+  },
+  {
+    "en": "Each turn add 3 Scourge to this if you control an energy unit.",
+    "cn": "每回合如果你控制任意能量单位则在这张牌中增加3个爆蚊"
+  },
+  {
+    "en": "A Pack Devourer unburrows in front of your Keystone, walks to the enemy Keystone, then tunnels away (leaving the battlefield).",
+    "cn": "一个身穿反甲的大胖子从你基地前面钻出，径直走到敌对基地前，随后离开战场。"
+  },
+  {
+    "en": "Summon 1 Greater Wurm near the front line.",
+    "cn": "在前线附近召唤一个巨大的蠕虫"
+  },
+  {
+    "en": "Each turn it sends a wave of 6 Creepers and 4 Winged Creepers.",
+    "cn": "每回合该单位都会生成一波由6蝗虫以及4带翅蝗虫组成的原始部队"
+  },
+  {
+    "en": "This card does nothing. Play it to clear the blockade from your hand.",
+    "cn": "这个牌没有任何效果。你可以打出这个牌以清除这个封锁牌"
+  },
+  {
+    "en": "Disable the weapons and abilities of 10 random enemy mechanical units for 1 turn.",
+    "cn": "随机选择十个敌对机械单位并在一回合内禁用其技能和武器"
+  },
+  {
+    "en": "Destroy a random enemy structure that costs between 3 and 6 resources.",
+    "cn": "随机选择一个费用在3到6之间的敌对建筑，并将其摧毁"
+  },
+  {
+    "en": "Add Irradiation/Interference Scheme to your hand.",
+    "cn": "在你手中生成一个辐照方案或者干扰方案"
+  },
+  {
+    "en": "Launch: Add a Vespene Barrel to your hand.",
+    "cn": "战吼：在你手中生成一个瓦斯桶"
+  },
+  {
+    "en": "For each Forbidden Knowledge in your discard pile, cast Psi Storm and Maelstrom on a cluster of enemy units. Each turn, increase the cost of this card by 1 gas.",
+    "cn": "你墓地中每有一张禁忌知识，则选择对应数量的敌方单位并对其释放眩晕及灵能风暴。每回合该牌的瓦斯费用都增加1点"
+  },
+  {
+    "en": "When selected, gain 2 gas.",
+    "cn": "被选中时，临时获得2瓦斯"
+  },
+  {
+    "en": "Add a Reincarnation card to your hand.",
+    "cn": "在你手中生成一张死者苏生牌"
+  },
+  {
+    "en": "Each turn she combines all of the free Spawn cards in your hand into one Spawn card, then doubles the unit count on the combined card.",
+    "cn": "每回合该单位将你手中所有免费卵牌结合为一张并使其数量翻倍"
+  },
+  {
+    "en": "It attacks to your defensive area, then enters siege mode.",
+    "cn": "像孙一峰一样一路高歌猛进A到自己家防守区，随后进入攻城模式当忍者神龟"
+  },
+  {
+    "en": "It costs 1 mineral per turn. Launch: Discard a random aggressive Protoss unit card from your deck. Send the units from that card as defensive rush units.",
+    "cn": "该航母维护费：1矿物。战吼：从卡组随机丢弃一张随机进攻神族单位牌，并将其中的单位作为防守单位一并rush召唤"
+  },
+  {
+    "en": "Upgrade your cheapest Robotics Facility into a Warp Facility, which adds Robotics Warp cards to your hand each turn. If you have none to upgrade, add 2 Robotics Warp cards to your hand instead.",
+    "cn": "将你最便宜的机械台升级为折跃台，升级后该建筑每回合在你手中生成一个机械折跃牌。如果没有可升级对象，则在你手中生成两张机械折跃牌。"
+  },
+  {
+    "en": "Build an Armory. Until destroyed, it gives your mechanical units +2 armor.",
+    "cn": "建造一个军械库。直至被毁，该建筑能为你所有机械单位+2护甲"
+  },
+  {
+    "en": "It moves to the cliff. Until it is destroyed, units from your Warp cards will attack from the cliff. Launch: Add 3 Warp In cards to your hand.",
+    "cn": "移动到高地展开。直至被毁，所有折跃牌召唤的单位都从生成在高地。战吼：在你的手牌中生成3张折跃援军牌"
+  },
+  {
+    "en": "Launch: Reduce your gas limit and gas income by 1.",
+    "cn": "战吼：减少你瓦斯上限及产能各1点"
+  },
+  {
+    "en": "Deal 500 damage to the toughest 4 enemy heroic units.",
+    "cn": "选择敌对最肉的4名英雄单位，并对他们各自造成500点伤害"
+  },
+  {
+    "en": "Build a Robotics Facility. Each turn it sends 1 Disruptor. It costs 1 mineral per turn.",
+    "cn": "建造一个机械台。每回合生产一个炸屎球。该建筑维护费：1矿物"
+  },
+  {
+    "en": "Each turn set the unit count on this card equal to half the number of Infested units you've lost without reviving this game (minimum 1).",
+    "cn": "每回合将这张牌召唤的单位数量变更为本局游戏中你阵亡且未被复活的被感染单位（最少1）"
+  },
+  {
+    "en": "Build a Stasis Crystal. Until destroyed, it locks the toughest enemy unit in a Stasis Prison. If the locked unit dies, it locks another.",
+    "cn": "建造一个静滞水晶。直至被毁，该建筑能选择一个敌对最肉的单位并使其静滞。如果被静滞的单位阵亡，则重新选择"
+  },
+  {
+    "en": "Launch 2 Nukes at the enemy defensive area. They land after a delay of 1 battle phase. Add a Radioactive Wasteland to your hand.",
+    "cn": "朝敌对防守区发射两枚核弹。这些核弹在下回合着陆。添加一张核后废土牌到你手中。"
+  },
+  {
+    "en": "Build an Infested Compound. It grants a 75% chance to revive your slain Infested units as Infested Civilians.",
+    "cn": "建造一个被感染的营地。每当你的被感染人阵亡都有75%的概率被该建筑复活为被感染的平民"
+  },
+  {
+    "en": "Launch: Add a Combat Activation card to your hand.",
+    "cn": "战吼：在你手中生成一张作战激活"
+  },
+  {
+    "en": "While held, this card orders 2 of your Marines to leave each turn. When each leaves, add a Goliath to a Goliath Instructor in your hand.",
+    "cn": "这牌在手中时，每回合命令两个你的机枪兵撤离战场。这些机枪每成功撤离一个，往你手中的一张歌莉娅教练牌中增加一个歌莉娅"
+  },
+  {
+    "en": "Permanently reveal all enemy cloaked units. Reveal the most expensive card from a random opponent's deck. Draw a card.",
+    "cn": "永久揭示本回合场上所有敌对隐身单位，随机揭示一个对手卡组中最贵的一张牌。抽一张牌"
+  },
+  {
+    "en": "While held, this card orders 1 of your Marines to leave each turn. When it leaves, add a Viking or Wraith to a Flight Instructor in your hand.",
+    "cn": "这牌在手中时，每回合命令一个你的机枪兵撤离战场。该机枪撤离成功时，往你手中的一张战机教练牌中增加一个维京或怨灵"
+  },
+  {
+    "en": "Launch: Add a Barracks to your hand.",
+    "cn": "战吼：生成兵营牌到你手中"
+  },
+  {
+    "en": "Give +4 range to the ranged attacks of your air units (doesn't stack).",
+    "cn": "让你的所有远程进攻单位获得+4射程（不叠加）"
+  },
+  {
+    "en": "Launch: Increase your mineral income by 1.",
+    "cn": "战吼：增加你的矿物产能1点"
+  },
+  {
+    "en": "Build 2 Infested Bunkers with 4 Infested Marines each. Infested Bunkers uproot and attack at the start of the battle phase if you control an Infested unit in front of them.",
+    "cn": "建造两个被感染的地堡（各内含4被感染的好兄弟）。回合开始时，如果该地堡前方存在其他被感染的单位，则取消扎根并攻击"
+  },
+  {
+    "en": "They count as Mechanical instead of Biological. Launch: Add a Combat Activation card to your hand.",
+    "cn": "这些单位不是生物而是机械单位。战吼：在你的手中生成一张作战激活牌"
+  },
+  {
+    "en": "Build a Ballistics Bay. Until destroyed, it gives your ranged biological units +1 range and armor-piercing attacks.",
+    "cn": "建造一个弹道学实验室。直至被毁，你的远程生物单位+1射程以及护甲穿透能力"
+  },
+  {
+    "en": "Each turn reduce the cost of this card by the number of cards in your discard pile that send Tempests.",
+    "cn": "每回合根据你的弃牌堆中召唤电兵的牌的数量，对应减少这张牌的费用"
+  },
+  {
+    "en": "Shuffle the most expensive unit card from your hand back into your deck and reduce its cost by 2 minerals and 2 gas. Then draw a card.",
+    "cn": "将你手中最贵的单位牌洗回卡组并减少2矿物及2瓦斯费用，随后抽一张牌。"
+  },
+  {
+    "en": "Build a Roach Warren. Each turn it adds a Roach Spawn card to your hand. Launch: Play the most expensive card from your hand that sends Roaches.",
+    "cn": "建造一个蟑螂窝。每回合在你手中生成一个蟑螂卵牌。战吼：打出你手中最贵的召唤蟑螂的牌"
+  },
+  {
+    "en": "Build an Activation Bay. It fetches a Purifier card whenever you play a Combat Activation card. If the fetch succeeds skip your next draw step. Launch: Add a Combat Activation to your hand.",
+    "cn": "建造一个激活湾。每当你打出作战激活时，该建筑从卡组检索一张净化者牌。如果检索成功则跳过下次抽牌阶段。战吼：在你手中生成一张作战激活牌"
+  },
+  {
+    "en": "Add 1 Robotics Warp, 1 Star Warp, and 1 Warp In to your hand.",
+    "cn": "在你手中生成一张机械折跃，一张星际折跃和一张折跃援军牌"
+  },
+  {
+    "en": "Add 4 Riot Suppression cards to your hand.",
+    "cn": "在你手中生成4张压制叛军牌?"
+  },
+  {
+    "en": "All of your units on the battlefield become aggressive and gain Rush.",
+    "cn": "你场上所有单位变成进攻单位并获得冲锋"
+  },
+  {
+    "en": "It attacks from the cliff.",
+    "cn": "从高地进攻"
+  },
+  {
+    "en": "This can only have 5 units on it, of all different types.",
+    "cn": "未找到对应原型，翻译暂时搁置"
+  },
+  {
+    "en": "Each turn this is in your hand its cost reduces by 1 gas, then it uses Irradiate on a random unit you control, damaging it and nearby allied biological units over time.",
+    "cn": "每回合在你手中的这张牌费用减少1瓦斯，然后会随机辐照你的一个单位，辐照生效期间会对该单位和附近的友方生物单位持续造成伤害"
+  },
+  {
+    "en": "This card has 10 SCVs for each unspent resource you have. Launch: Lose income equal to your unspent resources.",
+    "cn": "你每有一点未使用的资源就召唤10个scv。战吼：失去所有未使用的资源产能"
+  }
+]

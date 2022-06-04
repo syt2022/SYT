@@ -1,0 +1,4866 @@
+[
+  {
+    "en": "Marine Squad",
+    "cn": ""
+  },
+  {
+    "en": "Reaper Gang",
+    "cn": ""
+  },
+  {
+    "en": "Marauder Squad",
+    "cn": ""
+  },
+  {
+    "en": "Thor",
+    "cn": ""
+  },
+  {
+    "en": "Cyclone Detachment",
+    "cn": ""
+  },
+  {
+    "en": "Viking Fighters",
+    "cn": ""
+  },
+  {
+    "en": "Strike Team",
+    "cn": ""
+  },
+  {
+    "en": "Hellion Outriders",
+    "cn": ""
+  },
+  {
+    "en": "Marine Blitz",
+    "cn": ""
+  },
+  {
+    "en": "Banshee Skywatch",
+    "cn": ""
+  },
+  {
+    "en": "Bunker",
+    "cn": ""
+  },
+  {
+    "en": "Twin Turrets",
+    "cn": ""
+  },
+  {
+    "en": "Barracks",
+    "cn": ""
+  },
+  {
+    "en": "Factory",
+    "cn": ""
+  },
+  {
+    "en": "Engineering Bay",
+    "cn": ""
+  },
+  {
+    "en": "Supply Drop",
+    "cn": ""
+  },
+  {
+    "en": "Yamato Cannon",
+    "cn": ""
+  },
+  {
+    "en": "Scanner Sweep",
+    "cn": ""
+  },
+  {
+    "en": "Seeker Missiles",
+    "cn": ""
+  },
+  {
+    "en": "Stimpack",
+    "cn": ""
+  },
+  {
+    "en": "Siege Tanks",
+    "cn": ""
+  },
+  {
+    "en": "Ghost Operatives",
+    "cn": ""
+  },
+  {
+    "en": "Widow Mines",
+    "cn": ""
+  },
+  {
+    "en": "Operation Clearsky",
+    "cn": ""
+  },
+  {
+    "en": "Reaper Ambush",
+    "cn": ""
+  },
+  {
+    "en": "Repair Crew",
+    "cn": ""
+  },
+  {
+    "en": "Medivac Runners",
+    "cn": ""
+  },
+  {
+    "en": "Raven Support",
+    "cn": ""
+  },
+  {
+    "en": "Supply Depot",
+    "cn": ""
+  },
+  {
+    "en": "Sensor Tower",
+    "cn": ""
+  },
+  {
+    "en": "Refinery",
+    "cn": ""
+  },
+  {
+    "en": "Starport",
+    "cn": ""
+  },
+  {
+    "en": "MULE",
+    "cn": ""
+  },
+  {
+    "en": "Strike Cannons",
+    "cn": ""
+  },
+  {
+    "en": "Reactor",
+    "cn": ""
+  },
+  {
+    "en": "Steady Targeting",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser",
+    "cn": ""
+  },
+  {
+    "en": "Liberation Zone",
+    "cn": ""
+  },
+  {
+    "en": "Doom Drop",
+    "cn": ""
+  },
+  {
+    "en": "Perched Artillery",
+    "cn": ""
+  },
+  {
+    "en": "Entrench",
+    "cn": ""
+  },
+  {
+    "en": "Fusion Core",
+    "cn": ""
+  },
+  {
+    "en": "Armory",
+    "cn": ""
+  },
+  {
+    "en": "Reconstruction",
+    "cn": ""
+  },
+  {
+    "en": "Tactical Nuke",
+    "cn": ""
+  },
+  {
+    "en": "Tech Lab",
+    "cn": ""
+  },
+  {
+    "en": "Hyperion",
+    "cn": ""
+  },
+  {
+    "en": "Odin",
+    "cn": ""
+  },
+  {
+    "en": "Jim Raynor",
+    "cn": ""
+  },
+  {
+    "en": "Nova",
+    "cn": ""
+  },
+  {
+    "en": "Zergling Pack",
+    "cn": ""
+  },
+  {
+    "en": "Baneling Pack",
+    "cn": ""
+  },
+  {
+    "en": "Roach Cluster",
+    "cn": ""
+  },
+  {
+    "en": "Hydralisk Cluster",
+    "cn": ""
+  },
+  {
+    "en": "Mutalisk Flock",
+    "cn": ""
+  },
+  {
+    "en": "Savage Ultralisks",
+    "cn": ""
+  },
+  {
+    "en": "Overseer",
+    "cn": ""
+  },
+  {
+    "en": "Zergling Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Burrowed Ambush",
+    "cn": ""
+  },
+  {
+    "en": "Invading Host",
+    "cn": ""
+  },
+  {
+    "en": "Rolling Banelings",
+    "cn": ""
+  },
+  {
+    "en": "Infested Marines",
+    "cn": ""
+  },
+  {
+    "en": "Spawning Pool",
+    "cn": ""
+  },
+  {
+    "en": "Roach Warren",
+    "cn": ""
+  },
+  {
+    "en": "Hydralisk Den",
+    "cn": ""
+  },
+  {
+    "en": "Spine Crawlers",
+    "cn": ""
+  },
+  {
+    "en": "Spore Crawlers",
+    "cn": ""
+  },
+  {
+    "en": "Metabolic Boost",
+    "cn": ""
+  },
+  {
+    "en": "Grooved Spines",
+    "cn": ""
+  },
+  {
+    "en": "Binding Creep",
+    "cn": ""
+  },
+  {
+    "en": "Unstable Broodlings",
+    "cn": ""
+  },
+  {
+    "en": "Brood Lords",
+    "cn": ""
+  },
+  {
+    "en": "Caustic Corruptors",
+    "cn": ""
+  },
+  {
+    "en": "Swarm Hosts",
+    "cn": ""
+  },
+  {
+    "en": "Sieging Ravagers",
+    "cn": ""
+  },
+  {
+    "en": "Frenzied Zerglings",
+    "cn": ""
+  },
+  {
+    "en": "Overlord",
+    "cn": ""
+  },
+  {
+    "en": "Larval Queens",
+    "cn": ""
+  },
+  {
+    "en": "Infestors",
+    "cn": ""
+  },
+  {
+    "en": "Changeling",
+    "cn": ""
+  },
+  {
+    "en": "Excreting Overseer",
+    "cn": ""
+  },
+  {
+    "en": "Baneling Nest",
+    "cn": ""
+  },
+  {
+    "en": "Spire",
+    "cn": ""
+  },
+  {
+    "en": "Extractor",
+    "cn": ""
+  },
+  {
+    "en": "Evolution Chamber",
+    "cn": ""
+  },
+  {
+    "en": "Inject Larva",
+    "cn": ""
+  },
+  {
+    "en": "Creeping Queens",
+    "cn": ""
+  },
+  {
+    "en": "Burrowing Lurkers",
+    "cn": ""
+  },
+  {
+    "en": "Tunneling Roaches",
+    "cn": ""
+  },
+  {
+    "en": "Parasitic Vipers",
+    "cn": ""
+  },
+  {
+    "en": "Baneling Bombs",
+    "cn": ""
+  },
+  {
+    "en": "Ultralisk Cavern",
+    "cn": ""
+  },
+  {
+    "en": "Nydus Network",
+    "cn": ""
+  },
+  {
+    "en": "Greater Spire",
+    "cn": ""
+  },
+  {
+    "en": "Mass Mutation",
+    "cn": ""
+  },
+  {
+    "en": "Neural Parasite",
+    "cn": ""
+  },
+  {
+    "en": "Leviathan",
+    "cn": ""
+  },
+  {
+    "en": "Kilysa",
+    "cn": ""
+  },
+  {
+    "en": "Kerrigan",
+    "cn": ""
+  },
+  {
+    "en": "Dehaka",
+    "cn": ""
+  },
+  {
+    "en": "Ardent Zealots",
+    "cn": ""
+  },
+  {
+    "en": "Blinking Stalkers",
+    "cn": ""
+  },
+  {
+    "en": "Shifting Adepts",
+    "cn": ""
+  },
+  {
+    "en": "Phoenix Formation",
+    "cn": ""
+  },
+  {
+    "en": "Void Rays",
+    "cn": ""
+  },
+  {
+    "en": "Immortal Phalanx",
+    "cn": ""
+  },
+  {
+    "en": "Towering Colossi",
+    "cn": ""
+  },
+  {
+    "en": "Observer",
+    "cn": ""
+  },
+  {
+    "en": "Warp Prism",
+    "cn": ""
+  },
+  {
+    "en": "Devoted Defenders",
+    "cn": ""
+  },
+  {
+    "en": "Gateway",
+    "cn": ""
+  },
+  {
+    "en": "Photon Cannons",
+    "cn": ""
+  },
+  {
+    "en": "Shield Batteries",
+    "cn": ""
+  },
+  {
+    "en": "Pylon",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Storm",
+    "cn": ""
+  },
+  {
+    "en": "Graviton Beam",
+    "cn": ""
+  },
+  {
+    "en": "Chrono Boost",
+    "cn": ""
+  },
+  {
+    "en": "Stasis Wards",
+    "cn": ""
+  },
+  {
+    "en": "Delusive Sentries",
+    "cn": ""
+  },
+  {
+    "en": "Warp Probe",
+    "cn": ""
+  },
+  {
+    "en": "Warp Probe",
+    "cn": ""
+  },
+  {
+    "en": "Carrier",
+    "cn": ""
+  },
+  {
+    "en": "Shielding Sentries",
+    "cn": ""
+  },
+  {
+    "en": "Impending Tempests",
+    "cn": ""
+  },
+  {
+    "en": "Dark Templar",
+    "cn": ""
+  },
+  {
+    "en": "High Templar",
+    "cn": ""
+  },
+  {
+    "en": "Discerning Oracles",
+    "cn": ""
+  },
+  {
+    "en": "Infiltrating Adepts",
+    "cn": ""
+  },
+  {
+    "en": "Nerazim Assassins",
+    "cn": ""
+  },
+  {
+    "en": "Stargate",
+    "cn": ""
+  },
+  {
+    "en": "Forge",
+    "cn": ""
+  },
+  {
+    "en": "Cybernetics Core",
+    "cn": ""
+  },
+  {
+    "en": "Assimilator",
+    "cn": ""
+  },
+  {
+    "en": "Twilight Council",
+    "cn": ""
+  },
+  {
+    "en": "Feedback",
+    "cn": ""
+  },
+  {
+    "en": "Photon Overcharge",
+    "cn": ""
+  },
+  {
+    "en": "Warp Gate",
+    "cn": ""
+  },
+  {
+    "en": "Warp Gate",
+    "cn": ""
+  },
+  {
+    "en": "Golden Armada",
+    "cn": ""
+  },
+  {
+    "en": "Merging Archons",
+    "cn": ""
+  },
+  {
+    "en": "Warp Offensive",
+    "cn": ""
+  },
+  {
+    "en": "Barraging Disruptors",
+    "cn": ""
+  },
+  {
+    "en": "Robotics Facility",
+    "cn": ""
+  },
+  {
+    "en": "Fleet Beacon",
+    "cn": ""
+  },
+  {
+    "en": "Templar Archives",
+    "cn": ""
+  },
+  {
+    "en": "Dark Shrine",
+    "cn": ""
+  },
+  {
+    "en": "Vortex",
+    "cn": ""
+  },
+  {
+    "en": "Replicate",
+    "cn": ""
+  },
+  {
+    "en": "Phase-Smith Karax",
+    "cn": ""
+  },
+  {
+    "en": "Zeratul",
+    "cn": ""
+  },
+  {
+    "en": "Artanis",
+    "cn": ""
+  },
+  {
+    "en": "Mothership Core",
+    "cn": ""
+  },
+  {
+    "en": "Transformed Thor",
+    "cn": ""
+  },
+  {
+    "en": "Viking Pillagers",
+    "cn": ""
+  },
+  {
+    "en": "Hellbat Assault",
+    "cn": ""
+  },
+  {
+    "en": "Mobile Tanks",
+    "cn": ""
+  },
+  {
+    "en": "Liberator Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Canister Shot",
+    "cn": ""
+  },
+  {
+    "en": "Hellfire Assault",
+    "cn": ""
+  },
+  {
+    "en": "Stealth Mission",
+    "cn": ""
+  },
+  {
+    "en": "System Hack",
+    "cn": ""
+  },
+  {
+    "en": "Reconnaissance",
+    "cn": ""
+  },
+  {
+    "en": "Vanish",
+    "cn": ""
+  },
+  {
+    "en": "Zergling Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Baneling Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Roach Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Hydralisk Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Mutalisk Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Corruptor Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Ultralisk Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Brood Lord Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Larval Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Kilysa's Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Swarm Them",
+    "cn": ""
+  },
+  {
+    "en": "Defend the Hive",
+    "cn": ""
+  },
+  {
+    "en": "Set an Ambush",
+    "cn": ""
+  },
+  {
+    "en": "Warp In",
+    "cn": ""
+  },
+  {
+    "en": "Mothership",
+    "cn": ""
+  },
+  {
+    "en": "Spectre Cell",
+    "cn": ""
+  },
+  {
+    "en": "Reaping Bombers",
+    "cn": ""
+  },
+  {
+    "en": "War Pigs",
+    "cn": ""
+  },
+  {
+    "en": "Orbital Command",
+    "cn": ""
+  },
+  {
+    "en": "Desperate Offensive",
+    "cn": ""
+  },
+  {
+    "en": "Infested Horde",
+    "cn": ""
+  },
+  {
+    "en": "Brutalisk",
+    "cn": ""
+  },
+  {
+    "en": "Leaping Raptors",
+    "cn": ""
+  },
+  {
+    "en": "Infestation Pit",
+    "cn": ""
+  },
+  {
+    "en": "Vile Roaches",
+    "cn": ""
+  },
+  {
+    "en": "Zealot Veterans",
+    "cn": ""
+  },
+  {
+    "en": "Sieging Tempests",
+    "cn": ""
+  },
+  {
+    "en": "Chrono Probe",
+    "cn": ""
+  },
+  {
+    "en": "Chrono Probe",
+    "cn": ""
+  },
+  {
+    "en": "Photon Array",
+    "cn": ""
+  },
+  {
+    "en": "Undying Stalker",
+    "cn": ""
+  },
+  {
+    "en": "Firebat Squad",
+    "cn": ""
+  },
+  {
+    "en": "Goliath Company",
+    "cn": ""
+  },
+  {
+    "en": "Wraith Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Conscripted Marines",
+    "cn": ""
+  },
+  {
+    "en": "Recon Squad",
+    "cn": ""
+  },
+  {
+    "en": "Recon Squad",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Turrets",
+    "cn": ""
+  },
+  {
+    "en": "Badlands Garage",
+    "cn": ""
+  },
+  {
+    "en": "Spider Minefield",
+    "cn": ""
+  },
+  {
+    "en": "Irradiate",
+    "cn": ""
+  },
+  {
+    "en": "Tax the Colonies",
+    "cn": ""
+  },
+  {
+    "en": "Ghost Trainees",
+    "cn": ""
+  },
+  {
+    "en": "Vulture Clan",
+    "cn": ""
+  },
+  {
+    "en": "Science Vessels",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Battalion",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Battalion",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Commander",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Commander",
+    "cn": ""
+  },
+  {
+    "en": "Research Facility",
+    "cn": ""
+  },
+  {
+    "en": "Council Corruption",
+    "cn": ""
+  },
+  {
+    "en": "Machine Shop",
+    "cn": ""
+  },
+  {
+    "en": "22nd Division",
+    "cn": ""
+  },
+  {
+    "en": "Alpha Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Ghost Academy",
+    "cn": ""
+  },
+  {
+    "en": "Backwater Station",
+    "cn": ""
+  },
+  {
+    "en": "Korhal's Destruction",
+    "cn": ""
+  },
+  {
+    "en": "Resocialization",
+    "cn": ""
+  },
+  {
+    "en": "Norad II",
+    "cn": ""
+  },
+  {
+    "en": "Kerrigan, Assassin",
+    "cn": ""
+  },
+  {
+    "en": "Raynor, Rebel",
+    "cn": ""
+  },
+  {
+    "en": "Scourge Cloud",
+    "cn": ""
+  },
+  {
+    "en": "Hive Guardians",
+    "cn": ""
+  },
+  {
+    "en": "Endless Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Stray Mutalisks",
+    "cn": ""
+  },
+  {
+    "en": "Volatile Infested",
+    "cn": ""
+  },
+  {
+    "en": "Mobile Pack",
+    "cn": ""
+  },
+  {
+    "en": "Sunken Colony",
+    "cn": ""
+  },
+  {
+    "en": "Flyer Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Chitinous Plating",
+    "cn": ""
+  },
+  {
+    "en": "Dune Runner DNA",
+    "cn": ""
+  },
+  {
+    "en": "Dune Runner DNA",
+    "cn": ""
+  },
+  {
+    "en": "Hunter Killers",
+    "cn": ""
+  },
+  {
+    "en": "Brood Queens",
+    "cn": ""
+  },
+  {
+    "en": "Eyes of the Overmind",
+    "cn": ""
+  },
+  {
+    "en": "Aerial Invasion",
+    "cn": ""
+  },
+  {
+    "en": "Acidic Spire",
+    "cn": ""
+  },
+  {
+    "en": "Escaped Experiments",
+    "cn": ""
+  },
+  {
+    "en": "Metasynaptic Node",
+    "cn": ""
+  },
+  {
+    "en": "Slothien DNA",
+    "cn": ""
+  },
+  {
+    "en": "Slothien DNA",
+    "cn": ""
+  },
+  {
+    "en": "Blacken the Sky",
+    "cn": ""
+  },
+  {
+    "en": "Foul Defilers",
+    "cn": ""
+  },
+  {
+    "en": "Creep Colony",
+    "cn": ""
+  },
+  {
+    "en": "Brontolith DNA",
+    "cn": ""
+  },
+  {
+    "en": "Brontolith DNA",
+    "cn": ""
+  },
+  {
+    "en": "Deep Infestation",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Attraction",
+    "cn": ""
+  },
+  {
+    "en": "Overmind",
+    "cn": ""
+  },
+  {
+    "en": "Torrasque",
+    "cn": ""
+  },
+  {
+    "en": "Kerrigan's Chrysalis",
+    "cn": ""
+  },
+  {
+    "en": "Dragoon Force",
+    "cn": ""
+  },
+  {
+    "en": "Scout Formation",
+    "cn": ""
+  },
+  {
+    "en": "Gathering Warriors",
+    "cn": ""
+  },
+  {
+    "en": "Expedition Scouts",
+    "cn": ""
+  },
+  {
+    "en": "Wardens of Aiur",
+    "cn": ""
+  },
+  {
+    "en": "Psi Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Aiur Gateway",
+    "cn": ""
+  },
+  {
+    "en": "Cloaking Field",
+    "cn": ""
+  },
+  {
+    "en": "Charging Zealots",
+    "cn": ""
+  },
+  {
+    "en": "Stasis Field",
+    "cn": ""
+  },
+  {
+    "en": "Reaver Advance",
+    "cn": ""
+  },
+  {
+    "en": "Gathering Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Planetary Surveyor",
+    "cn": ""
+  },
+  {
+    "en": "War Robotics",
+    "cn": ""
+  },
+  {
+    "en": "Shield Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Mass Recall",
+    "cn": ""
+  },
+  {
+    "en": "Structural Stasis",
+    "cn": ""
+  },
+  {
+    "en": "Recall Suits",
+    "cn": ""
+  },
+  {
+    "en": "Dual Arbiters",
+    "cn": ""
+  },
+  {
+    "en": "Gathering Storm",
+    "cn": ""
+  },
+  {
+    "en": "Exiled Ones",
+    "cn": ""
+  },
+  {
+    "en": "Robotics Bay",
+    "cn": ""
+  },
+  {
+    "en": "Planet Cracker",
+    "cn": ""
+  },
+  {
+    "en": "Conclave Directive",
+    "cn": ""
+  },
+  {
+    "en": "Praetor Fenix",
+    "cn": ""
+  },
+  {
+    "en": "Gantrithor",
+    "cn": ""
+  },
+  {
+    "en": "Tassadar",
+    "cn": ""
+  },
+  {
+    "en": "Riot",
+    "cn": ""
+  },
+  {
+    "en": "22nd Reinforcements",
+    "cn": ""
+  },
+  {
+    "en": "Spider Mines",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Security",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis Security",
+    "cn": ""
+  },
+  {
+    "en": "Drone Research",
+    "cn": ""
+  },
+  {
+    "en": "Zergling Research",
+    "cn": ""
+  },
+  {
+    "en": "Hydralisk Research",
+    "cn": ""
+  },
+  {
+    "en": "Overlord Research",
+    "cn": ""
+  },
+  {
+    "en": "Defiler Research",
+    "cn": ""
+  },
+  {
+    "en": "Scourge Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Torrasque Revival",
+    "cn": ""
+  },
+  {
+    "en": "Infestation",
+    "cn": ""
+  },
+  {
+    "en": "Fenix Reborn",
+    "cn": ""
+  },
+  {
+    "en": "Scout",
+    "cn": ""
+  },
+  {
+    "en": "Physics Lab",
+    "cn": ""
+  },
+  {
+    "en": "Explosive Mutagen",
+    "cn": ""
+  },
+  {
+    "en": "Viridescent Archons",
+    "cn": ""
+  },
+  {
+    "en": "Amon",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Scientists",
+    "cn": ""
+  },
+  {
+    "en": "Terrazine Canister",
+    "cn": ""
+  },
+  {
+    "en": "Loaded Valkyrie",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Enforcers",
+    "cn": ""
+  },
+  {
+    "en": "Protoss Relic",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Search Crew",
+    "cn": ""
+  },
+  {
+    "en": "Dig For Artifacts",
+    "cn": ""
+  },
+  {
+    "en": "Psi Disruptor",
+    "cn": ""
+  },
+  {
+    "en": "Defensive Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Underground Base",
+    "cn": ""
+  },
+  {
+    "en": "Narud's Creations",
+    "cn": ""
+  },
+  {
+    "en": "Deserted Diamondbacks",
+    "cn": ""
+  },
+  {
+    "en": "Interference Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Egon Stetmann",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Hybrid",
+    "cn": ""
+  },
+  {
+    "en": "Behemoth-I Cannons",
+    "cn": ""
+  },
+  {
+    "en": "Laboratory Supplies",
+    "cn": ""
+  },
+  {
+    "en": "Cloaked Airstrike",
+    "cn": ""
+  },
+  {
+    "en": "Bloated Devourer",
+    "cn": ""
+  },
+  {
+    "en": "Swelling Eggs",
+    "cn": ""
+  },
+  {
+    "en": "Ominous Egg",
+    "cn": ""
+  },
+  {
+    "en": "Mysterious Egg",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Reaver",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Behemoth",
+    "cn": ""
+  },
+  {
+    "en": "Aberration",
+    "cn": ""
+  },
+  {
+    "en": "Abathur's Evolution",
+    "cn": ""
+  },
+  {
+    "en": "Unstable Locusts",
+    "cn": ""
+  },
+  {
+    "en": "Swarmlings",
+    "cn": ""
+  },
+  {
+    "en": "Broodling Gestation",
+    "cn": ""
+  },
+  {
+    "en": "Mutable Roaches",
+    "cn": ""
+  },
+  {
+    "en": "Mutable Mutalisks",
+    "cn": ""
+  },
+  {
+    "en": "Mutable Overlord",
+    "cn": ""
+  },
+  {
+    "en": "Rolling Hunters",
+    "cn": ""
+  },
+  {
+    "en": "Mutation Chamber",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Nemesis",
+    "cn": ""
+  },
+  {
+    "en": "Flawless Specimens",
+    "cn": ""
+  },
+  {
+    "en": "Void Rift",
+    "cn": ""
+  },
+  {
+    "en": "Viridescent Stalkers",
+    "cn": ""
+  },
+  {
+    "en": "Piloted Corsair",
+    "cn": ""
+  },
+  {
+    "en": "Void Shades",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Destroyers",
+    "cn": ""
+  },
+  {
+    "en": "Enduring Stasis",
+    "cn": ""
+  },
+  {
+    "en": "Amon's Chosen",
+    "cn": ""
+  },
+  {
+    "en": "Karax's Invention",
+    "cn": ""
+  },
+  {
+    "en": "Tal'darim Supplicants",
+    "cn": ""
+  },
+  {
+    "en": "Murderous Ascendance",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Dominator",
+    "cn": ""
+  },
+  {
+    "en": "Ma'lash",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Orb",
+    "cn": ""
+  },
+  {
+    "en": "Warp Stargate",
+    "cn": ""
+  },
+  {
+    "en": "Warp Stargate",
+    "cn": ""
+  },
+  {
+    "en": "Void Gate",
+    "cn": ""
+  },
+  {
+    "en": "Argus Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Energy Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Tal'darim Vanguard",
+    "cn": ""
+  },
+  {
+    "en": "Void Army",
+    "cn": ""
+  },
+  {
+    "en": "Stetmann, Addict",
+    "cn": ""
+  },
+  {
+    "en": "Star Warp",
+    "cn": ""
+  },
+  {
+    "en": "Star Warp",
+    "cn": ""
+  },
+  {
+    "en": "Behemoth-II Cannons",
+    "cn": ""
+  },
+  {
+    "en": "Secret Hangar",
+    "cn": ""
+  },
+  {
+    "en": "The Iron Fist",
+    "cn": ""
+  },
+  {
+    "en": "Carapace Contagion",
+    "cn": ""
+  },
+  {
+    "en": "A New Homeworld",
+    "cn": ""
+  },
+  {
+    "en": "Handler Squad",
+    "cn": ""
+  },
+  {
+    "en": "Bladed Hunters",
+    "cn": ""
+  },
+  {
+    "en": "Aiur Survivors",
+    "cn": ""
+  },
+  {
+    "en": "Dominant Psychics",
+    "cn": ""
+  },
+  {
+    "en": "From the Shadows",
+    "cn": ""
+  },
+  {
+    "en": "Wary Veterans",
+    "cn": ""
+  },
+  {
+    "en": "Hive Experts",
+    "cn": ""
+  },
+  {
+    "en": "Deadly Saboteurs",
+    "cn": ""
+  },
+  {
+    "en": "Brothers in Arms",
+    "cn": ""
+  },
+  {
+    "en": "Fearless Raiders",
+    "cn": ""
+  },
+  {
+    "en": "Queen and Pawn",
+    "cn": ""
+  },
+  {
+    "en": "Samir Duran",
+    "cn": ""
+  },
+  {
+    "en": "Project Black Flag",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Blackout",
+    "cn": ""
+  },
+  {
+    "en": "Korhal Garrison",
+    "cn": ""
+  },
+  {
+    "en": "Air Support",
+    "cn": ""
+  },
+  {
+    "en": "Psi Emitter",
+    "cn": ""
+  },
+  {
+    "en": "Valkyrie Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Medic Support",
+    "cn": ""
+  },
+  {
+    "en": "Raider's Cache",
+    "cn": ""
+  },
+  {
+    "en": "Orbital Supply Drop",
+    "cn": ""
+  },
+  {
+    "en": "Atlas Wing",
+    "cn": ""
+  },
+  {
+    "en": "Cronus Wing",
+    "cn": ""
+  },
+  {
+    "en": "Confederate Loyalists",
+    "cn": ""
+  },
+  {
+    "en": "Fuel Raid",
+    "cn": ""
+  },
+  {
+    "en": "Commandeer",
+    "cn": ""
+  },
+  {
+    "en": "Aleksander",
+    "cn": ""
+  },
+  {
+    "en": "Smith Squad",
+    "cn": ""
+  },
+  {
+    "en": "Neurostim Drugs",
+    "cn": ""
+  },
+  {
+    "en": "Burning Outpost",
+    "cn": ""
+  },
+  {
+    "en": "Combat Drugs",
+    "cn": ""
+  },
+  {
+    "en": "Scrappy Raiders",
+    "cn": ""
+  },
+  {
+    "en": "Ace Pilots",
+    "cn": ""
+  },
+  {
+    "en": "Lt. Morales",
+    "cn": ""
+  },
+  {
+    "en": "EMP",
+    "cn": ""
+  },
+  {
+    "en": "Regroup",
+    "cn": ""
+  },
+  {
+    "en": "Corrosive Devourers",
+    "cn": ""
+  },
+  {
+    "en": "Savage Contagion",
+    "cn": ""
+  },
+  {
+    "en": "Feral Zerglings",
+    "cn": ""
+  },
+  {
+    "en": "Ensnaring Queen",
+    "cn": ""
+  },
+  {
+    "en": "Murderous Claws",
+    "cn": ""
+  },
+  {
+    "en": "Feral Ultralisk",
+    "cn": ""
+  },
+  {
+    "en": "Patient Killers",
+    "cn": ""
+  },
+  {
+    "en": "True Colors",
+    "cn": ""
+  },
+  {
+    "en": "Burrowed Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Kukulza Flock",
+    "cn": ""
+  },
+  {
+    "en": "Merciless Finishers",
+    "cn": ""
+  },
+  {
+    "en": "Lurker Advance",
+    "cn": ""
+  },
+  {
+    "en": "Overseer Network",
+    "cn": ""
+  },
+  {
+    "en": "Devouring One",
+    "cn": ""
+  },
+  {
+    "en": "Sudden Betrayal",
+    "cn": ""
+  },
+  {
+    "en": "Plaguebringer",
+    "cn": ""
+  },
+  {
+    "en": "Consume",
+    "cn": ""
+  },
+  {
+    "en": "Scourge Burst",
+    "cn": ""
+  },
+  {
+    "en": "Spawn Broodlings",
+    "cn": ""
+  },
+  {
+    "en": "Lurker Den",
+    "cn": ""
+  },
+  {
+    "en": "Darting Corsairs",
+    "cn": ""
+  },
+  {
+    "en": "Chrono Wave",
+    "cn": ""
+  },
+  {
+    "en": "Talematros Grid",
+    "cn": ""
+  },
+  {
+    "en": "Daelaam Architects",
+    "cn": ""
+  },
+  {
+    "en": "Loyal Legion",
+    "cn": ""
+  },
+  {
+    "en": "Perimeter Scouts",
+    "cn": ""
+  },
+  {
+    "en": "Dragoon Shrine",
+    "cn": ""
+  },
+  {
+    "en": "Nerazim Warband",
+    "cn": ""
+  },
+  {
+    "en": "Artanis, Founder",
+    "cn": ""
+  },
+  {
+    "en": "Disruption Web",
+    "cn": ""
+  },
+  {
+    "en": "Maelstrom",
+    "cn": ""
+  },
+  {
+    "en": "Mind Control",
+    "cn": ""
+  },
+  {
+    "en": "Dark Archon",
+    "cn": ""
+  },
+  {
+    "en": "Augmentation Recall",
+    "cn": ""
+  },
+  {
+    "en": "Tassadar's Disciples",
+    "cn": ""
+  },
+  {
+    "en": "Powered Gates",
+    "cn": ""
+  },
+  {
+    "en": "Honor Guard",
+    "cn": ""
+  },
+  {
+    "en": "Shadow Walk",
+    "cn": ""
+  },
+  {
+    "en": "Archon of Justice",
+    "cn": ""
+  },
+  {
+    "en": "Aldaris, Insurgent",
+    "cn": ""
+  },
+  {
+    "en": "Shakuras Patrol",
+    "cn": ""
+  },
+  {
+    "en": "Repair Station",
+    "cn": ""
+  },
+  {
+    "en": "Hero Warp",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Barrel",
+    "cn": ""
+  },
+  {
+    "en": "Augmented Warriors",
+    "cn": ""
+  },
+  {
+    "en": "Slave Broods",
+    "cn": ""
+  },
+  {
+    "en": "Bitter Avengers",
+    "cn": ""
+  },
+  {
+    "en": "Lurker Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Purification Carrier",
+    "cn": ""
+  },
+  {
+    "en": "Expedition Escorts",
+    "cn": ""
+  },
+  {
+    "en": "Judicator Syndrea",
+    "cn": ""
+  },
+  {
+    "en": "Zagara's Handmaid",
+    "cn": ""
+  },
+  {
+    "en": "Zagara's Eggs",
+    "cn": ""
+  },
+  {
+    "en": "Swarmling Pool",
+    "cn": ""
+  },
+  {
+    "en": "Suppression Team",
+    "cn": ""
+  },
+  {
+    "en": "Drop Pod Blitz",
+    "cn": ""
+  },
+  {
+    "en": "Arclite Support",
+    "cn": ""
+  },
+  {
+    "en": "Tarsonis High Command",
+    "cn": ""
+  },
+  {
+    "en": "Viridescent Catalysts",
+    "cn": ""
+  },
+  {
+    "en": "Corrupted Ultralisks",
+    "cn": ""
+  },
+  {
+    "en": "Heavy Lab Security",
+    "cn": ""
+  },
+  {
+    "en": "Void Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Gravitic Thrusters",
+    "cn": ""
+  },
+  {
+    "en": "Rokarr",
+    "cn": ""
+  },
+  {
+    "en": "Supplicant Gateway",
+    "cn": ""
+  },
+  {
+    "en": "Slayer Ambush",
+    "cn": ""
+  },
+  {
+    "en": "Escorted Wrathwalker",
+    "cn": ""
+  },
+  {
+    "en": "Pierce the Veil",
+    "cn": ""
+  },
+  {
+    "en": "Ascending Votaries",
+    "cn": ""
+  },
+  {
+    "en": "Plundered Tech",
+    "cn": ""
+  },
+  {
+    "en": "Chain of Ascension",
+    "cn": ""
+  },
+  {
+    "en": "Mind Blast",
+    "cn": ""
+  },
+  {
+    "en": "Highlord Alarak",
+    "cn": ""
+  },
+  {
+    "en": "Death Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Ravenous Zerglings",
+    "cn": ""
+  },
+  {
+    "en": "Longblade Alpha",
+    "cn": ""
+  },
+  {
+    "en": "Raw Essence",
+    "cn": ""
+  },
+  {
+    "en": "Ravenous Guardians",
+    "cn": ""
+  },
+  {
+    "en": "Shifting Mutalisks",
+    "cn": ""
+  },
+  {
+    "en": "Ravenous Ambushers",
+    "cn": ""
+  },
+  {
+    "en": "Primal Wurms",
+    "cn": ""
+  },
+  {
+    "en": "Intimidating Roaches",
+    "cn": ""
+  },
+  {
+    "en": "Summon Pack Leader",
+    "cn": ""
+  },
+  {
+    "en": "Eternal Hunter Dehaka",
+    "cn": ""
+  },
+  {
+    "en": "Colonial Conscripts",
+    "cn": ""
+  },
+  {
+    "en": "Atlas Scout",
+    "cn": ""
+  },
+  {
+    "en": "Cronus Scout",
+    "cn": ""
+  },
+  {
+    "en": "Blockade Enforcer",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Injection",
+    "cn": ""
+  },
+  {
+    "en": "Genetics Trainee",
+    "cn": ""
+  },
+  {
+    "en": "Terrestrial Dominance",
+    "cn": ""
+  },
+  {
+    "en": "Yamato Cataclysm",
+    "cn": ""
+  },
+  {
+    "en": "Armored Corps",
+    "cn": ""
+  },
+  {
+    "en": "Alexei Stukov",
+    "cn": ""
+  },
+  {
+    "en": "Primal Hunters",
+    "cn": ""
+  },
+  {
+    "en": "Sudden Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Infested Platoon",
+    "cn": ""
+  },
+  {
+    "en": "Nerazim Raiders",
+    "cn": ""
+  },
+  {
+    "en": "Blades of Aiur",
+    "cn": ""
+  },
+  {
+    "en": "Blades of Shakuras",
+    "cn": ""
+  },
+  {
+    "en": "Siege Walkers",
+    "cn": ""
+  },
+  {
+    "en": "Devil Dogs",
+    "cn": ""
+  },
+  {
+    "en": "Mech Support Crew",
+    "cn": ""
+  },
+  {
+    "en": "Aegis Guard",
+    "cn": ""
+  },
+  {
+    "en": "Shock Division",
+    "cn": ""
+  },
+  {
+    "en": "Armament Bay",
+    "cn": ""
+  },
+  {
+    "en": "Dominion Troopers",
+    "cn": ""
+  },
+  {
+    "en": "Irradiation Scheme",
+    "cn": ""
+  },
+  {
+    "en": "Status: Black Site",
+    "cn": ""
+  },
+  {
+    "en": "Assassination Scheme",
+    "cn": ""
+  },
+  {
+    "en": "Plan A",
+    "cn": ""
+  },
+  {
+    "en": "Imperial Witness",
+    "cn": ""
+  },
+  {
+    "en": "Blackhammer",
+    "cn": ""
+  },
+  {
+    "en": "Obedient Fodder",
+    "cn": ""
+  },
+  {
+    "en": "Mineral Scavengers",
+    "cn": ""
+  },
+  {
+    "en": "Alysaar Archivist",
+    "cn": ""
+  },
+  {
+    "en": "Insidious Spy",
+    "cn": ""
+  },
+  {
+    "en": "Swift Vengeance",
+    "cn": ""
+  },
+  {
+    "en": "Archon of Tyranny",
+    "cn": ""
+  },
+  {
+    "en": "Warped Khaydarin",
+    "cn": ""
+  },
+  {
+    "en": "Ulrezaj",
+    "cn": ""
+  },
+  {
+    "en": "Scavenger Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Forbidden Knowledge",
+    "cn": ""
+  },
+  {
+    "en": "Overmind's Drone",
+    "cn": ""
+  },
+  {
+    "en": "Brood Hydralisks",
+    "cn": ""
+  },
+  {
+    "en": "Assault Brood",
+    "cn": ""
+  },
+  {
+    "en": "Infestation Spreaders",
+    "cn": ""
+  },
+  {
+    "en": "Infested Foundations",
+    "cn": ""
+  },
+  {
+    "en": "Potent Infestation",
+    "cn": ""
+  },
+  {
+    "en": "Dark Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Siphon",
+    "cn": ""
+  },
+  {
+    "en": "Daggoth",
+    "cn": ""
+  },
+  {
+    "en": "Reincarnation",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Cube",
+    "cn": ""
+  },
+  {
+    "en": "Swarmling Spawn",
+    "cn": ""
+  },
+  {
+    "en": "Clifftop Drop Pods",
+    "cn": ""
+  },
+  {
+    "en": "Unbreakable Essence",
+    "cn": ""
+  },
+  {
+    "en": "Unsparing Essence",
+    "cn": ""
+  },
+  {
+    "en": "Unstable Essence",
+    "cn": ""
+  },
+  {
+    "en": "Aerial Dominance",
+    "cn": ""
+  },
+  {
+    "en": "Bio Support Crew",
+    "cn": ""
+  },
+  {
+    "en": "Arclite Division",
+    "cn": ""
+  },
+  {
+    "en": "Summon Dakrun",
+    "cn": ""
+  },
+  {
+    "en": "Summon Glevig",
+    "cn": ""
+  },
+  {
+    "en": "Summon Murvar",
+    "cn": ""
+  },
+  {
+    "en": "Blockade",
+    "cn": ""
+  },
+  {
+    "en": "Genetics Expert",
+    "cn": ""
+  },
+  {
+    "en": "Assault Troopers",
+    "cn": ""
+  },
+  {
+    "en": "Interference Scheme",
+    "cn": ""
+  },
+  {
+    "en": "Demolition Scheme",
+    "cn": ""
+  },
+  {
+    "en": "Plan B",
+    "cn": ""
+  },
+  {
+    "en": "Mineral Chunk",
+    "cn": ""
+  },
+  {
+    "en": "Mineral Chunk",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Scavengers",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Barrel",
+    "cn": ""
+  },
+  {
+    "en": "Compelled Forces",
+    "cn": ""
+  },
+  {
+    "en": "Uncontrollable Power",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Sac",
+    "cn": ""
+  },
+  {
+    "en": "Overmind's Covenant",
+    "cn": ""
+  },
+  {
+    "en": "Zagara",
+    "cn": ""
+  },
+  {
+    "en": "Duke, Defender",
+    "cn": ""
+  },
+  {
+    "en": "Executor Andraxxus",
+    "cn": ""
+  },
+  {
+    "en": "Warp Facility",
+    "cn": ""
+  },
+  {
+    "en": "Neosteel Armory",
+    "cn": ""
+  },
+  {
+    "en": "Forward Prism",
+    "cn": ""
+  },
+  {
+    "en": "Acidic Brood",
+    "cn": ""
+  },
+  {
+    "en": "Coordinated Coup",
+    "cn": ""
+  },
+  {
+    "en": "Steadfast Daelaam",
+    "cn": ""
+  },
+  {
+    "en": "Demolition Blitz",
+    "cn": ""
+  },
+  {
+    "en": "Enraged Queens",
+    "cn": ""
+  },
+  {
+    "en": "Cybros Facility",
+    "cn": ""
+  },
+  {
+    "en": "Recycled Biomass",
+    "cn": ""
+  },
+  {
+    "en": "Stasis Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Nuclear Bombardment",
+    "cn": ""
+  },
+  {
+    "en": "Infested Compound",
+    "cn": ""
+  },
+  {
+    "en": "Dormant Titan",
+    "cn": ""
+  },
+  {
+    "en": "Goliath Instructor",
+    "cn": ""
+  },
+  {
+    "en": "Revelation",
+    "cn": ""
+  },
+  {
+    "en": "Flight Instructor",
+    "cn": ""
+  },
+  {
+    "en": "Rampant Tunnelers",
+    "cn": ""
+  },
+  {
+    "en": "Support Bots",
+    "cn": ""
+  },
+  {
+    "en": "Army Breakers",
+    "cn": ""
+  },
+  {
+    "en": "Scourge Storm",
+    "cn": ""
+  },
+  {
+    "en": "Barracks Security",
+    "cn": ""
+  },
+  {
+    "en": "Frenzied Hydralisks",
+    "cn": ""
+  },
+  {
+    "en": "Special Ops Team",
+    "cn": ""
+  },
+  {
+    "en": "Patient Khalai",
+    "cn": ""
+  },
+  {
+    "en": "Mobile Machines",
+    "cn": ""
+  },
+  {
+    "en": "Vicious Mutalisks",
+    "cn": ""
+  },
+  {
+    "en": "Pressurized Ejections",
+    "cn": ""
+  },
+  {
+    "en": "Chrono Sentries",
+    "cn": ""
+  },
+  {
+    "en": "Cerberus Squad",
+    "cn": ""
+  },
+  {
+    "en": "Void Fleet",
+    "cn": ""
+  },
+  {
+    "en": "Infested Bunkers",
+    "cn": ""
+  },
+  {
+    "en": "Dormant Sentinels",
+    "cn": ""
+  },
+  {
+    "en": "Ballistics Bay",
+    "cn": ""
+  },
+  {
+    "en": "Linked Tempests",
+    "cn": ""
+  },
+  {
+    "en": "Cryogenic Hibernation",
+    "cn": ""
+  },
+  {
+    "en": "Deep Warren",
+    "cn": ""
+  },
+  {
+    "en": "Activation Bay",
+    "cn": ""
+  },
+  {
+    "en": "Warp Pad",
+    "cn": ""
+  },
+  {
+    "en": "Mass Suppression",
+    "cn": ""
+  },
+  {
+    "en": "Robotics Warp",
+    "cn": ""
+  },
+  {
+    "en": "Combat Activation",
+    "cn": ""
+  },
+  {
+    "en": "Duke, Tactician",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Armory",
+    "cn": ""
+  },
+  {
+    "en": "Radioactive Wasteland",
+    "cn": ""
+  },
+  {
+    "en": "Send the Boys",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "This mode's air attack is best against groups of Light air units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Bunker with 4 Marines inside.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Missile Turrets.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Barracks. Each turn it sends 2 Marines.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Factory. Each turn it sends 1 Hellbat.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Engineering Bay. Until destroyed, it gives your biological units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Draw 2 cards.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to the toughest enemy unit.",
+    "cn": ""
+  },
+  {
+    "en": "Reveal all enemy cloaked units during the next battle phase. Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch 6 Seeker Missiles at clusters of enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Your biological units lose 10% of their life, gain Rush, and get +50% attack and movement speed for 2 turns (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "They enter siege mode upon sighting an enemy.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They burrow in your defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They attack from the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "They prioritize repairing injured mechanical units and structures.",
+    "cn": ""
+  },
+  {
+    "en": "They unload 8 defensive Marines each, then help evacuate retreating tactical units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Supply Depot. When it is destroyed, discard a random card from your hand. Launch: Draw 2 cards.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Sensor Tower, which is a long-ranged detector.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Refinery. Until destroyed, it increases your gas limit by 1. Launch: Add 2 Vespene Barrels to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Starport. Each turn it sends 1 Viking (Fighter Mode).",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 2 minerals.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to the most expensive enemy structure.",
+    "cn": ""
+  },
+  {
+    "en": "Double the production of your two most expensive Barracks, Factories, or Starports. (Only one attachment can be added to each structure).",
+    "cn": ""
+  },
+  {
+    "en": "Deal 800 damage to the toughest two biological enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They target the center of the map with their anti-ground mode.",
+    "cn": ""
+  },
+  {
+    "en": "They each unload 4 Marines and 2 Marauders near the enemy defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "They each unload 1 Siege Tank on the cliff, which enter Siege Mode.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Missile Turret and a Bunker with 4 Marines inside. The Siege Tank enters Siege Mode in your defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Fusion Core. Until destroyed, it increases the energy regeneration rate of your units and halves their ability cooldowns.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Armory. Until destroyed, it gives your mechanical units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Return 2 structure cards from your discard pile to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch a Nuke at the enemy defensive area. It lands after a delay of 1 battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Make your two least expensive Barracks, Factories, or Starports produce Marauders, Siege Tanks, or Banshees. (Only one attachment can be added to each structure).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: It deals 1500 damage to the toughest enemy unit.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, add 2 Thor cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn the Commander makes the mineral cost of a random unit card in your hand 0.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 Nova Ops cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They use burrow to retreat.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, it increases your hand size by 1 (max 12). Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They spawn burrowed in your defensive area, and immediately unburrow.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They have upgraded speed.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Spawning Pool. Each turn it adds a Zergling Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Roach Warren. Each turn it adds a Roach Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Hydralisk Den. Each turn it adds a Hydralisk Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Spine Crawlers.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Spore Crawlers.",
+    "cn": ""
+  },
+  {
+    "en": "Give your biological ground units +40% attack speed and +60% movement speed (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Give your ranged ground units +6 damage and +3 range (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Your biological structures fully heal and gain the ability to spread creep.",
+    "cn": ""
+  },
+  {
+    "en": "They die after 2 battle phases.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "They burrow in your defensive area, then every other turn they send 2 Locusts each.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn they use Corrosive Bile on the nearest enemy structure (at any range).",
+    "cn": ""
+  },
+  {
+    "en": "They have upgraded speed. Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, it spreads creep and increases your hand size by 1 (max 12). Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Combine all of the free Spawn cards in your hand into one Spawn card, then double the unit count on the combined card.",
+    "cn": ""
+  },
+  {
+    "en": "They burrow when retreating, and only unburrow once they move out again.",
+    "cn": ""
+  },
+  {
+    "en": "It has detection and follows cloaked units. Enemy units won't attack it without detection. Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, it increases your hand size by 1 (max 12). Launch: It uses Contaminate on the 3 most expensive enemy structures, disabling them for 2 turns.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Baneling Nest. Each turn it adds a Baneling Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Spire. Each turn it adds a Mutalisk Spawn or Corruptor Spawn card (chosen randomly) to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Extractor. Until destroyed, it increases your gas limit by 1. Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Evolution Chamber. Until destroyed, whenever you play an Evolution Card give all of your units +10 life and draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Combine all of the free Spawn cards in your hand into one Spawn card, then triple the unit count on the combined card.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn they each create a Creep Tumor.",
+    "cn": ""
+  },
+  {
+    "en": "They burrow upon sighting an enemy, and attack while burrowed.",
+    "cn": ""
+  },
+  {
+    "en": "They spawn burrowed in the enemy defensive area, and immediately unburrow and attack.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: They each use Parasitic Bomb on clusters of enemy air units.",
+    "cn": ""
+  },
+  {
+    "en": "They each drop 4 Banelings on the enemy defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Ultralisk Cavern. Each turn it adds an Ultralisk Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Nydus Network. Until destroyed, your ground units have rush and emerge from it when played.",
+    "cn": ""
+  },
+  {
+    "en": "Mutate one of your Spires into a Greater Spire. Each turn it adds a Brood Lord Spawn card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Morph 24 Zerglings, 12 Roaches, 6 Corruptors, and 3 Hydralisks into Banelings, Ravagers, Brood Lords, and Lurkers.",
+    "cn": ""
+  },
+  {
+    "en": "Take control of the toughest enemy unit for 1 turn. Other enemy units don't attack back.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Combine all of the free Spawn cards in your hand into one Spawn card, then make the combined card heroic.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn she adds a different Hive Mind card to your hand (if possible).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They use Blink when retreating.",
+    "cn": ""
+  },
+  {
+    "en": "They use Psionic Transfer when retreating.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 Warp In cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Gateway. Each turn it sends 1 Zealot.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Photon Cannons.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Shield Batteries.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Pylon. Launch: Draw a card, then add a Warp In card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Damage clusters of enemy units with 9 Psionic Storms.",
+    "cn": ""
+  },
+  {
+    "en": "Send Phoenixes to lift 12 enemy units with Graviton Beam. The Phoenixes leave if their target is destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "Increase your mineral income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Send Oracles to create 10 Stasis Wards in your defensive area (the Oracles leave afterwards).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: They each use Hallucination.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch a structure card. If you have none, draw a card instead.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch a structure card.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, it costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Make all of your units on the battlefield defensive.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reveal all enemy cloaked units and structures for 2 turns.",
+    "cn": ""
+  },
+  {
+    "en": "They use Psionic Transfer to teleport across the center of the battlefield.",
+    "cn": ""
+  },
+  {
+    "en": "They each leave after killing 1 unit or structure.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Stargate. Each turn it sends 1 Phoenix.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Forge. Whenever you play a structure card, it sends a Probe to build a Photon Cannon.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Cybernetics Core. Whenever one of your biological Protoss units dies, it grants a 50% chance to revive it as an aggressive Stalker.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Assimilator. Until destroyed, it increases your gas limit by 1. Launch: Increase your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Twilight Council. Each turn it shuffles the most expensive card that you can't afford from your hand back into your deck. Whenever it does, draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Drain all energy from enemy units that have energy, then deal 200 damage to them.",
+    "cn": ""
+  },
+  {
+    "en": "Your team's Xel'naga Keystone gains an attack for the rest of the game. If it already has one, give it +15 damage and +15 range for 1 turn instead.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your 2 cheapest Gateways to Warp Gates, which add Warp In cards to your hand each turn. If you have no Gateways, add 2 Warp In cards to your hand instead.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your Gateways to Warp Gates, which add Warp In cards to your hand each turn. If you have no Gateways, add 2 Warp In cards to your hand instead.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, the Carrier costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: All of your High Templar and Dark Templar merge into Archons with Rush.",
+    "cn": ""
+  },
+  {
+    "en": "They each unload 2 Zealots, 1 Adept, and 1 Stalker near the enemy defensive area. Launch: Add 2 Warp In cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "They use Purification Nova on the enemy defensive area from your defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Robotics Facility. Each turn it sends 1 Immortal. Until destroyed, it costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Fleet Beacon. Each turn it fetches a card that sends a Carrier or Tempest. If the fetch succeeds skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Templar Archives. Whenever you play an action card that costs 8 or less, it shuffles that card back into your deck instead of discarding it.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Dark Shrine. Each turn it converts a biological Protoss unit from a card in your hand into a Dark Templar.",
+    "cn": ""
+  },
+  {
+    "en": "Create a Vortex at the center of the battlefield that lasts for 10 seconds. Units that enter it are destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "Copy the lowest cost unit card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn he chooses a mechanical unit and adds a copy of the card that created it to your hand. Whenever this succeeds, skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reveal the most expensive card in each of your opponents' decks.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn he fetches a heroic unit card from your deck. If the fetch succeeds skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Mothership card to your hand, unless you already have one there.",
+    "cn": ""
+  },
+  {
+    "en": "This mode's air attack is best against Massive air units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1000 damage to the toughest biological enemy unit. If alive, Nova equips her Canister Rifle and does the same.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: If alive, Nova equips her Hellfire Shotgun (does splash damage but only targets ground).",
+    "cn": ""
+  },
+  {
+    "en": "Permanently cloak the units that you send this turn. If alive, Nova permanently cloaks too.",
+    "cn": ""
+  },
+  {
+    "en": "Disable all enemy structures that cost 2 or less for 2 turns. If alive, Nova disables the most expensive enemy structure too.",
+    "cn": ""
+  },
+  {
+    "en": "If alive, Nova permanently gains detection.",
+    "cn": ""
+  },
+  {
+    "en": "If alive, return Nova to your hand. Otherwise, shuffle a copy of Nova from your discard pile into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "All of your units except Kerrigan and Overlords become aggressive.",
+    "cn": ""
+  },
+  {
+    "en": "All of your units except Overlords become defensive.",
+    "cn": ""
+  },
+  {
+    "en": "All of the Zerglings, Banelings, Roaches, Hydralisks, and Ultralisks you send this turn unburrow at the center of the map.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your Mothership Cores into tactical Motherships. Each turn reduce this card's cost by 1 mineral. If your last Mothership Core dies, discard this card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They only attack non-Keystone structures with a special grenade attack.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Add Scanner Sweep, MULE, and Supply Drop to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "It unloads 20 Marines in the enemy patrol area. If your deck is empty, upgrade this card to send 3 Hercules Dropships.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: It deals 1500 damage to the toughest enemy air unit.",
+    "cn": ""
+  },
+  {
+    "en": "They attack from the cliff, and have upgraded speed and cliff-jumping.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Infestation Pit. Until destroyed, it revives your Infested units as Infested Civilians.",
+    "cn": ""
+  },
+  {
+    "en": "They use burrow to retreat. Launch: Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "They have 50% life and no shields.",
+    "cn": ""
+  },
+  {
+    "en": "They have +12 range, but can only attack non-Keystone structures.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch a card with \\\"Chrono\\\" in the name (other than Chrono Probe). If you have none, draw a card instead.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch a Chrono Boost or Assimilator card.",
+    "cn": ""
+  },
+  {
+    "en": "Build 1 Photon Cannon for each structure you control.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, return it to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Shuffle 1 Riot card into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Xenomorph Research card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Xenomorph Research card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build 4 Missile Turrets.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Factory. Each turn it sends 1 Vulture.",
+    "cn": ""
+  },
+  {
+    "en": "Send 6 Vultures to place 3 Spider Mines each near the center of the battlefield.",
+    "cn": ""
+  },
+  {
+    "en": "Use Irradiate on 3 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": ""
+  },
+  {
+    "en": "Draw 3 cards. Then shuffle 3 Riot cards into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "They start with 0 energy.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 Xenomorph Research cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Give all of your non-Commander units Rush.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Research Facility. Each turn it adds a Xenomorph Research card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Reduce the cost of all Confederate cards in your hand by 2 minerals and 2 gas. Shuffle 2 Riot cards into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Make your two cheapest Factories produce Goliaths. (Only one attachment can be added to each structure).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a 22nd Reinforcements card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Ghost Academy. It gives your Ghosts and Spectres +3 range and prevents enemy card effects from choosing them as targets.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Barracks, Bunker, and Missile Turret. Launch: Destroy all of your other structures and discard all structure cards from your hand and deck.",
+    "cn": ""
+  },
+  {
+    "en": "Launch 1 Nuke at the enemy defensive area and 1 at the battlefield center (they land after 1 battle phase). Shuffle 4 Riot cards into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Discard up to 3 Riot cards from your deck. For each card discarded send 6 aggressive Marines with rush.",
+    "cn": ""
+  },
+  {
+    "en": "When killed it drops 4 Marines, 1 Goliath, and 1 heroic Siege Tank.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard a random heroic card from one of your opponents' decks.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard all Confederate and Riot cards from your hand. Send 20 Marines for each card discarded.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Sunken Colony. Launch: If you have no Sunken Colonies on the battlefield, add a copy of Sunken Colony to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Give your biological air units +100 life (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Give your biological ground units +3 armor (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "At the start of the next Play Phase, add 6 Zerglings to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add 8 Zerglings and 1 mineral cost to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They each increase your hand size by 1.",
+    "cn": ""
+  },
+  {
+    "en": "They each unload 2 Hydralisks and 4 Zerglings near the enemy defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Spire. Each turn it adds a Mutalisk Spawn or Scourge Spawn card (chosen randomly) to your hand. Launch: Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Destroy a random enemy structure, then 8 Zerglings and 2 Hydralisks unburrow from underneath it.",
+    "cn": ""
+  },
+  {
+    "en": "Set the energy (current and maximum) of your biological energy units to 400.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of the next Play Phase, add 2 Hydralisks and 1 mineral cost to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add 2 Hydralisks and 1 mineral cost to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Play all cards from your hand that send only air units, and discard the rest.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Creep Colony. Launch: Draw a card. If you have no Creep Colonies on the battlefield, add a Creep Colony to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of the next Play Phase, add 1 Ultralisk, 1 mineral cost, and 1 gas cost to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add 1 Ultralisk, 1 mineral cost, and 1 gas cost to each Spawn card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Shuffle an Infestation card into each of your opponent's decks.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this card updates to have 6 Zerglings, 2 Mutalisks, or 1 Hydralisk per enemy unit with energy.",
+    "cn": ""
+  },
+  {
+    "en": "Replace your team's KeyStone with the Overmind. Each turn it adds a random Spawn card to your hand, then doubles that card's unit count.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, shuffle a Torrasque Revival card into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce your mineral and gas income by 1 each.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn that you play no cards, add 2 Zealots to this card.",
+    "cn": ""
+  },
+  {
+    "en": "They try to leave the battlefield when they retreat, and return to your hand if successful.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Pylons. Launch: Fully restore the shields and energy of all of your structures.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Gateway. Launch: Fetch your least expensive unit card. If the fetch succeeds, skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Cloak all of your ground units for 1 battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: All of your units on the battlefield become aggressive and gain rush.",
+    "cn": ""
+  },
+  {
+    "en": "Stun 2 clusters of enemy units with Stasis Field for 2 turns. Affected units are invulnerable while stunned.",
+    "cn": ""
+  },
+  {
+    "en": "Until destroyed, they each cost 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, the Carrier costs 1 mineral per turn. Each turn that you play no cards, add 1 Scout to this card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Fetch the most expensive action card from your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Until destroyed, the Reaver costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Shield Batteries. Launch: Fully restore the shields on all of your units.",
+    "cn": ""
+  },
+  {
+    "en": "Teleport all of your units to your team's spawn area and fully recover their shields. Then make all of your units on the battlefield defensive.",
+    "cn": ""
+  },
+  {
+    "en": "Disable all enemy structures for 1 turn. They are invulnerable while disabled.",
+    "cn": ""
+  },
+  {
+    "en": "Give up to 24 of your biological Protoss units Recall Suits, which revives them as Dragoons when they die (overrides the Cybernetics Core revival effect).",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn that you play no cards, add 1 High Templar to this card. Launch: They use Psionic Storm on clusters of enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "You can only play this card if every unit you control is cloaked.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Robotics Bay. Until destroyed, ignore 2 mineral and 2 gas upkeep (resource costs that you pay every turn).",
+    "cn": ""
+  },
+  {
+    "en": "Send an invulnerable Mothership to use Planet Cracker, dealing massive damage to ground units and moderate damage to structures.",
+    "cn": ""
+  },
+  {
+    "en": "Discard 5 unit cards that send ground units from your deck. Increase your mineral income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, add Fenix Reborn and 2 Warp Ins to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Until destroyed, it costs 1 mineral per turn. Each turn that you play no cards, reduce the cost of this card by 1 random resource.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Play a random action card from your hand. If you do, draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this is in your hand, a random opponent sends 2 Marines. Play this card to quell the riot and draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Calldown Marines until you have 10 per Commander you control. Discard this card if your last Commander dies.",
+    "cn": ""
+  },
+  {
+    "en": "Send 4 Vultures to place 3 Spider Mines each in your defensive area. They leave the battlefield afterwards.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard all Riot cards from your hand, then draw a card for each one discarded.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard all Riot cards from your hand, then draw a card for each one discarded.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 mineral.",
+    "cn": ""
+  },
+  {
+    "en": "Give the units you play this turn Rush.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 500 damage to the toughest enemy unit.",
+    "cn": ""
+  },
+  {
+    "en": "Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Use Irradiate on 2 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this is in your hand, an opponent sends 4 Zerglings and 1 Hydralisk. Play this card to clear the infestation and draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Make your most expensive Factory or Starport produce Thors or Battlecruisers. Discard 2 random cards for each produced, or destroy Physics Lab if you can't.",
+    "cn": ""
+  },
+  {
+    "en": "Replace all cards in your deck that send only Zerglings with random cards that send only Banelings.",
+    "cn": ""
+  },
+  {
+    "en": "The number of Archons on this card is equal to your unspent gas (minimum of 1).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard your hand. Channel 10: Add 6 Void Army cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce the cost of all Hybrid and Void cards in your deck and hand by 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 gas. When played, add Spectre Cell to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "When killed it drops 8 Marines.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce the cost of all Hybrid and Void cards in your deck and hand by 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "Add Defensive Matrix to your hand. Then reduce the cost of all cards in your hand by 1 mineral.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Return 1 card with the \\\"buried\\\" keyword from your discard pile to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Return 3 cards with the \\\"buried\\\" keyword from your discard pile to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Psi Disruptor. Until destroyed, it prevents each enemy player from spending 1 of his or her minerals.",
+    "cn": ""
+  },
+  {
+    "en": "Use Defensive Matrix on your toughest 6 units. Defensive matrix expires after preventing 200 damage or after 2 battle phases.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Bunker. Then shuffle a Secret Hangar into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Add random Hybrid cards to your hand until you have 7 cards.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Disable the weapons and abilities of the 3 toughest enemy units for 1 turn. Targets mechanical and psionic units only.",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, draw an extra card each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 5: It sends 5 Seeker Missiles at clusters of enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to the toughest two enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Supply Depot. When a Supply Depot is destroyed, discard a random card from your hand. Launch: Add Interference Matrix and Irradiate to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "They cloak when they move out.",
+    "cn": ""
+  },
+  {
+    "en": "When killed it drops 8 Banelings.",
+    "cn": ""
+  },
+  {
+    "en": "Play two random unit cards that cost 4 or less resources from your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Play the most expensive unit card from your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Play the least expensive unit card from your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 4: It immediately spawns inside and destroys a random enemy structure.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 5: It gets +15 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: It gains +10 life for each of your infested units that died this game.",
+    "cn": ""
+  },
+  {
+    "en": "Replay one of each Evolution from your discard pile.",
+    "cn": ""
+  },
+  {
+    "en": "They die after 2 battle phases.",
+    "cn": ""
+  },
+  {
+    "en": "The number of Zerglings on this card is equal to the number of units you control.",
+    "cn": ""
+  },
+  {
+    "en": "Implant 2 Broodlings into each of your units, which are released upon death (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "If you play an Evolution card they morph into Ravagers.",
+    "cn": ""
+  },
+  {
+    "en": "If you play an Evolution card they morph into Guardians or Devourers (each chooses randomly).",
+    "cn": ""
+  },
+  {
+    "en": "It increases your hand size by 1. If you play an Evolution card it morphs into an Overseer that uses Contaminate on the 3 most expensive enemy structures.",
+    "cn": ""
+  },
+  {
+    "en": "They have upgraded speed and focus their attack on structures.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Mutation Chamber. Each turn it morphs one of your Roaches, Hydralisks, Mutalisks, or Corruptors into the upgraded form.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 3: It gains +6 range.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Set your income limit to 6 for both minerals and gas. Channel 1: Increase your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "The number of Stalkers on this card is equal to your unspent gas (minimum of 1).",
+    "cn": ""
+  },
+  {
+    "en": "When killed it drops 2 Dark Templar.",
+    "cn": ""
+  },
+  {
+    "en": "Copy 1 random unit card from an opponent's deck. Channel 2: Copy 2 instead. The copied cards have no race.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 4: They each destroy a random enemy structure that costs 4 or less.",
+    "cn": ""
+  },
+  {
+    "en": "Disable the most expensive enemy structure for 1 turn. It is invulnerable while disabled. Add a copy of Enduring Stasis to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Shuffle all unit cards that send mechanical units from your discard pile back into your deck. Add 1 to the unit count of all mechanical units on those cards.",
+    "cn": ""
+  },
+  {
+    "en": "Supplicants count as your weakest units even if other units you control have less life and shields.",
+    "cn": ""
+  },
+  {
+    "en": "Sacrifice your weakest 4 units. Then give your toughest ground unit +1200 shields and +12 damage.",
+    "cn": ""
+  },
+  {
+    "en": "Channel 5: Steal the weakest enemy unit and recall it to your spawn area. Repeat until 750 life/shields have been stolen.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn he sacrifices your weakest unit, fully restoring his energy and granting him +300 shields and +3 damage.",
+    "cn": ""
+  },
+  {
+    "en": "Cast 2 Psionic Orbs. They move across the entire battlefield doing moderate damage to nearby enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your cheapest Stargate into a Warp Stargate, which adds Star Warp cards to your hand each turn. If you have no Stargates, add 2 Star Warp cards to your hand instead.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your cheapest Stargate into a Warp Stargate, which adds Star Warp cards to your hand each turn. If you have no Stargates, add 2 Star Warp cards to your hand instead.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Stargate. It costs 1 gas per turn. Each turn it sends 1 Void Ray.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Argus Crystal. Launch: Lock the most expensive unit card in an opponent's hand. It can't be played until your last Argus Crystal is destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Pylon. Launch: Draw a card, then increase your Keystone's energy by 3.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, add a Terrazine Canister to your hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to the two most expensive enemy structures.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Starport. Each turn it sends 1 Wraith.",
+    "cn": ""
+  },
+  {
+    "en": "They use Tactical Jump to warp to the enemy defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Give your team's biological units +50% life (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Add a Shakuras Patrol to your hand. For each powered structure you control (including Pylons), it sends 1 Dragoon, Dark Templar, or Scout (chosen randomly).",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They have 50% life and no shields. This card has heroic as long as you control 10 or fewer units.",
+    "cn": ""
+  },
+  {
+    "en": "If you control at least 4 energy units at the start of the play phase, upgrade this card.",
+    "cn": ""
+  },
+  {
+    "en": "They attack from the cliff. The Hydralisks spawn burrowed and wait 1 turn before unburrowing.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn add 1 Zergling to this card for each energy unit you control.",
+    "cn": ""
+  },
+  {
+    "en": "They spawn inside the most expensive enemy structure, destroying it.",
+    "cn": ""
+  },
+  {
+    "en": "The Dragoon adds a Hero Warp card to your hand each turn. The Commander gives your team's heroic units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Repair Station card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Remove detection from all enemy units and structures (even if they're not visible to you).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: If you have a Terran unit, give Duran +40 damage. If you have Zerg, give him rapid life regeneration. If you have Protoss, give him permanent cloaking.",
+    "cn": ""
+  },
+  {
+    "en": "For each energy unit you control, shuffle a Slave Broods card into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Remove detection from 3 random enemy detectors (even if they're not visible to you).",
+    "cn": ""
+  },
+  {
+    "en": "Build a Bunker, a Missile Turret, and 2 Sunken Colonies. Each turn, reduce the cost of this card by 1 mineral if you control an energy unit.",
+    "cn": ""
+  },
+  {
+    "en": "The Battlecruiser moves across the battlefield while firing and leaves upon reaching the enemy Keystone.",
+    "cn": ""
+  },
+  {
+    "en": "Until destroyed, it gives all players +1 mineral income. When this card is selected, gain 3 minerals.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Raider's Cache. Until destroyed, it gives your team's heroic units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Each player on your team draws a card. Until the end of this battle phase, prevent players on your team from discarding due to drawing past their hand limit.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 1 Goliath to every UED unit card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 1 Wraith to every UED unit card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard 2 random non-Confederate cards. Then draw a card for each one discarded.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to 4 random enemy structures that cost 2 or less. Add a Vespene Barrel to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to a random enemy structure that costs between 4 and 6. Then shuffle two Battlecruisers into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Whenever you play a UED card, add 2 Marines to this card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Add two Slave Broods cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Barracks and a Bunker. They have 30% life.",
+    "cn": ""
+  },
+  {
+    "en": "Your biological units recover 10 life per second for 2 turns (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "This card has heroic as long as you control 10 or fewer units.",
+    "cn": ""
+  },
+  {
+    "en": "This card has heroic and rush as long as you control 10 or fewer units.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add Stimpack, Combat Drugs, and Neurostim Drugs to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Target all enemy cloaked, burrowed, and energy units with an EMP blast, which permanently suppresses cloaking and permanently removes all energy.",
+    "cn": ""
+  },
+  {
+    "en": "Draw 2 cards. Then order your 6 weakest units to leave the battlefield (only targets units that are not already leaving).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Give your team's biological units +3 damage (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "You can only play this card if you control a unit with energy.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Ensnare all enemy cloaked and burrowed units for 1 turn, revealing them and reducing their movement speed.",
+    "cn": ""
+  },
+  {
+    "en": "Give your burrowed and cloaked units double damage (doesn't stack). They keep the bonus even if they unburrow or lose cloaking.",
+    "cn": ""
+  },
+  {
+    "en": "You can only play this card if you control a unit with energy.",
+    "cn": ""
+  },
+  {
+    "en": "They spawn burrowed in your defensive area and wait 1 turn before unburrowing.",
+    "cn": ""
+  },
+  {
+    "en": "Kill all of your non-Zerg units. For each unit killed, send 1 Ultralisk, 1 Guardian, 3 Hydralisks, 5 Mutalisks, or 15 Zerglings (chosen randomly).",
+    "cn": ""
+  },
+  {
+    "en": "They spawn burrowed near the center of the battlefield and wait 1 turn before unburrowing.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn set the units on this card to match the burrowed units you control.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: All of your Lurkers unburrow and move forward (they reburrow again once in sight of a target).",
+    "cn": ""
+  },
+  {
+    "en": "They each increase your hand size by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard the 5 cheapest unit cards from your hand. Give the Zergling +300 life, +1 armor, and +10 damage per card discarded.",
+    "cn": ""
+  },
+  {
+    "en": "Steal a heroic card from an opponent's deck (chosen randomly) and add it to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Infect the most expensive enemy structure with a plague that deals 1500 damage over 2 turns. Reduce your gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Discard the cheapest unit card from your hand. Your biological energy units recover 50 energy per second for 1 turn (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Destroy a random enemy air unit with detection. Then 15 Scourge burst out of that dying unit.",
+    "cn": ""
+  },
+  {
+    "en": "Kill the toughest enemy ground unit that has 1000 or less current life and shields. Spawn 18 Broodlings at the dying unit. The Broodlings die after 2 turns.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Lurker Den. Each turn it adds a Lurker Spawn to your hand if you control no Lurkers, and each turn it orders one of your Lurkers with no targets in range to unburrow and advance.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Increase your mineral income by 1. Then do the same for the player on your team with the lowest mineral income.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Pylons. Fetch a card that sends Dark Templar.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch your cheapest structure card. If the fetch succeeds, skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn set the number of Zealots on this card equal to twice the number of heroic units you control (minimum 1).",
+    "cn": ""
+  },
+  {
+    "en": "They attack from the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Dragoon Shrine. Each turn it sends 1 Dragoon. Until destroyed, it costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn he fetches your cheapest structure card. If the fetch succeeds skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Use Disruption Web on all enemy defense structures, burrowed Lurkers, and sieged Siege Tanks. Each Web disables the weapons of enemy ground units in an area for 2 turns.",
+    "cn": ""
+  },
+  {
+    "en": "Cast Maelstrom on 3 clusters of enemy biological units, stunning them for 1 turn.",
+    "cn": ""
+  },
+  {
+    "en": "Permanently take control of the toughest enemy unit. Only targets units with current life and shields of 600 or less.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this card's launch ability changes. Launch: Add a Maelstrom card to your hand. ",
+    "cn": ""
+  },
+  {
+    "en": "Remove your weakest 2 Immortals, 2 Dragoons, and 2 Stalkers from the battlefield, then immediately resend them as heroic tactical units. Only targets non-heroic units.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Play a random action card from your hand that costs 4 or less. If you do, draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Pylons. If you control a powered Gateway (or Warp Gate), build a Gateway. If you control a powered Stargate (or Warp Stargate), build a Stargate.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade this card into Bitter Avengers once you've lost at least 8 heroic units.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch a card that sends Zealots. Then change all of the Zealots on that card into Dark Templar.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, cast 1 Psionic Storm per heroic unit you've lost this game.",
+    "cn": ""
+  },
+  {
+    "en": "They start in the enemy spawn area.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Shield Battery.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "It uses Purification Beam once per turn to destroy the closest enemy structure (except the KeyStone). Until killed, it costs 2 minerals per turn.",
+    "cn": ""
+  },
+  {
+    "en": "You may only select this card if you've already selected a different unit card that sends air units.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Discard a random defensive Protoss unit card from your deck. Send all of the units from that card as aggressive units with rush.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 random spawn cards to your hand and set their cost to 0.",
+    "cn": ""
+  },
+  {
+    "en": "Play all unit cards that cost 4 or less resources from your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Swarmling Pool. Each turn it adds a Swarmling Spawn card to your hand. If all of your deck's unit cards cost 4 or less at game start, set this card's cost to 2 minerals.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn set the number of Goliaths on this card equal to the number of cards among opponents' hands that cost 8 or more (minimum 1 Goliath).",
+    "cn": ""
+  },
+  {
+    "en": "Drop 24 aggressive Marines on the enemy's side of the battlefield.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Barracks, 1 Engineering Bay, 1 Bunker, and 2 Missile Turrets.",
+    "cn": ""
+  },
+  {
+    "en": "The number of Sentries on this card is equal to your unspent gas (minimum of 1). When selected, gain 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "You can only select this card if your gas income is at least 4.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce the cost of all Hybrid and Void cards in your deck and hand by 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "Add 3 Void Army cards to your hand. Channel 3: Shuffle a Void Crystal into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch 2 cards that send Scouts. If both fetches succeed skip your next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add Mutalisk Spawn cards to your hand until you have 1 less than your maximum hand size.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Gateway. Each turn it sends 1 Supplicant. Supplicants count as your weakest units even if other units you control have less life and shields.",
+    "cn": ""
+  },
+  {
+    "en": "They attack from the cliff, and Blink towards the enemy base.",
+    "cn": ""
+  },
+  {
+    "en": "Supplicants count as your weakest units even if other units you control have less life and shields.",
+    "cn": ""
+  },
+  {
+    "en": "Fetch the most expensive unit card from your deck. Increase your gas income limit by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Sacrifice your weakest 2 units. Then give all units sent by this card +300 shields and +3 damage.",
+    "cn": ""
+  },
+  {
+    "en": "Copy 2 random action cards from your opponents' decks.",
+    "cn": ""
+  },
+  {
+    "en": "Sacrifice your weakest unit, then give your toughest ground unit +300 shields and +3 damage. Add a copy of Chain of Ascension to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 1500 damage to the toughest enemy unit. If that kills it, remove all copies of the card that summoned it from its owner's hand, deck, and discard pile.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: For each unit you've sacrificed this game, Alarak gets +30 shields and +3 damage.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Sacrifice all other non-ground units you control.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: They immediately unburrow near the toughest enemy ground unit and attack it.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, it attacks from the cliff with rush.",
+    "cn": ""
+  },
+  {
+    "en": "Draw a card. If your Primal units or structures kill a unit, upgrade this card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: They attack the toughest enemy ground unit with unlimited range, then move to your defensive area.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Raw Essence to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: They immediately unburrow near the toughest enemy unit and attack it.",
+    "cn": ""
+  },
+  {
+    "en": "Summon 2 Primal Wurms near the front line. Each turn they reposition to the front line if there are no nearby units.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: If this is the only card you played this turn, remove the heroic buff from the toughest enemy heroic unit.",
+    "cn": ""
+  },
+  {
+    "en": "Add a random Pack Leader card to your hand. Whenever one of your Primal units or structures die, reduce the cost of this card by 1 random resource.",
+    "cn": ""
+  },
+  {
+    "en": "Return this card from your discard pile to your hand if your Primal units or structures kill a unit and you don't control a Primal King.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn discard the cheapest non-UED unit card that sends Marines from your hand. Move the Marines from that card to this card.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 Goliaths to a random UED unit card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add 2 Wraiths to a random UED unit card in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: For each Battlecruiser you control, add 2 Blockades (useless action cards that cost 1 mineral) to an opponent's hand.",
+    "cn": ""
+  },
+  {
+    "en": "Your biological units block 75% of all spell damage for 2 turns (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Each turn add 1 Hydralisk to this if you control an energy unit.",
+    "cn": ""
+  },
+  {
+    "en": "Order each of your Battlecruisers to deal 1500 damage to the closest enemy structure.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Whenever you play a card that sends energy units, he adds a random Terran action card with no subtype that costs 2 or less to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "The Roaches burrow when retreating.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "They use Blink when retreating.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": ""
+  },
+  {
+    "en": "It enters siege mode upon sighting an enemy. Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Armament Bay. Each turn it orders 3 of your non-heroic Marines to leave the battlefield. Whenever your Marines leave the battlefield, Armament Bay resends them as heroic units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Use Irradiate on 6 enemy biological units. It deals damage over time to them and other nearby enemy biological units.",
+    "cn": ""
+  },
+  {
+    "en": "Permanently cloak your most expensive structure, and prevent enemy card effects from choosing it as a target.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 800 damage to the toughest enemy heroic unit.",
+    "cn": ""
+  },
+  {
+    "en": "Add Assassination/Demolition Scheme to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Give all of the units you send this turn Indoctrination (whenever they kill a unit, send 1 Marine).",
+    "cn": ""
+  },
+  {
+    "en": "Until killed, it grants your ground units +1 armor. Indoctrination: When units sent by this card kill a unit, send 1 Marine.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Mineral Chunk to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Shuffle a copy of each action card you play this turn into your deck.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Remove detection from 1 random enemy detector (even if it's not visible to you).",
+    "cn": ""
+  },
+  {
+    "en": "They warp to the position of the toughest enemy ground unit and attack it. When done, they leave the battlefield.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Steal 75% (rounded down) of the units from the card in your opponents' hands with the most units. Add them to your hand as a Compelled Forces card.",
+    "cn": ""
+  },
+  {
+    "en": "Steal 75% (rounded down) of the units from the 2 cards in your opponents' hands with the most units. Add them to your hand as 2 Compelled Forces cards.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn he removes one of your Dark Templar from the battlefield. If he does, he gets +175 shields and adds a Forbidden Knowledge to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Return a card that sends mechanical ground units from your discard pile to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add an Uncontrollable Power card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "If you have a Spawning Pool on the battlefield, add a Hydralisk Den to your hand and set its cost to 0. Otherwise add a Spawning Pool to your hand and set its cost to 0.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Infest a random card in an opponent's hand.",
+    "cn": ""
+  },
+  {
+    "en": "Infest a random structure card in an opponent's hand. Then 10 Volatile Infested emerge from a random enemy structure, destroying it.",
+    "cn": ""
+  },
+  {
+    "en": "Infest 4 random cards in your opponents' hands. Only targets cards that cost 9 or more total resources.",
+    "cn": ""
+  },
+  {
+    "en": "Create Dark Swarms down the center corridor of the battlefield. They protect your team's units from ranged damage and last 1 turn (doesn't affect melee, splash, or spells).",
+    "cn": ""
+  },
+  {
+    "en": "Reduce the gas income to 2 for your opponent with the highest. For each gas income they lose, destroy their cheapest structure and add a Vespene Sac to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Cerebrate. Whenever you add a free Spawn card to your hand, it sends copies of the units on that card.",
+    "cn": ""
+  },
+  {
+    "en": "Give your most expensive structure the ability to return to your hand when destroyed. If it's a Cerebrate, also add Overmind's Covenant to your hand (when destroyed).",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Drop 24 aggressive Marines on the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "Give Unbreakable Essence to your toughest unit that doesn't already have it. Grants +3 armor and the ability to respond to every attack with a 20 damage spine.",
+    "cn": ""
+  },
+  {
+    "en": "Give Unsparing Essence to your toughest unit that does not already have it. Grants +200% damage and a fire aura that deals 20 damage per second to nearby enemy units and structures.",
+    "cn": ""
+  },
+  {
+    "en": "Give Unstable Essence to your toughest unit that does not already have it. Grants +50% movement speed and 16 Creepers emerge upon death.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn add 3 Scourge to this if you control an energy unit.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "A Pack Devourer unburrows in front of your Keystone, walks to the enemy Keystone, then tunnels away (leaving the battlefield).",
+    "cn": ""
+  },
+  {
+    "en": "Summon 1 Greater Wurm near the front line.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it sends a wave of 6 Creepers and 4 Winged Creepers.",
+    "cn": ""
+  },
+  {
+    "en": "This card does nothing. Play it to clear the blockade from your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Disable the weapons and abilities of 10 random enemy mechanical units for 1 turn.",
+    "cn": ""
+  },
+  {
+    "en": "Destroy a random enemy structure that costs between 3 and 6 resources.",
+    "cn": ""
+  },
+  {
+    "en": "Add Irradiation/Interference Scheme to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 mineral.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 mineral.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Vespene Barrel to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "For each Forbidden Knowledge in your discard pile, cast Psi Storm and Maelstrom on a cluster of enemy units. Each turn, increase the cost of this card by 1 gas.",
+    "cn": ""
+  },
+  {
+    "en": "When selected, gain 2 gas.",
+    "cn": ""
+  },
+  {
+    "en": "Add a Reincarnation card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn she combines all of the free Spawn cards in your hand into one Spawn card, then doubles the unit count on the combined card.",
+    "cn": ""
+  },
+  {
+    "en": "It attacks to your defensive area, then enters siege mode.",
+    "cn": ""
+  },
+  {
+    "en": "It costs 1 mineral per turn. Launch: Discard a random aggressive Protoss unit card from your deck. Send the units from that card as defensive rush units.",
+    "cn": ""
+  },
+  {
+    "en": "Upgrade your cheapest Robotics Facility into a Warp Facility, which adds Robotics Warp cards to your hand each turn. If you have none to upgrade, add 2 Robotics Warp cards to your hand instead.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Armory. Until destroyed, it gives your mechanical units +2 armor.",
+    "cn": ""
+  },
+  {
+    "en": "It moves to the cliff. Until it is destroyed, units from your Warp cards will attack from the cliff. Launch: Add 3 Warp In cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Reduce your gas limit and gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Deal 500 damage to the toughest 4 enemy heroic units.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build a Robotics Facility. Each turn it sends 1 Disruptor. It costs 1 mineral per turn.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn set the unit count on this card equal to half the number of Infested units you've lost without reviving this game (minimum 1).",
+    "cn": ""
+  },
+  {
+    "en": "Build a Stasis Crystal. Until destroyed, it locks the toughest enemy unit in a Stasis Prison. If the locked unit dies, it locks another.",
+    "cn": ""
+  },
+  {
+    "en": "Launch 2 Nukes at the enemy defensive area. They land after a delay of 1 battle phase. Add a Radioactive Wasteland to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Infested Compound. It grants a 75% chance to revive your slain Infested units as Infested Civilians.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Combat Activation card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "While held, this card orders 2 of your Marines to leave each turn. When each leaves, add a Goliath to a Goliath Instructor in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Permanently reveal all enemy cloaked units. Reveal the most expensive card from a random opponent's deck. Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "While held, this card orders 1 of your Marines to leave each turn. When it leaves, add a Viking or Wraith to a Flight Instructor in your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Add a Barracks to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Give +4 range to the ranged attacks of your air units (doesn't stack).",
+    "cn": ""
+  },
+  {
+    "en": "Launch: Increase your mineral income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "Build 2 Infested Bunkers with 4 Infested Marines each. Infested Bunkers uproot and attack at the start of the battle phase if you control an Infested unit in front of them.",
+    "cn": ""
+  },
+  {
+    "en": "They count as Mechanical instead of Biological. Launch: Add a Combat Activation card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Ballistics Bay. Until destroyed, it gives your ranged biological units +1 range and armor-piercing attacks.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn reduce the cost of this card by the number of cards in your discard pile that send Tempests.",
+    "cn": ""
+  },
+  {
+    "en": "Shuffle the most expensive unit card from your hand back into your deck and reduce its cost by 2 minerals and 2 gas. Then draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Build a Roach Warren. Each turn it adds a Roach Spawn card to your hand. Launch: Play the most expensive card from your hand that sends Roaches.",
+    "cn": ""
+  },
+  {
+    "en": "Build an Activation Bay. It fetches a Purifier card whenever you play a Combat Activation card. If the fetch succeeds skip your next draw step. Launch: Add a Combat Activation to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add 1 Robotics Warp, 1 Star Warp, and 1 Warp In to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "Add 4 Riot Suppression cards to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "",
+    "cn": ""
+  },
+  {
+    "en": "All of your units on the battlefield become aggressive and gain Rush.",
+    "cn": ""
+  },
+  {
+    "en": "It attacks from the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "This can only have 5 units on it, of all different types.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this is in your hand its cost reduces by 1 gas, then it uses Irradiate on a random unit you control, damaging it and nearby allied biological units over time.",
+    "cn": ""
+  },
+  {
+    "en": "This card has 10 SCVs for each unspent resource you have. Launch: Lose income equal to your unspent resources.",
+    "cn": ""
+  }
+]

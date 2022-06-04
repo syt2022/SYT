@@ -1,0 +1,2574 @@
+[
+  {
+    "en": "2 Battle Phase Disappear",
+    "cn": ""
+  },
+  {
+    "en": "Aberrant Strength",
+    "cn": ""
+  },
+  {
+    "en": "Dominance of the Highlord",
+    "cn": ""
+  },
+  {
+    "en": "Anaerobic Enhancement",
+    "cn": ""
+  },
+  {
+    "en": "Artanis's Unification",
+    "cn": ""
+  },
+  {
+    "en": "Queen of the Zerg",
+    "cn": ""
+  },
+  {
+    "en": "Assassin",
+    "cn": ""
+  },
+  {
+    "en": "Augmented Annihilation",
+    "cn": ""
+  },
+  {
+    "en": "Behemoth Reactor",
+    "cn": ""
+  },
+  {
+    "en": "Black Site",
+    "cn": ""
+  },
+  {
+    "en": "Blades of Vengeance",
+    "cn": ""
+  },
+  {
+    "en": "Broodling Gestation",
+    "cn": ""
+  },
+  {
+    "en": "Bulwark Field",
+    "cn": ""
+  },
+  {
+    "en": "Bulwark Field Armor",
+    "cn": ""
+  },
+  {
+    "en": "Carapace Contagion",
+    "cn": ""
+  },
+  {
+    "en": "Changeling Passive",
+    "cn": ""
+  },
+  {
+    "en": "Steady Targeting Copy",
+    "cn": ""
+  },
+  {
+    "en": "Chitinous Plating",
+    "cn": ""
+  },
+  {
+    "en": "Cloaking Field",
+    "cn": ""
+  },
+  {
+    "en": "Combat Drugs",
+    "cn": ""
+  },
+  {
+    "en": "Consumed Energy",
+    "cn": ""
+  },
+  {
+    "en": "Continuous Ascension",
+    "cn": ""
+  },
+  {
+    "en": "Oppressive Stench",
+    "cn": ""
+  },
+  {
+    "en": "Disruption Web Copy",
+    "cn": ""
+  },
+  {
+    "en": "Daelaam Founder",
+    "cn": ""
+  },
+  {
+    "en": "Deadly Charging",
+    "cn": ""
+  },
+  {
+    "en": "Defensive Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Acid Spores",
+    "cn": ""
+  },
+  {
+    "en": "EMP Permanent Decloak",
+    "cn": ""
+  },
+  {
+    "en": "Energizer",
+    "cn": ""
+  },
+  {
+    "en": "Eternal Warrior",
+    "cn": ""
+  },
+  {
+    "en": "Evolved",
+    "cn": ""
+  },
+  {
+    "en": "Exposed Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Fenix's Leadership",
+    "cn": ""
+  },
+  {
+    "en": "Flight Lessons",
+    "cn": ""
+  },
+  {
+    "en": "Flyer Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Forbidden Knowledge",
+    "cn": ""
+  },
+  {
+    "en": "Forward Warp Point",
+    "cn": ""
+  },
+  {
+    "en": "Gas Upkeep",
+    "cn": ""
+  },
+  {
+    "en": "Goliath Lessons",
+    "cn": ""
+  },
+  {
+    "en": "Grooved Spines",
+    "cn": ""
+  },
+  {
+    "en": "Hand Size +1",
+    "cn": ""
+  },
+  {
+    "en": "Heavy Suit Lessons",
+    "cn": ""
+  },
+  {
+    "en": "Heroic",
+    "cn": ""
+  },
+  {
+    "en": "Heroic Equipment",
+    "cn": ""
+  },
+  {
+    "en": "Heroic Suppressed",
+    "cn": ""
+  },
+  {
+    "en": "Hungry",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Plating",
+    "cn": ""
+  },
+  {
+    "en": "Improved Ballistics",
+    "cn": ""
+  },
+  {
+    "en": "Improved Engineering",
+    "cn": ""
+  },
+  {
+    "en": "Improved Equipment",
+    "cn": ""
+  },
+  {
+    "en": "Indoctrination",
+    "cn": ""
+  },
+  {
+    "en": "Irradiate",
+    "cn": ""
+  },
+  {
+    "en": "Justice",
+    "cn": ""
+  },
+  {
+    "en": "Karax's Expertise",
+    "cn": ""
+  },
+  {
+    "en": "Masked Nature",
+    "cn": ""
+  },
+  {
+    "en": "Metabolic Boost",
+    "cn": ""
+  },
+  {
+    "en": "Metasynaptic Node",
+    "cn": ""
+  },
+  {
+    "en": "Mind Blasted",
+    "cn": ""
+  },
+  {
+    "en": "Mineral Upkeep",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Reactor",
+    "cn": ""
+  },
+  {
+    "en": "Murderous Ascendance",
+    "cn": ""
+  },
+  {
+    "en": "Murderous Claws",
+    "cn": ""
+  },
+  {
+    "en": "Mutable",
+    "cn": ""
+  },
+  {
+    "en": "Nemesis",
+    "cn": ""
+  },
+  {
+    "en": "Neosteel Plating",
+    "cn": ""
+  },
+  {
+    "en": "Supercharge",
+    "cn": ""
+  },
+  {
+    "en": "Overmind's Covenant",
+    "cn": ""
+  },
+  {
+    "en": "Permanent Ensnare",
+    "cn": ""
+  },
+  {
+    "en": "Permanently Revealed",
+    "cn": ""
+  },
+  {
+    "en": "Recall Suits",
+    "cn": ""
+  },
+  {
+    "en": "Plague",
+    "cn": ""
+  },
+  {
+    "en": "Pressurized Ejections",
+    "cn": ""
+  },
+  {
+    "en": "Psi Emitter",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Storm",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Injection",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Master",
+    "cn": ""
+  },
+  {
+    "en": "Ensnare",
+    "cn": ""
+  },
+  {
+    "en": "Rak'Shir Champion",
+    "cn": ""
+  },
+  {
+    "en": "Interference Matrix",
+    "cn": ""
+  },
+  {
+    "en": "Ravenous Range",
+    "cn": ""
+  },
+  {
+    "en": "Raynor's Leadership",
+    "cn": ""
+  },
+  {
+    "en": "Raynor's Orders",
+    "cn": ""
+  },
+  {
+    "en": "Raynor's Revolution",
+    "cn": ""
+  },
+  {
+    "en": "Reincarnation",
+    "cn": ""
+  },
+  {
+    "en": "Sabotage",
+    "cn": ""
+  },
+  {
+    "en": "Savage Contagion",
+    "cn": ""
+  },
+  {
+    "en": "Scientific Genius",
+    "cn": ""
+  },
+  {
+    "en": "Invulnerable",
+    "cn": ""
+  },
+  {
+    "en": "Siege Range",
+    "cn": ""
+  },
+  {
+    "en": "Stealth Equipment",
+    "cn": ""
+  },
+  {
+    "en": "Structural Stasis Field",
+    "cn": ""
+  },
+  {
+    "en": "Stasis Prison",
+    "cn": ""
+  },
+  {
+    "en": "Structure Attacker",
+    "cn": ""
+  },
+  {
+    "en": "Suppress Changeling",
+    "cn": ""
+  },
+  {
+    "en": "Suspicious Tech",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering",
+    "cn": ""
+  },
+  {
+    "en": "System Hack",
+    "cn": ""
+  },
+  {
+    "en": "Terrazine Addict",
+    "cn": ""
+  },
+  {
+    "en": "Top Secret Projects",
+    "cn": ""
+  },
+  {
+    "en": "Torrasque Revival",
+    "cn": ""
+  },
+  {
+    "en": "Stunned",
+    "cn": ""
+  },
+  {
+    "en": "Unbreakable Essence",
+    "cn": ""
+  },
+  {
+    "en": "Undying",
+    "cn": ""
+  },
+  {
+    "en": "Unevolved Spines",
+    "cn": ""
+  },
+  {
+    "en": "Unsparing Essence",
+    "cn": ""
+  },
+  {
+    "en": "Unstable Essence",
+    "cn": ""
+  },
+  {
+    "en": "Consume",
+    "cn": ""
+  },
+  {
+    "en": "Void Shade",
+    "cn": ""
+  },
+  {
+    "en": "Waiting 1 Turn",
+    "cn": ""
+  },
+  {
+    "en": "Waiting 2 Turns",
+    "cn": ""
+  },
+  {
+    "en": "Cloak",
+    "cn": ""
+  },
+  {
+    "en": "Zagara's Brood",
+    "cn": ""
+  },
+  {
+    "en": "Maelstrom",
+    "cn": ""
+  },
+  {
+    "en": "Target is taking damage from Strike Cannons.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has increased life.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has increased life and damage.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +30% movement speed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit cannot move, attack, or be damaged except by action cards and launch effects.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, Artanis fetches a heroic unit card from his owner's deck. If that fetch succeeds, his owner skips the draw step of the next play phase.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each battle phase, Kerrigan adds a different Hive Mind card to your hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will leave the battlefield after getting 1 kill.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +6 range.",
+    "cn": ""
+  },
+  {
+    "en": "Your Fusion Core is increasing this unit's energy regeneration rate and halving its ability cooldowns.",
+    "cn": ""
+  },
+  {
+    "en": "This structure is permanently cloaked, and only visible to detector units or effects.<n/><n/>This structure cannot be targeted by card effects.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has increased damage.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will spawn 2 Broodlings when it dies.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is invulnerable. It is trying to build a structure.",
+    "cn": ""
+  },
+  {
+    "en": "Granting +1 armor to your ground units.",
+    "cn": ""
+  },
+  {
+    "en": "A Blackhammer Thor is giving this unit bonus armor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +50% life.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is carefully aiming.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 armor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is cloaked unless revealed by <c val=\"FFE303\">Detectors</c> or effects.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has rapid life regeneration.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is recovering 100 energy per second.",
+    "cn": ""
+  },
+  {
+    "en": "This structure can't attack, train units, or use abilities (including passive ones).",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each battle phase, this unit kills the weakest unit its owner controls in order to gain full energy, +300 shields, and +3 attack.",
+    "cn": ""
+  },
+  {
+    "en": "This unit's movement speed is slowed and it cannot attack or use energy-based abilities.",
+    "cn": ""
+  },
+  {
+    "en": "This unit cannot attack.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, Artanis fetches the cheapest structure card from his owner's deck. If that fetch succeeds, his owner skips the draw step of the next play phase.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is charging, allowing it to quickly close the distance with its target.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has a shield with 200 life.",
+    "cn": ""
+  },
+  {
+    "en": "This unit takes 0 damage from ranged attacks. Melee, splash, and spell attacks still deal damage as normal.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has reduced armor and attack speed, and is being revealed.",
+    "cn": ""
+  },
+  {
+    "en": "Target was hit by EMP, making it permanently visible and removing all energy from it.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this adds a Combat Activation card to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, this unit will add Fenix Reborn to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "An Evolution Chamber has given this unit increased life.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this unit adds a Hero Warp card to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Flight Instructor card as a new Viking or Wraith (chosen randomly).",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +100 life.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn, this unit removes one of its Dark Templar. Whenever it does, it gains +175 shields and adds a Forbidden Knowledge card to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "When the owner of this unit plays Warp cards, the units will attack from the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "This unit costs gas every turn until it dies.<n/><n/>You don't have to pay for units that are still waiting to move out.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Goliath Instructor card as a new Goliath.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 range and +6 damage.",
+    "cn": ""
+  },
+  {
+    "en": "This unit increases its owner's hand size by 1.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Heavy Suit Instructor card as a new Firebat or Marauder (chosen randomly).",
+    "cn": ""
+  },
+  {
+    "en": "This unit has double life, double shields, +3 armor, and +50% attack damage compared to a non-heroic version.",
+    "cn": ""
+  },
+  {
+    "en": "Raider's Cache is giving this unit bonus damage and armor.",
+    "cn": ""
+  },
+  {
+    "en": "This heroic unit's stats have been suppressed back to their non-heroic state.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has boosted life, armor, and damage.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +15 armor.",
+    "cn": ""
+  },
+  {
+    "en": "A Ballistics Bay is giving this unit bonus range and armor-piercing attacks.",
+    "cn": ""
+  },
+  {
+    "en": "An Armory is giving this unit bonus damage and armor.",
+    "cn": ""
+  },
+  {
+    "en": "An Engineering Bay is giving this unit bonus damage and armor.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit kills another unit, its owner sends 1 Marine.",
+    "cn": ""
+  },
+  {
+    "en": "Nearby biological units take damage over time.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit is killed, its owner casts 1 Psionic Storm for each heroic unit they have lost this game.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each battle phase, Karax chooses a random mechanical unit, then gives his owner a copy of the card that created it.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is permanently cloaked, and only visible to detector units or effects.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +40% attack and +60% movement speed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has 400 maximum energy.",
+    "cn": ""
+  },
+  {
+    "en": "This unit was killed by Mind Blast.",
+    "cn": ""
+  },
+  {
+    "en": "This unit costs minerals every turn until it dies.<n/><n/>You don't have to pay for units that are still waiting to move out.",
+    "cn": ""
+  },
+  {
+    "en": "Your Ghost Academy is increasing this unit's energy regeneration rate.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has double damage.",
+    "cn": ""
+  },
+  {
+    "en": "If its owner plays an Evolution card, this unit morphs into its upgraded form.",
+    "cn": ""
+  },
+  {
+    "en": "This unit can't be directly targeted by card effects.",
+    "cn": ""
+  },
+  {
+    "en": "A Neosteel Armory is giving this unit bonus armor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit or structure is revealed.",
+    "cn": ""
+  },
+  {
+    "en": "This structure has temporary bonus damage and bonus range.",
+    "cn": ""
+  },
+  {
+    "en": "When this structure dies, it adds Overmind's Covenant to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has reduced movement speed and is revealed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit or structure is permanently revealed.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit dies, it will be revived as a Dragoon.",
+    "cn": ""
+  },
+  {
+    "en": "This unit or structure is revealed and its life is being depleted.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +4 range.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is giving all players +1 mineral income.",
+    "cn": ""
+  },
+  {
+    "en": "Target is under the effects of Psionic Storm and will take massive damage while in this area of effect.",
+    "cn": ""
+  },
+  {
+    "en": "This unit blocks 75% of all spell damage.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this unit plays a random action card from its owner's hand, and whenever it plays one its owner draws a card.",
+    "cn": ""
+  },
+  {
+    "en": "This structure has a powerful long-ranged attack.",
+    "cn": ""
+  },
+  {
+    "en": "This unit was selected as its owner's champion, granting it +600 life. Units with less combined life and shields get removed, lending their strength to the champion.",
+    "cn": ""
+  },
+  {
+    "en": "Weapons and abilities are disabled.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has unlimited range until it kills its target.",
+    "cn": ""
+  },
+  {
+    "en": "Granting +15% damage and +1 armor to your team's heroic ground units.",
+    "cn": ""
+  },
+  {
+    "en": "Jim Raynor is giving this unit bonus damage and armor.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each battle phase, this unit sets the mineral cost of a random unit card in your hand to 0.",
+    "cn": ""
+  },
+  {
+    "en": "When this structure dies, it returns to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit's detection is permanently disabled.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 damage.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, this unit's owner draws an extra card.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is invulnerable until the Shield Projector is destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +10 range.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +12 range.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 range and can't be chosen as the target of enemy card effects.",
+    "cn": ""
+  },
+  {
+    "en": "This structure cannot do anything and cannot be damaged.",
+    "cn": ""
+  },
+  {
+    "en": "This unit cannot move, attack, or be damaged except by action cards and launch effects. Its passive abilities are also disabled.<n/><n/>Lasts until the unit or structure that created the Stasis Prison is destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit can only attack structures.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +40 damage.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each battle phase, this unit checks the battlefield for mechanical units and adds one of each to any Swann's Armory cards in its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, this unit's owner adds a Terrazine Canister to his or her hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit adds a 2 or less cost Terran action card to its owners hand whenever they play a card that sends energy units. Only adds cards with no subtype.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit dies, a Torrasque Revival card is shuffled into its owner's deck.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is stunned by Ultrasonic Pulse.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 armor.<n/><n/>Whenever this unit takes damage it shoots a 20 damage spine back at the attacker.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit dies, it returns to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has -1 range.",
+    "cn": ""
+  },
+  {
+    "en": "This unit deals +200% damage. It also deals 20 damage per second to nearby enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will spawn 16 Winged Creepers when it dies.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will spawn 16 Creepers when it dies.",
+    "cn": ""
+  },
+  {
+    "en": "This structure is being destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "This unit came from the Void.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will wait 1 more turn before moving out. While it waits it is invulnerable, but it can't attack.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will wait 2 more turns before moving out. While it waits it is invulnerable, but it can't attack.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is cloaked and will only be revealed by detectors or effects.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this unit combines all of the free Spawn cards in its owner's hand into one Spawn card, then doubles the unit count on the combined card.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is temporarily stunned.",
+    "cn": ""
+  },
+  {
+    "en": "Build Goliath",
+    "cn": ""
+  },
+  {
+    "en": "Build Psi Disruptor",
+    "cn": ""
+  },
+  {
+    "en": "Build Vulture",
+    "cn": ""
+  },
+  {
+    "en": "Build Vulture Factory",
+    "cn": ""
+  },
+  {
+    "en": "Build Wraith",
+    "cn": ""
+  },
+  {
+    "en": "Glevig Tunnel",
+    "cn": ""
+  },
+  {
+    "en": "Train Marine",
+    "cn": ""
+  },
+  {
+    "en": "Warp In Dragoon",
+    "cn": ""
+  },
+  {
+    "en": "Its owner fetches a Purifier card whenever they play a Combat Activation card. If the fetch succeeds, they skip their next draw step.",
+    "cn": ""
+  },
+  {
+    "en": "Psionic support ship. Cloaks nearby allied units.<n/><n/>Uses Stasis Field on clusters of enemy units, which stuns them and makes them invulnerable for 2 turns.<n/><n/>Uses Recall to save retreating tactical units.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful psionic attacker.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Orders 3 of its owner's non-heroic Marines to leave the battlefield each turn. Outfits Marines that leave with heroic equipment, and resends them.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner's mechanical units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Increases its owner's maximum gas income by 1.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner's biological ranged units +1 range and armor-piercing attacks.",
+    "cn": ""
+  },
+  {
+    "en": "Suicide unit. Does damage over a small area on death. <n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Baneling Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 2 Marines each battle phase. If you attach a Reactor it sends 4 Marines instead. If you attach a Tech Lab it sends 2 Marauders instead.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful warship. Can use Yamato Cannon and Tactical Jump.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Flying heavy-assault unit. Shoots Broodlings at its target. A Broodling is a small creature that can attack ground units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Heavy-fire support mech.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Anti-air defensive structure.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Fast scout.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Hellbat each battle phase. If you attach a Reactor it sends 2 Hellbats instead. If you attach a Tech Lab it sends 1 Siege Tank instead.",
+    "cn": ""
+  },
+  {
+    "en": "Stealth anti-air fighter.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Capital ship. Can build and launch Interceptors to make attacks.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Whenever its owner plays an Evolution card, this structure (1) gives all of its owner's units +10 life and (2) draws its owner a card.",
+    "cn": ""
+  },
+  {
+    "en": "Whenever its owner gains a 0-cost spawn card, they send copies of all of the units on that card.",
+    "cn": ""
+  },
+  {
+    "en": "Inside this cocoon is a powerful psionic being undergoing infestation.",
+    "cn": ""
+  },
+  {
+    "en": "Battle strider with a powerful area attack. Can step up and down cliffs. Can be targeted by anti-air weapons.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "General-purpose infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Anti-air flyer. Can use Caustic Spray. Can morph into a Brood Lord.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Mobile air fighter. Uses Disruption Web on clusters of ground units, disabling their weapons.<n/><n/><c val=\"ffff8a\">Can attack air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Just a box, nothing to see here. Wait, did it just move?!",
+    "cn": ""
+  },
+  {
+    "en": "Small insect native to Redstone. When its colony is threatened it can explode, spraying lava on the intruder.",
+    "cn": ""
+  },
+  {
+    "en": "Gives a 50% chance to revive its owner's slain biological Protoss units as Stalkers. Controlling multiple Cybernetics Cores will increase the revive chance.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it converts 1 biological Protoss unit on a card in its owner's hand into a Dark Templar.",
+    "cn": ""
+  },
+  {
+    "en": "Support caster.<n/><n/>Uses Dark Swarm to protect allied units from ranged damage.<n/><n/>Uses Plague on clusters of enemy units, dealing damage over time.",
+    "cn": ""
+  },
+  {
+    "en": "A powerful primal Zerg. Has the Frenzy buff which makes it immune to most movement modifying abilities.",
+    "cn": ""
+  },
+  {
+    "en": "Suicide unit. Can swoop towards air or ground units and explode.",
+    "cn": ""
+  },
+  {
+    "en": "Primal pack leader. Automatically shoots a 20 damage spine at anyone who damages him.",
+    "cn": ""
+  },
+  {
+    "en": "Primal pack leader. Spits powerful fireballs at a long range.",
+    "cn": ""
+  },
+  {
+    "en": "A stationary defensive detector. Can move forward once per battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Robotic disruption unit. Can use Purification Nova to deal heavy area damage.",
+    "cn": ""
+  },
+  {
+    "en": "Ranged assault strider.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Dragoon each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner's biological units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Hellbat each battle phase. If you attach a Reactor it sends 2 Hellbats instead. If you attach a Tech Lab it sends 1 Siege Tank instead. If you attach a Machine Shop it sends 1 Goliath instead.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Vulture each battle phase. If you attach a Reactor it sends 2 Vultures instead. If you attach a Tech Lab it sends 1 Siege Tank instead. If you attach a Machine Shop it sends 1 Goliath instead.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy flamethrower infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it fetches a unit card that sends Carriers or Tempests from its owner's deck. If that fetch succeeds, its owner skips the draw step of the next play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends a Probe to build a Photon Cannon whenever its owner plays a structure card.",
+    "cn": ""
+  },
+  {
+    "en": "Increases the energy regeneration rate of its owner's units, and halves their ability cooldowns.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Zealot each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Stalker each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Supplicant each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Destroy the enemy Xel'Naga Keystone to win, and protect yours at all costs!",
+    "cn": ""
+  },
+  {
+    "en": "Sniper.<n/><n/>Uses Steady Targeting on tough biological targets, which deals solid damage.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<n/><n/>If Tactical, uses Cloak when retreating.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Gives Ghosts and Spectres +3 range.<n/><n/>Prevents enemy card effects from targeting Ghosts and Spectres.",
+    "cn": ""
+  },
+  {
+    "en": "Mysterious sniper.<n/><n/>Uses Steady Targeting on tough biological targets, which deals solid damage.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Brood Lord Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Suicide unit. Does damage over a small area on death.",
+    "cn": ""
+  },
+  {
+    "en": "Potent psionic master.<n/><n/>Uses Psionic Storm on clusters of enemy units, dealing damage over time.<n/><n/>Uses Feedback on units with energy, which drains that energy and deals damage to the target.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Highlord of the Tal'darim.<n/><n/>Uses Destruction Wave on clusters of enemy units, dealing 50 damage in an area.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful hybrid monster. Can be upgraded to have extremely high armor.",
+    "cn": ""
+  },
+  {
+    "en": "Psionic hybrid monster.",
+    "cn": ""
+  },
+  {
+    "en": "Psionic hybrid monster.<n/><n/>Uses Psi Storm on clusters of enemy units, dealing damage over time.<n/><n/>Uses Psionic Shockwave when surrounding, dealing damage to all nearby enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Flying hybrid. Can be upgraded to have increased range.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful hybrid monster.",
+    "cn": ""
+  },
+  {
+    "en": "Ranged attacker. Can morph into a Lurker.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Hydralisk Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Assault strider. Can use Barrier to absorb damage.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Aerial support unit.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Revives its owner's Infested units as Infested Civilians when they die.",
+    "cn": ""
+  },
+  {
+    "en": "Infestation specialist. Uses Fungal Growth on clusters of enemy units, which reduces their movement and deals damage over time.<n/><n/>Uses Microbial Shroud to protect friendly units from air attacks.",
+    "cn": ""
+  },
+  {
+    "en": "An Infested Terran does moderate damage.<n/><n/><c val=\"FFFF8A\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Combat drones that automatically strafe their Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Barrier that lasts <d time=\"15\"/> and impedes movement of ground units. Massive units will shatter Force Fields on contact.",
+    "cn": ""
+  },
+  {
+    "en": "Engineering support unit.",
+    "cn": ""
+  },
+  {
+    "en": "Queen of Blades, ruler of the Zerg.<n/><n/>Uses Psi Storm on clusters of enemy units, dealing damage over time.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it adds a Lurker Spawn to its owner's hand if they control no Lurkers.<n/><n/>Each turn it orders one of its owner's Lurkers with no targets in range to unburrow and advance.",
+    "cn": ""
+  },
+  {
+    "en": "Anti-ground ambusher. Has a spine attack that damages all enemy units in its line of fire.<n/><n/><c val=\"ffff8a\">Can attack ground units.<n/>Must burrow to attack.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Changes the production of the attached structure.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy assault infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Support healer.",
+    "cn": ""
+  },
+  {
+    "en": "The central hub of the Terran Dominion.",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid with mechanical armor.",
+    "cn": ""
+  },
+  {
+    "en": "Ultimate Protoss vessel. Cloaks nearby friendly units and structures.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Mobile flying caster. Can upgrade into the Mothership.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Primal pack leader. Creates a wave of exploding creepers each turn.",
+    "cn": ""
+  },
+  {
+    "en": "Air unit. Bounces its shot to strike multiple targets.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Each turn one of its owners Roaches, Hydralisks, Mutalisks, or Corruptors mutates into its upgraded form.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner's mechanical units +2 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Sniper.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Spreads creep.",
+    "cn": ""
+  },
+  {
+    "en": "Its owner's ground units have rush and emerge from it.",
+    "cn": ""
+  },
+  {
+    "en": "Flying spy. Cloak renders the unit invisible to enemies without detection.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Flying caster. Attacks ground targets with Pulsar Beam.",
+    "cn": ""
+  },
+  {
+    "en": "Provides supply.<n/>Supply allows you to create more units.",
+    "cn": ""
+  },
+  {
+    "en": "A replacement for the Keystone! Each turn it gives a random Spawn card to each allied player who has played an Overmind card. That Spawn card has double the normal unit count.",
+    "cn": ""
+  },
+  {
+    "en": "Air-superiority fighter.<n/><n/><c val=\"ffff8a\">Can attack air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Prevents each enemy player from spending 1 of his or her minerals.",
+    "cn": ""
+  },
+  {
+    "en": "Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": ""
+  },
+  {
+    "en": "Locks one opponent's card, preventing it from being played.<n/><n/>Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": ""
+  },
+  {
+    "en": "Defensive unit. Uses Transfusion to heal biological units and structures. Moves much faster on creep.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Support flyer.<n/><n/>Uses Ensnare to reveal enemy cloaked units.<n/><n/>Uses Spawn Broodlings on tough enemy ground units, dealing massive damage and spawning 2 Broodlings. Will also use Spawn Broodlings on ANY enemy ground unit as a last resort when close to death.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its team's heroic units +15% damage and +1 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Ranged artillery. Can use Corrosive Bile.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Aerial support unit. Uses Auto-Turrets to attack.<n/><n/>Uses Interference Matrix to disable the weapons and abilities of tough mechanical and psionic units.<n/><n/>Uses Anti-Armor Missile on clusters of enemy units and units with high armor, which reduces the armor of enemies in the blast radius.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Terran leader.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Doubles the production of the attached structure.",
+    "cn": ""
+  },
+  {
+    "en": "Raider. Can jump up and down cliffs. Regenerates life quickly while out of combat. Can use KD8 Charge.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Xenomorph Research card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Assault unit. Regenerates life quickly when burrowed. Can morph into a Ravager.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Roach Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Its owner reduces upkeep costs (resource costs you pay each turn, like those on Carrier cards) by 2 minerals and 2 gas.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Immortal each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Disruptor each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Robotics Warp card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Basic worker unit. Can gather resources, build Terran structures, and repair.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner a 10% chance to revive slain Infested units as Infested Marines.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner a 75% chance to revive slain Infested units as Infested Civilians.",
+    "cn": ""
+  },
+  {
+    "en": "Infested defensive structure. Uproots and attacks if there are any Infested units in front of it at the start of the battle phase. <n/>Infantry fights from inside. <n/><n/><c val=\"#ColorAttackInfo\">Bonus: +1 range to units inside.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Uprooted attack structure.",
+    "cn": ""
+  },
+  {
+    "en": "Aerial support unit.<n/><n/>Uses Irradiate on clusters of enemy biological units, which deals damage over time.<n/><n/>Uses Defensive Matrix on friendly units to protect them.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Mutalisk Spawn or Scourge Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Long-ranged detector.",
+    "cn": ""
+  },
+  {
+    "en": "Energy-manipulator unit. Uses Guardian Shield to protect nearby units from ranged damage.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Alarak is invulnerable until this structure is destroyed.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val=\"FFFF8A\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Heavy tank. Can switch into Tank Mode to provide mobile tank support.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Zergling Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Psionic assault soldier.<n/><n/>Uses Ultrasonic Pulse to briefly stun clusters of enemy units.<n/><n/>If Tactical, uses Cloak when retreating.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Mutalisk Spawn or Corruptor Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Ranged support strider.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Phoenix each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Scout each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Void Ray each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Star Warp card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Viking each battle phase. If you attach a Reactor it sends 2 Vikings instead. If you attach a Tech Lab it sends 1 Banshee instead.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Wraith each battle phase. If you attach a Reactor it sends 2 Wraiths instead. If you attach a Tech Lab it sends 1 Banshee instead.",
+    "cn": ""
+  },
+  {
+    "en": "Locks a unit in a Stasis Prison until destroyed.<n/><n/>Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": ""
+  },
+  {
+    "en": "When destroyed, its owner discards a random card.",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Swarmling Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Siege artillery craft. Attacks from long range.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Whenever its owner plays an action card that costs 8 or less, that card gets shuffled back into the deck instead of being discarded.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy assault mech.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it shuffles the most expensive card its owner can't afford back into their deck. Then they draw a card.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy assault beast. Has an area-damage attack and the Frenzy buff which makes it immune to most movement modifying abilities.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds an Ultralisk Spawn card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "A savage bear-like creature from the frozen planet of Braxis.",
+    "cn": ""
+  },
+  {
+    "en": "Artillery fighter. Loaded with missiles that deal area damage to enemy air targets.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it adds a Vespene Cube to its owners hand if they have unspent Vespene Gas.",
+    "cn": ""
+  },
+  {
+    "en": "Durable support unit. Can switch into Fighter Mode to attack air units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Durable support flyer. Loaded with strong anti-capital air missiles. Can switch into Assault Mode to attack ground units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Flying caster. Able to manipulate battlefield conditions.<n/><n/>Uses Abduct to pull defensive units to your team's defensive area.<n/><n/>Uses Parasitic Bomb on clusters of enemy air units, dealing damage over time.",
+    "cn": ""
+  },
+  {
+    "en": "Surgical strike craft.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Fast skirmisher.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Warp In card to its owner's hand each play phase.",
+    "cn": ""
+  },
+  {
+    "en": "Ranged specialist. Can use Psionic Transfer.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Inferior Protoss warrior.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Stealth anti-air fighter.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful melee warrior.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Fast melee creature. Can morph into a Baneling.<n/><n/><c val=\"FFFF8A\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Primal Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Protoss Building Armor",
+    "cn": ""
+  },
+  {
+    "en": "Void Armor",
+    "cn": ""
+  },
+  {
+    "en": "Zerg Ground Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Zerg Building Armor",
+    "cn": ""
+  },
+  {
+    "en": "Zerg Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Aberration",
+    "cn": ""
+  },
+  {
+    "en": "Activation Bay",
+    "cn": ""
+  },
+  {
+    "en": "Adept",
+    "cn": ""
+  },
+  {
+    "en": "Adept Taldarim",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser Copy",
+    "cn": ""
+  },
+  {
+    "en": "Arbiter - Syndrea",
+    "cn": ""
+  },
+  {
+    "en": "Archon",
+    "cn": ""
+  },
+  {
+    "en": "Archon - Ulrezaj",
+    "cn": ""
+  },
+  {
+    "en": "Armament Bay",
+    "cn": ""
+  },
+  {
+    "en": "Hierarch - Artanis",
+    "cn": ""
+  },
+  {
+    "en": "Ballistics Bay",
+    "cn": ""
+  },
+  {
+    "en": "Baneling",
+    "cn": ""
+  },
+  {
+    "en": "Barracks",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser - Aleksander",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser - Norad II",
+    "cn": ""
+  },
+  {
+    "en": "Brood Lord",
+    "cn": ""
+  },
+  {
+    "en": "Brutalisk",
+    "cn": ""
+  },
+  {
+    "en": "Cargo Truck",
+    "cn": ""
+  },
+  {
+    "en": "Carrier - Andraxxus",
+    "cn": ""
+  },
+  {
+    "en": "Carrier - Gantrithor",
+    "cn": ""
+  },
+  {
+    "en": "Carrier",
+    "cn": ""
+  },
+  {
+    "en": "Cerebrate",
+    "cn": ""
+  },
+  {
+    "en": "Cerebrate - Daggoth",
+    "cn": ""
+  },
+  {
+    "en": "Chrysalis",
+    "cn": ""
+  },
+  {
+    "en": "Colossus",
+    "cn": ""
+  },
+  {
+    "en": "Commander",
+    "cn": ""
+  },
+  {
+    "en": "Corruptor",
+    "cn": ""
+  },
+  {
+    "en": "Space Cattle",
+    "cn": ""
+  },
+  {
+    "en": "Marine",
+    "cn": ""
+  },
+  {
+    "en": "Dark Templar - Fallen Hero",
+    "cn": ""
+  },
+  {
+    "en": "Dark Templar - Raszagal",
+    "cn": ""
+  },
+  {
+    "en": "Primal King - Dehaka",
+    "cn": ""
+  },
+  {
+    "en": "Winged Creeper",
+    "cn": ""
+  },
+  {
+    "en": "Pack Devourer - Dakrun",
+    "cn": ""
+  },
+  {
+    "en": "Greater Wurm - Glevig",
+    "cn": ""
+  },
+  {
+    "en": "Primal Alpha - Dehaka",
+    "cn": ""
+  },
+  {
+    "en": "Primal Wurm",
+    "cn": ""
+  },
+  {
+    "en": "Diamondback",
+    "cn": ""
+  },
+  {
+    "en": "Disruptor",
+    "cn": ""
+  },
+  {
+    "en": "Faithful Hound",
+    "cn": ""
+  },
+  {
+    "en": "Dragoon",
+    "cn": ""
+  },
+  {
+    "en": "Dragoon - Fenix",
+    "cn": ""
+  },
+  {
+    "en": "Dragoon Shrine",
+    "cn": ""
+  },
+  {
+    "en": "Factory",
+    "cn": ""
+  },
+  {
+    "en": "Fallen Xel'naga - Amon",
+    "cn": ""
+  },
+  {
+    "en": "Firebat",
+    "cn": ""
+  },
+  {
+    "en": "Gateway",
+    "cn": ""
+  },
+  {
+    "en": "Xel'naga Keystone",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Duran",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Stukov",
+    "cn": ""
+  },
+  {
+    "en": "Goliath",
+    "cn": ""
+  },
+  {
+    "en": "GoliathAWeapon",
+    "cn": ""
+  },
+  {
+    "en": "Creeper",
+    "cn": ""
+  },
+  {
+    "en": "Guardian",
+    "cn": ""
+  },
+  {
+    "en": "Hercules Dropship",
+    "cn": ""
+  },
+  {
+    "en": "High Templar - Ma'lash",
+    "cn": ""
+  },
+  {
+    "en": "High Templar",
+    "cn": ""
+  },
+  {
+    "en": "High Templar - Tassadar",
+    "cn": ""
+  },
+  {
+    "en": "High Templar Weapon Missile Malash",
+    "cn": ""
+  },
+  {
+    "en": "Highlord - Alarak",
+    "cn": ""
+  },
+  {
+    "en": "Leviathan",
+    "cn": ""
+  },
+  {
+    "en": "Seeker Copy",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Behemoth",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Destroyer",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Destroyer Structure Kill Missile",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Dominator",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Nemesis",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Reaver",
+    "cn": ""
+  },
+  {
+    "en": "Hydralisk",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser - Hyperion",
+    "cn": ""
+  },
+  {
+    "en": "Hyperion Yamato",
+    "cn": ""
+  },
+  {
+    "en": "Immortal",
+    "cn": ""
+  },
+  {
+    "en": "Imperial Witness",
+    "cn": ""
+  },
+  {
+    "en": "Infested Civilian",
+    "cn": ""
+  },
+  {
+    "en": "Volatile Infested",
+    "cn": ""
+  },
+  {
+    "en": "Infested Marine",
+    "cn": ""
+  },
+  {
+    "en": "Interceptor Andraxxus",
+    "cn": ""
+  },
+  {
+    "en": "Interceptor Gantrithor",
+    "cn": ""
+  },
+  {
+    "en": "Interceptor",
+    "cn": ""
+  },
+  {
+    "en": "Invisible Force Field",
+    "cn": ""
+  },
+  {
+    "en": "Phase-Smith - Karax",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Kerrigan",
+    "cn": ""
+  },
+  {
+    "en": "Queen of Blades - Kerrigan",
+    "cn": ""
+  },
+  {
+    "en": "Lurker",
+    "cn": ""
+  },
+  {
+    "en": "Wild Lyote",
+    "cn": ""
+  },
+  {
+    "en": "Machine Shop",
+    "cn": ""
+  },
+  {
+    "en": "Marauder",
+    "cn": ""
+  },
+  {
+    "en": "Marauder - Swann",
+    "cn": ""
+  },
+  {
+    "en": "Medic",
+    "cn": ""
+  },
+  {
+    "en": "Medic - Lt. Morales",
+    "cn": ""
+  },
+  {
+    "en": "Medic - Stetmann",
+    "cn": ""
+  },
+  {
+    "en": "Mengsk's Palace",
+    "cn": ""
+  },
+  {
+    "en": "Reaper",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Hybrid",
+    "cn": ""
+  },
+  {
+    "en": "Mothership",
+    "cn": ""
+  },
+  {
+    "en": "Hollow Mother - Murvar",
+    "cn": ""
+  },
+  {
+    "en": "Mutalisk",
+    "cn": ""
+  },
+  {
+    "en": "Mutation Chamber",
+    "cn": ""
+  },
+  {
+    "en": "Mystery Box",
+    "cn": ""
+  },
+  {
+    "en": "Neosteel Armory",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Nova",
+    "cn": ""
+  },
+  {
+    "en": "Creep Colony",
+    "cn": ""
+  },
+  {
+    "en": "Primal Wurm DeepTunnelPlacement",
+    "cn": ""
+  },
+  {
+    "en": "Observer",
+    "cn": ""
+  },
+  {
+    "en": "Thor",
+    "cn": ""
+  },
+  {
+    "en": "Overlord",
+    "cn": ""
+  },
+  {
+    "en": "Overmind",
+    "cn": ""
+  },
+  {
+    "en": "OvermindRumble",
+    "cn": ""
+  },
+  {
+    "en": "Phoenix",
+    "cn": ""
+  },
+  {
+    "en": "Physics Lab",
+    "cn": ""
+  },
+  {
+    "en": "Psi Disruptor",
+    "cn": ""
+  },
+  {
+    "en": "Pylon",
+    "cn": ""
+  },
+  {
+    "en": "Argus Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Queen - Kilysa",
+    "cn": ""
+  },
+  {
+    "en": "Queen MPSpawn Broodlings Missile Copy",
+    "cn": ""
+  },
+  {
+    "en": "Queen - Rokarr",
+    "cn": ""
+  },
+  {
+    "en": "Queen - Zagara",
+    "cn": ""
+  },
+  {
+    "en": "Raider's Cache",
+    "cn": ""
+  },
+  {
+    "en": "Ravager",
+    "cn": ""
+  },
+  {
+    "en": "Commander - Jim Raynor",
+    "cn": ""
+  },
+  {
+    "en": "Reaver",
+    "cn": ""
+  },
+  {
+    "en": "Lava Beetle",
+    "cn": ""
+  },
+  {
+    "en": "Research Facility",
+    "cn": ""
+  },
+  {
+    "en": "Roach",
+    "cn": ""
+  },
+  {
+    "en": "Robotics Facility",
+    "cn": ""
+  },
+  {
+    "en": "Warp Facility",
+    "cn": ""
+  },
+  {
+    "en": "SCV",
+    "cn": ""
+  },
+  {
+    "en": "Infested Barracks",
+    "cn": ""
+  },
+  {
+    "en": "Infested Compound",
+    "cn": ""
+  },
+  {
+    "en": "Infested Bunker",
+    "cn": ""
+  },
+  {
+    "en": "Infested SCV",
+    "cn": ""
+  },
+  {
+    "en": "Science Vessel",
+    "cn": ""
+  },
+  {
+    "en": "Scourge",
+    "cn": ""
+  },
+  {
+    "en": "Spire",
+    "cn": ""
+  },
+  {
+    "en": "Scout",
+    "cn": ""
+  },
+  {
+    "en": "Sentry",
+    "cn": ""
+  },
+  {
+    "en": "Shield Projector",
+    "cn": ""
+  },
+  {
+    "en": "Siege Tank - Admiral Duke",
+    "cn": ""
+  },
+  {
+    "en": "Siege Tank - Colonel Duke",
+    "cn": ""
+  },
+  {
+    "en": "Siege Tank",
+    "cn": ""
+  },
+  {
+    "en": "Spectre",
+    "cn": ""
+  },
+  {
+    "en": "Spider Mine",
+    "cn": ""
+  },
+  {
+    "en": "Stalker",
+    "cn": ""
+  },
+  {
+    "en": "Stalker Copy",
+    "cn": ""
+  },
+  {
+    "en": "Stargate",
+    "cn": ""
+  },
+  {
+    "en": "Warp Stargate",
+    "cn": ""
+  },
+  {
+    "en": "Starport",
+    "cn": ""
+  },
+  {
+    "en": "Stasis Crystal",
+    "cn": ""
+  },
+  {
+    "en": "Sunken Colony",
+    "cn": ""
+  },
+  {
+    "en": "Supplicant",
+    "cn": ""
+  },
+  {
+    "en": "Supply Depot",
+    "cn": ""
+  },
+  {
+    "en": "Swarmling Pool",
+    "cn": ""
+  },
+  {
+    "en": "Dominion Barricade",
+    "cn": ""
+  },
+  {
+    "en": "Tempest",
+    "cn": ""
+  },
+  {
+    "en": "Tempest Weapon (Ground) Sieging",
+    "cn": ""
+  },
+  {
+    "en": "Terran Add-On Placement Dummy",
+    "cn": ""
+  },
+  {
+    "en": "Thor - Odin",
+    "cn": ""
+  },
+  {
+    "en": "Trophy",
+    "cn": ""
+  },
+  {
+    "en": "Ultralisk",
+    "cn": ""
+  },
+  {
+    "en": "Ultralisk - Torrasque",
+    "cn": ""
+  },
+  {
+    "en": "Valkyrie",
+    "cn": ""
+  },
+  {
+    "en": "Valkyrie Damage Missile",
+    "cn": ""
+  },
+  {
+    "en": "Vespene Compressor",
+    "cn": ""
+  },
+  {
+    "en": "Viking",
+    "cn": ""
+  },
+  {
+    "en": "Viper Consume Structure",
+    "cn": ""
+  },
+  {
+    "en": "Void Ray",
+    "cn": ""
+  },
+  {
+    "en": "Void Ray Copy",
+    "cn": ""
+  },
+  {
+    "en": "Vulture",
+    "cn": ""
+  },
+  {
+    "en": "Wraith",
+    "cn": ""
+  },
+  {
+    "en": "Zealot - Aldaris",
+    "cn": ""
+  },
+  {
+    "en": "Zealot - Fenix",
+    "cn": ""
+  },
+  {
+    "en": "Zealot",
+    "cn": ""
+  },
+  {
+    "en": "Dark Templar - Zeratul",
+    "cn": ""
+  },
+  {
+    "en": "Zergling",
+    "cn": ""
+  },
+  {
+    "en": "Zergling Copy",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Shields",
+    "cn": ""
+  },
+  {
+    "en": "Void Shields",
+    "cn": ""
+  },
+  {
+    "en": "Glaive Cannon",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Lightning",
+    "cn": ""
+  },
+  {
+    "en": "Phase Disruptor Cannon",
+    "cn": ""
+  },
+  {
+    "en": "Twilight Blades",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Assault",
+    "cn": ""
+  },
+  {
+    "en": "Brutalize",
+    "cn": ""
+  },
+  {
+    "en": "Volatile Burst",
+    "cn": ""
+  },
+  {
+    "en": "Bane Blades",
+    "cn": ""
+  },
+  {
+    "en": "Claws",
+    "cn": ""
+  },
+  {
+    "en": "Aerial Burst Sacs",
+    "cn": ""
+  },
+  {
+    "en": "Swooping Burst",
+    "cn": ""
+  },
+  {
+    "en": "Viscous Bile",
+    "cn": ""
+  },
+  {
+    "en": "Corrosive Acid",
+    "cn": ""
+  },
+  {
+    "en": "Eviscerator Rail Gun",
+    "cn": ""
+  },
+  {
+    "en": "Phase Disruptor",
+    "cn": ""
+  },
+  {
+    "en": "Dummy Detector Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Dummy Disruptor Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Dummy Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Punisher Grenades",
+    "cn": ""
+  },
+  {
+    "en": "Perdition Flamethrower",
+    "cn": ""
+  },
+  {
+    "en": "Hellfire Missiles",
+    "cn": ""
+  },
+  {
+    "en": "Autocannon",
+    "cn": ""
+  },
+  {
+    "en": "HALO Cluster Rockets",
+    "cn": ""
+  },
+  {
+    "en": "Bile Swarm",
+    "cn": ""
+  },
+  {
+    "en": "Tentacles",
+    "cn": ""
+  },
+  {
+    "en": "Void Blast",
+    "cn": ""
+  },
+  {
+    "en": "Void Blast Copy",
+    "cn": ""
+  },
+  {
+    "en": "Psi Blast",
+    "cn": ""
+  },
+  {
+    "en": "Annihilation Beam",
+    "cn": ""
+  },
+  {
+    "en": "Pustulant Smash",
+    "cn": ""
+  },
+  {
+    "en": "Neosteel Claws",
+    "cn": ""
+  },
+  {
+    "en": "Infested Gauss Rifle",
+    "cn": ""
+  },
+  {
+    "en": "Interceptor Launch Copy",
+    "cn": ""
+  },
+  {
+    "en": "Interceptor Launch Purification",
+    "cn": ""
+  },
+  {
+    "en": "Javelin Missile Launchers Copy",
+    "cn": ""
+  },
+  {
+    "en": "Javelin Missile Launchers",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Blast",
+    "cn": ""
+  },
+  {
+    "en": "Impaling Spikes",
+    "cn": ""
+  },
+  {
+    "en": "D8 Charge",
+    "cn": ""
+  },
+  {
+    "en": "C-20A Canister Rifle",
+    "cn": ""
+  },
+  {
+    "en": "Hellfire Shotgun",
+    "cn": ""
+  },
+  {
+    "en": "Odin's Hammer",
+    "cn": ""
+  },
+  {
+    "en": "Particle Disruptors",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Shockwave",
+    "cn": ""
+  },
+  {
+    "en": "C-14 Gauss Rifle",
+    "cn": ""
+  },
+  {
+    "en": "Scarab",
+    "cn": ""
+  },
+  {
+    "en": "Antimatter Missiles",
+    "cn": ""
+  },
+  {
+    "en": "Photon Blasters",
+    "cn": ""
+  },
+  {
+    "en": "Servitor Beam",
+    "cn": ""
+  },
+  {
+    "en": "Acid Saliva",
+    "cn": ""
+  },
+  {
+    "en": "AGR-14 Rifle",
+    "cn": ""
+  },
+  {
+    "en": "Suicide",
+    "cn": ""
+  },
+  {
+    "en": "Subterranean Tentacle",
+    "cn": ""
+  },
+  {
+    "en": "Blood Orb",
+    "cn": ""
+  },
+  {
+    "en": "Claw",
+    "cn": ""
+  },
+  {
+    "en": "Resonance Coil",
+    "cn": ""
+  },
+  {
+    "en": "Thermal Lance",
+    "cn": ""
+  },
+  {
+    "en": "Thor's Hammer",
+    "cn": ""
+  },
+  {
+    "en": "Transient Dummy Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Void Missiles",
+    "cn": ""
+  },
+  {
+    "en": "Fragmentation Grenade",
+    "cn": ""
+  },
+  {
+    "en": "Gemini Missiles",
+    "cn": ""
+  },
+  {
+    "en": "Burst Lasers",
+    "cn": ""
+  },
+  {
+    "en": "Spit Fire",
+    "cn": ""
+  },
+  {
+    "en": "Psi Plast",
+    "cn": ""
+  }
+]

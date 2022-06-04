@@ -1,0 +1,7 @@
+﻿Button/Hotkey/BuildGoliath=E
+Button/Hotkey/BuildPsiDisruptor=T
+Button/Hotkey/BuildVulture=E
+Button/Hotkey/BuildVultureFactory=F
+Button/Hotkey/BuildWraith=V
+Button/Hotkey/MarineDominion=A
+Button/Hotkey/WarpInDragoon=S
